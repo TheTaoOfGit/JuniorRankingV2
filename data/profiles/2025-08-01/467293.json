@@ -1,0 +1,132 @@
+{
+  "usab_id": "467293",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 2027,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "656"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1896,
+      "rank": 76,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "656"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "87"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 3272,
+      "rank": 99,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "1166"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 2974,
+      "rank": 79,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "1166"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    }
+  ],
+  "name": "Adithi Krishnan",
+  "year_of_birth": null,
+  "gender": "F"
+}

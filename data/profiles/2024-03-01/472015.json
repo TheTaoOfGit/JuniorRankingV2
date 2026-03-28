@@ -1,0 +1,33 @@
+{
+  "usab_id": "472015",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 547,
+      "rank": 107,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 547,
+      "rank": 130,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Ananya Iyer",
+  "year_of_birth": null,
+  "gender": "F"
+}

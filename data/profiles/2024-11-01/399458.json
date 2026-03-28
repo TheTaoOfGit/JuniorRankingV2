@@ -1,0 +1,110 @@
+{
+  "usab_id": "399458",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 845,
+      "rank": 138,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "97-128",
+          "points": "291"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 3123,
+      "rank": 87,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "787"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 1431,
+      "rank": 168,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    }
+  ],
+  "name": "Kerrick Hu",
+  "year_of_birth": null,
+  "gender": "M"
+}

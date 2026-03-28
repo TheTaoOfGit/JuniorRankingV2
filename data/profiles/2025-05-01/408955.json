@@ -1,0 +1,33 @@
+{
+  "usab_id": "408955",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 648,
+      "rank": 216,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 1013,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Amanda Zhong",
+  "year_of_birth": null,
+  "gender": "XD"
+}

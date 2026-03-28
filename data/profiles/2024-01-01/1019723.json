@@ -1,0 +1,45 @@
+{
+  "usab_id": "1019723",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1296,
+      "rank": 221,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 648,
+      "rank": 133,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1377,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        }
+      ]
+    }
+  ],
+  "name": "Ashley Kwan",
+  "year_of_birth": null,
+  "gender": "XD"
+}

@@ -1,0 +1,147 @@
+{
+  "usab_id": "470241",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 3507,
+      "rank": 8,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1531"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "765"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 3294,
+      "rank": 21,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1360"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "723"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 2337,
+      "rank": 39,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "13-16",
+          "points": "595"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Mingyuan Zang",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "confirmed"
+}

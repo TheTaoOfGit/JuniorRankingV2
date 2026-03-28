@@ -1,0 +1,107 @@
+{
+  "usab_id": "1006358",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 21930,
+      "rank": 26,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "9180"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 18240,
+      "rank": 19,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "3240"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 27610,
+      "rank": 14,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "8000"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        }
+      ]
+    }
+  ],
+  "name": "Meghana Nishant",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2009,
+  "year_of_birth_confidence": "confirmed"
+}

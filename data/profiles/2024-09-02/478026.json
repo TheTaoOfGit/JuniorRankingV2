@@ -1,0 +1,60 @@
+{
+  "usab_id": "478026",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 372,
+      "rank": 103,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 315,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 544,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Eesha Vikram",
+  "year_of_birth": null,
+  "gender": "F"
+}

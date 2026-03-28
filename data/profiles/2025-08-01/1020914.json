@@ -1,0 +1,80 @@
+{
+  "usab_id": "1020914",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 8910,
+      "rank": 27,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 6075,
+      "rank": 87,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 4590,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Yifan Liu",
+  "year_of_birth": null,
+  "gender": "M"
+}

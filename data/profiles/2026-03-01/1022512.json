@@ -1,0 +1,189 @@
+{
+  "usab_id": "1022512",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 11732,
+      "rank": 25,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "5",
+          "points": "4374"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 12790,
+      "rank": 25,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "3791"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2624"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 12269,
+      "rank": 15,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "3791"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2624"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 11197,
+      "rank": 31,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "2624"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Jessica Zhang",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2011,
+  "year_of_birth_confidence": "confirmed"
+}

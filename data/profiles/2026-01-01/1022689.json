@@ -1,0 +1,117 @@
+{
+  "usab_id": "1022689",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 5869,
+      "rank": 70,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 5160,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "13-16",
+          "points": "2041"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 7363,
+      "rank": 51,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9 to 12",
+          "points": "2624"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Allison Zhao",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2011,
+  "year_of_birth_confidence": "confirmed"
+}

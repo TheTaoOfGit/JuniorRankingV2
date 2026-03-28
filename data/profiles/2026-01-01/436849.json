@@ -1,0 +1,92 @@
+{
+  "usab_id": "436849",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 1409,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "354"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 1999,
+      "rank": 25,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 1721,
+      "rank": 58,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Ivy Chang",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "confirmed"
+}

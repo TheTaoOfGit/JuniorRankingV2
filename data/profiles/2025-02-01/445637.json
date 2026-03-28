@@ -1,0 +1,95 @@
+{
+  "usab_id": "445637",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 1935,
+      "rank": 27,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9 to 12",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "3",
+          "points": "723"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1590,
+      "rank": 59,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9 to 12",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 1190,
+      "rank": 97,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9 to 16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Sreeskandan Saravanan",
+  "year_of_birth": null,
+  "gender": "M"
+}

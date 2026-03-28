@@ -1,0 +1,112 @@
+{
+  "usab_id": "1022025",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 6426,
+      "rank": 32,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "1620"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 7047,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 5333,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Trilochan Janakiraman",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2010,
+  "year_of_birth_confidence": "confirmed"
+}

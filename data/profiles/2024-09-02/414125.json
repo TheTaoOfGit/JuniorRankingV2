@@ -1,0 +1,33 @@
+{
+  "usab_id": "414125",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 4000,
+      "rank": 160,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 4000,
+      "rank": 85,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Allyson Lam",
+  "year_of_birth": null,
+  "gender": "F"
+}

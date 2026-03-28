@@ -1,0 +1,95 @@
+{
+  "usab_id": "1021951",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1539,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 2566,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 1495,
+      "rank": 157,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    }
+  ],
+  "name": "Vedanth Gundarapu",
+  "year_of_birth": null,
+  "gender": "M"
+}

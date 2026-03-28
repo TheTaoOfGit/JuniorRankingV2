@@ -1,0 +1,80 @@
+{
+  "usab_id": "481060",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 728,
+      "rank": 43,
+      "tournaments": [
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 969,
+      "rank": 16,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 315,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Royi Huang",
+  "year_of_birth": null,
+  "gender": "F"
+}

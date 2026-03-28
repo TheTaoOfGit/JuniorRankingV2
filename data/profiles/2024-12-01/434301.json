@@ -1,0 +1,135 @@
+{
+  "usab_id": "434301",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 1106,
+      "rank": 59,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 1721,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "5-8",
+          "points": "531"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 2550,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "2",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Xirui Wang",
+  "year_of_birth": null,
+  "gender": "F"
+}

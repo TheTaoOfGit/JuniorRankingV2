@@ -1,0 +1,87 @@
+{
+  "usab_id": "1020874",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 3433,
+      "rank": 77,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "787"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 1619,
+      "rank": 175,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 5254,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 2754,
+      "rank": 139,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    }
+  ],
+  "name": "Atticus Yong",
+  "year_of_birth": null,
+  "gender": "M"
+}

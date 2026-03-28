@@ -1,0 +1,75 @@
+{
+  "usab_id": "437457",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 701,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 464,
+      "rank": 97,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 772,
+      "rank": 102,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Ridha Ahamed Mansoor",
+  "year_of_birth": null,
+  "gender": "F"
+}

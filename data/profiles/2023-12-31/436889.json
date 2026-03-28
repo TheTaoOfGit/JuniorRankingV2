@@ -1,0 +1,95 @@
+{
+  "usab_id": "436889",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 712,
+      "rank": 42,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "255"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2023 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 1153,
+      "rank": 49,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 797,
+      "rank": 77,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Evan Lu",
+  "year_of_birth": null,
+  "gender": "M"
+}

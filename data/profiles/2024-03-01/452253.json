@@ -1,0 +1,87 @@
+{
+  "usab_id": "452253",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 810,
+      "rank": 269,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1823,
+      "rank": 102,
+      "tournaments": [
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 5308,
+      "rank": 69,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2808,
+      "rank": 107,
+      "tournaments": [
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Nikki Yanjun Lang",
+  "year_of_birth": null,
+  "gender": "F"
+}

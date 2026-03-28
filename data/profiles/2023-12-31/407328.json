@@ -1,0 +1,70 @@
+{
+  "usab_id": "407328",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 525,
+      "rank": 167,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2023 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "87"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 2551,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 511,
+      "rank": 258,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    }
+  ],
+  "name": "Jonathan Chuang",
+  "year_of_birth": null,
+  "gender": "M"
+}

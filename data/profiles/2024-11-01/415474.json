@@ -1,0 +1,95 @@
+{
+  "usab_id": "415474",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 743,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "79"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1586,
+      "rank": 83,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 118,
+      "rank": 289,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    }
+  ],
+  "name": "Gautam Vasanth Raj",
+  "year_of_birth": null,
+  "gender": "M"
+}

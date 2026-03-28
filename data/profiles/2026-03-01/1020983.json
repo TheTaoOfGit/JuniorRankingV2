@@ -1,0 +1,92 @@
+{
+  "usab_id": "1020983",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 3000,
+      "rank": 119,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 17660,
+      "rank": 43,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 12070,
+      "rank": 58,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Justin Liaw",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2009,
+  "year_of_birth_confidence": "confirmed"
+}

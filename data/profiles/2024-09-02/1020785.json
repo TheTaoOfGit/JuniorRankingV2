@@ -1,0 +1,135 @@
+{
+  "usab_id": "1020785",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 9330,
+      "rank": 5,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "2",
+          "points": "2624"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "2624"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "787"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 10134,
+      "rank": 12,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7-8",
+          "points": "3208"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "2",
+          "points": "2624"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 8894,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "2624"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2624"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Terence Cai",
+  "year_of_birth": null,
+  "gender": "M"
+}

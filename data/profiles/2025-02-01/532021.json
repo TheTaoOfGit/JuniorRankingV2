@@ -1,0 +1,33 @@
+{
+  "usab_id": "532021",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1200,
+      "rank": 231,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1875,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1875"
+        }
+      ]
+    }
+  ],
+  "name": "Rebecca Gilbert",
+  "year_of_birth": null,
+  "gender": "XD"
+}

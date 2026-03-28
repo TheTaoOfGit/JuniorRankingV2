@@ -1,0 +1,100 @@
+{
+  "usab_id": "477374",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 608,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "191"
+        },
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 1021,
+      "rank": 35,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 277,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    }
+  ],
+  "name": "Jake Shi",
+  "year_of_birth": null,
+  "gender": "M"
+}

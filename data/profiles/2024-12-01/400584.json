@@ -1,0 +1,60 @@
+{
+  "usab_id": "400584",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1473,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 2041,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 839,
+      "rank": 231,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Daniel Xie",
+  "year_of_birth": null,
+  "gender": "M"
+}

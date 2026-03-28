@@ -1,0 +1,55 @@
+{
+  "usab_id": "437068",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 346,
+      "rank": 206,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 275,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 189,
+      "rank": 132,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Akshita Tripathi",
+  "year_of_birth": null,
+  "gender": "F"
+}

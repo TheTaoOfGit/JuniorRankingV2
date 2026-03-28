@@ -1,0 +1,60 @@
+{
+  "usab_id": "460632",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 340,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 244,
+      "rank": 50,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 430,
+      "rank": 44,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Fiona Liu",
+  "year_of_birth": null,
+  "gender": "XD"
+}

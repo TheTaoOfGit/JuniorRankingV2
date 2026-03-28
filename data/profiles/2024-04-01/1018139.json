@@ -1,0 +1,45 @@
+{
+  "usab_id": "1018139",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 9000,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "9000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 9000,
+      "rank": 49,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "9000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 13000,
+      "rank": 45,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "13000"
+        }
+      ]
+    }
+  ],
+  "name": "Rithika Oumapathy",
+  "year_of_birth": null,
+  "gender": "F"
+}

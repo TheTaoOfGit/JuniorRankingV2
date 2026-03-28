@@ -1,0 +1,233 @@
+{
+  "usab_id": "446477",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 4031,
+      "rank": 4,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1701"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        }
+      ]
+    },
+    {
+      "category": "BS U11",
+      "ranking_points": 3741,
+      "rank": 1,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1701"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 3356,
+      "rank": 20,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1446"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "765"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 3274,
+      "rank": 1,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1446"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "765"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 3230,
+      "rank": 18,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "5",
+          "points": "1275"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 3230,
+      "rank": 1,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "5",
+          "points": "1275"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Naksh Shetty",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2016,
+  "year_of_birth_confidence": "estimated"
+}

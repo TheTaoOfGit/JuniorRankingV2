@@ -1,0 +1,60 @@
+{
+  "usab_id": "2035618",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 8000,
+      "rank": 85,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 5000,
+      "rank": 142,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 12500,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Adam Tay",
+  "year_of_birth": null,
+  "gender": "M"
+}

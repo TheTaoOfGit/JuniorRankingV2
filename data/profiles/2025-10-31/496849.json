@@ -1,0 +1,35 @@
+{
+  "usab_id": "496849",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 157,
+      "rank": 252,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 157,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Aditi Dhanraj",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "estimated"
+}

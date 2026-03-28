@@ -1,0 +1,75 @@
+{
+  "usab_id": "449734",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 1063,
+      "rank": 20,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 808,
+      "rank": 18,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 1806,
+      "rank": 9,
+      "tournaments": [
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "13-16",
+          "points": "595"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Ellie Chen",
+  "year_of_birth": null,
+  "gender": "F"
+}

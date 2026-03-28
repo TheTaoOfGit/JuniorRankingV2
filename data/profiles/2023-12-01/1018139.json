@@ -1,0 +1,75 @@
+{
+  "usab_id": "1018139",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 15500,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "9000"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 14000,
+      "rank": 32,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "9000"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 19500,
+      "rank": 34,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "13000"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    }
+  ],
+  "name": "Rithika Oumapathy",
+  "year_of_birth": null,
+  "gender": "F"
+}

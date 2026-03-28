@@ -1,0 +1,100 @@
+{
+  "usab_id": "438597",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 32250,
+      "rank": 9,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "5",
+          "points": "15000"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "4",
+          "points": "8000"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 40500,
+      "rank": 1,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "2",
+          "points": "18000"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 26000,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7-8",
+          "points": "11000"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    }
+  ],
+  "name": "Shagunpreet Kaur",
+  "year_of_birth": null,
+  "gender": "F"
+}

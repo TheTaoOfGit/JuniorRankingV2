@@ -1,0 +1,107 @@
+{
+  "usab_id": "535103",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1363,
+      "rank": 202,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 934,
+      "rank": 134,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 3346,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Reya Santhosh",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2011,
+  "year_of_birth_confidence": "confirmed"
+}

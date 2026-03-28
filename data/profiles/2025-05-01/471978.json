@@ -1,0 +1,65 @@
+{
+  "usab_id": "471978",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 547,
+      "rank": 261,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 933,
+      "rank": 108,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "33-64",
+          "points": "87"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 2457,
+      "rank": 87,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Emma Qin",
+  "year_of_birth": null,
+  "gender": "F"
+}

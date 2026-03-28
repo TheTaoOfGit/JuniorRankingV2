@@ -1,0 +1,90 @@
+{
+  "usab_id": "479310",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 591,
+      "rank": 35,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "191"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 1233,
+      "rank": 21,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 85,
+      "rank": 155,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Timmy Fan",
+  "year_of_birth": null,
+  "gender": "M"
+}

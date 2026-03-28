@@ -1,0 +1,105 @@
+{
+  "usab_id": "1020252",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 8203,
+      "rank": 54,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "7-8",
+          "points": "3208"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 5081,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "2624"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 10412,
+      "rank": 37,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "7-8",
+          "points": "3208"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Kriti Vasireddy",
+  "year_of_birth": null,
+  "gender": "F"
+}

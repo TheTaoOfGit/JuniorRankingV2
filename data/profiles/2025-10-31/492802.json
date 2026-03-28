@@ -1,0 +1,72 @@
+{
+  "usab_id": "492802",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 786,
+      "rank": 91,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1024,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 393,
+      "rank": 204,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Shankar Namboothiri",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "estimated_likely"
+}

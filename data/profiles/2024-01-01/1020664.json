@@ -1,0 +1,75 @@
+{
+  "usab_id": "1020664",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 4593,
+      "rank": 52,
+      "tournaments": [
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 7555,
+      "rank": 50,
+      "tournaments": [
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 2079,
+      "rank": 185,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Kelvin Zhang",
+  "year_of_birth": null,
+  "gender": "M"
+}

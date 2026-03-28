@@ -1,0 +1,147 @@
+{
+  "usab_id": "1021785",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 6928,
+      "rank": 1,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2519"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1575"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "2",
+          "points": "1417"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1417"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1260"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 7740,
+      "rank": 8,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2519"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "1575"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1338"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 6416,
+      "rank": 1,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2519"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "1575"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1338"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 7401,
+      "rank": 2,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2834"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1575"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1575"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1417"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "2",
+          "points": "1417"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1338"
+        }
+      ]
+    }
+  ],
+  "name": "Lexuan Wen",
+  "year_of_birth": null,
+  "gender": "F"
+}

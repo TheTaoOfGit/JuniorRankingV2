@@ -1,0 +1,146 @@
+{
+  "usab_id": "1018891",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 24375,
+      "rank": 20,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "9000"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "8000"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 4725,
+      "rank": 130,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 6430,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "1080"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 2430,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "1080"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 13265,
+      "rank": 46,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "8000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 5265,
+      "rank": 79,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Eva Wang",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,55 @@
+{
+  "usab_id": "1018369",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2000,
+      "rank": 117,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "1000"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 5000,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 2500,
+      "rank": 142,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    }
+  ],
+  "name": "Patrick Xiao",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,65 @@
+{
+  "usab_id": "418257",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 716,
+      "rank": 33,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 448,
+      "rank": 25,
+      "tournaments": [
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5 to 8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 531,
+      "rank": 30,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Yvonne Yang",
+  "year_of_birth": null,
+  "gender": "F"
+}

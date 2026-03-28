@@ -1,0 +1,85 @@
+{
+  "usab_id": "1019515",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2970,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "1080"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "65-128",
+          "points": "270"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 5670,
+      "rank": 117,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 2970,
+      "rank": 164,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "1080"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "George Shen",
+  "year_of_birth": null,
+  "gender": "M"
+}

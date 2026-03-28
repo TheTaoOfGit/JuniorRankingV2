@@ -1,0 +1,77 @@
+{
+  "usab_id": "553778",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 323,
+      "rank": 219,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 323,
+      "rank": 104,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 655,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Diya Abbineni",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "confirmed"
+}

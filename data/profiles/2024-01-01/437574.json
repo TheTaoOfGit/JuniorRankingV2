@@ -1,0 +1,38 @@
+{
+  "usab_id": "437574",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 948,
+      "rank": 125,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "656"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 729,
+      "rank": 160,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Sanchita Devnath",
+  "year_of_birth": null,
+  "gender": "F"
+}

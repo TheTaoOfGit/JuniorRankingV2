@@ -1,0 +1,35 @@
+{
+  "usab_id": "554585",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 292,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 729,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Chloe Li",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2013,
+  "year_of_birth_confidence": "estimated_likely"
+}

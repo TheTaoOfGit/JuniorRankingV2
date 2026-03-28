@@ -1,0 +1,45 @@
+{
+  "usab_id": "541561",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 159,
+      "rank": 145,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 217,
+      "rank": 66,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    }
+  ],
+  "name": "Sloka Darbha",
+  "year_of_birth": null,
+  "gender": "F"
+}

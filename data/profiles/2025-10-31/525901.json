@@ -1,0 +1,50 @@
+{
+  "usab_id": "525901",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 519,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "354"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "17-32",
+          "points": "118"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "47"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 378,
+      "rank": 177,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Victor Dubuc",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "estimated_likely"
+}

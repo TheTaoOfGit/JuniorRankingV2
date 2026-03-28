@@ -1,0 +1,60 @@
+{
+  "usab_id": "468246",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 1458,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1458,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1458,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Surbhi Sakshi",
+  "year_of_birth": null,
+  "gender": "F"
+}

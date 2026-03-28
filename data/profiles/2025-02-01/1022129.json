@@ -1,0 +1,168 @@
+{
+  "usab_id": "1022129",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 15687,
+      "rank": 4,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "1",
+          "points": "5832"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "1",
+          "points": "1620"
+        }
+      ]
+    },
+    {
+      "category": "BS U15",
+      "ranking_points": 5832,
+      "rank": 9,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "1",
+          "points": "5832"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 18239,
+      "rank": 33,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "2",
+          "points": "5249"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "3",
+          "points": "2479"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 17718,
+      "rank": 6,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "2",
+          "points": "5249"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "3",
+          "points": "2479"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 7728,
+      "rank": 11,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "2",
+          "points": "5249"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "3",
+          "points": "2479"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 16983,
+      "rank": 10,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "1",
+          "points": "5832"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "2916"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 8748,
+      "rank": 7,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "1",
+          "points": "5832"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "2916"
+        }
+      ]
+    }
+  ],
+  "name": "Rithik Rasamsetti",
+  "year_of_birth": null,
+  "gender": "M"
+}

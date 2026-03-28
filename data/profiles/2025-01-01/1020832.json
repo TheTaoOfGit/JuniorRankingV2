@@ -1,0 +1,147 @@
+{
+  "usab_id": "1020832",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 8649,
+      "rank": 45,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "4",
+          "points": "2333"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "4",
+          "points": "2333"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 18873,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "1823"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 11856,
+      "rank": 14,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "1823"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 14213,
+      "rank": 13,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "6",
+          "points": "3791"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Diya Shetty",
+  "year_of_birth": null,
+  "gender": "F"
+}

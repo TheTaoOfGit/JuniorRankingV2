@@ -1,0 +1,26 @@
+{
+  "usab_id": "441929",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 1890,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Nandan Manjith",
+  "year_of_birth": null,
+  "gender": "M"
+}

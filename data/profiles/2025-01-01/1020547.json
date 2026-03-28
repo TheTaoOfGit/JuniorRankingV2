@@ -1,0 +1,127 @@
+{
+  "usab_id": "1020547",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 13365,
+      "rank": 29,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "5",
+          "points": "4374"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 13144,
+      "rank": 10,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "5",
+          "points": "4374"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 13705,
+      "rank": 18,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "2916"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "1",
+          "points": "2916"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 12269,
+      "rank": 18,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "1166"
+        }
+      ]
+    }
+  ],
+  "name": "Srinivas Subash",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,95 @@
+{
+  "usab_id": "400028",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 3295,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "437"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 5189,
+      "rank": 98,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "9 to 16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 2063,
+      "rank": 198,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Edison Lin",
+  "year_of_birth": null,
+  "gender": "M"
+}

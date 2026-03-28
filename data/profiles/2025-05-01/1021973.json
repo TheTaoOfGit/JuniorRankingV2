@@ -1,0 +1,104 @@
+{
+  "usab_id": "1021973",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 20290,
+      "rank": 20,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "4",
+          "points": "8640"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "1",
+          "points": "5400"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 14040,
+      "rank": 10,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "4",
+          "points": "8640"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "1",
+          "points": "5400"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 17360,
+      "rank": 43,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 4860,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "4860"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 8775,
+      "rank": 44,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "3240"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    }
+  ],
+  "name": "Darsh Jain",
+  "year_of_birth": null,
+  "gender": "M"
+}

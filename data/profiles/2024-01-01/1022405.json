@@ -1,0 +1,55 @@
+{
+  "usab_id": "1022405",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 2160,
+      "rank": 183,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "1620"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 270,
+      "rank": 174,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 4590,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "3240"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Caitlynn Kurniawan",
+  "year_of_birth": null,
+  "gender": "F"
+}

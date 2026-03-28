@@ -1,0 +1,100 @@
+{
+  "usab_id": "1021976",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 16270,
+      "rank": 30,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "3000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 17170,
+      "rank": 49,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "9000"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 20045,
+      "rank": 35,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7-8",
+          "points": "11000"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    }
+  ],
+  "name": "Alex He",
+  "year_of_birth": null,
+  "gender": "M"
+}

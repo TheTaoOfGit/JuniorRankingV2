@@ -1,0 +1,45 @@
+{
+  "usab_id": "1021287",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 4000,
+      "rank": 139,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9 to 16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 4000,
+      "rank": 77,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9 to 16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 6250,
+      "rank": 76,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "5 to 8",
+          "points": "6250"
+        }
+      ]
+    }
+  ],
+  "name": "Sahana Srinivasan",
+  "year_of_birth": null,
+  "gender": "F"
+}

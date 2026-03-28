@@ -1,0 +1,110 @@
+{
+  "usab_id": "429674",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 970,
+      "rank": 16,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "191"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5 to 8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 1785,
+      "rank": 11,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 425,
+      "rank": 63,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Niranjan Rajasekaran",
+  "year_of_birth": null,
+  "gender": "M"
+}

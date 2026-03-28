@@ -1,0 +1,63 @@
+{
+  "usab_id": "47816",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BD U19",
+      "ranking_points": 31500,
+      "rank": 11,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 14700,
+      "rank": 43,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "2",
+          "points": "2700"
+        }
+      ]
+    }
+  ],
+  "name": "Youshi Chen",
+  "year_of_birth": null,
+  "gender": "BD"
+}

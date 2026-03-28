@@ -1,0 +1,126 @@
+{
+  "usab_id": "1020969",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 15560,
+      "rank": 40,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "2",
+          "points": "2700"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 4860,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "2",
+          "points": "4860"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 8400,
+      "rank": 52,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 5400,
+      "rank": 44,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 16400,
+      "rank": 37,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 5400,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "5400"
+        }
+      ]
+    }
+  ],
+  "name": "Zoey Tan",
+  "year_of_birth": null,
+  "gender": "F"
+}

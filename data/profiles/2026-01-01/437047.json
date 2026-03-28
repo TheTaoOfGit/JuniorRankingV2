@@ -1,0 +1,102 @@
+{
+  "usab_id": "437047",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 799,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "79"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "79"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1795,
+      "rank": 58,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 771,
+      "rank": 143,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Lukas Ye",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "confirmed"
+}

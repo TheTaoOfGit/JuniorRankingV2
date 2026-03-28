@@ -1,0 +1,97 @@
+{
+  "usab_id": "1019612",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 13732,
+      "rank": 15,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 19575,
+      "rank": 3,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10800"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 28332,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "5832"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 5832,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "5832"
+        }
+      ]
+    }
+  ],
+  "name": "Micah Cruz",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,100 @@
+{
+  "usab_id": "47829",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 6550,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 18950,
+      "rank": 19,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "6000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 45000,
+      "rank": 3,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "2",
+          "points": "18000"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "3",
+          "points": "8500"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    }
+  ],
+  "name": "Carryssa Bun",
+  "year_of_birth": null,
+  "gender": "F"
+}

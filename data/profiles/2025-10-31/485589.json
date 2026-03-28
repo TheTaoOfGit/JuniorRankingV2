@@ -1,0 +1,102 @@
+{
+  "usab_id": "485589",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 2673,
+      "rank": 119,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "1080"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 6710,
+      "rank": 87,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 3713,
+      "rank": 152,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Kyson Tu",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2009,
+  "year_of_birth_confidence": "confirmed"
+}

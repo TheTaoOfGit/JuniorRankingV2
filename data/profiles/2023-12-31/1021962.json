@@ -1,0 +1,177 @@
+{
+  "usab_id": "1021962",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 7420,
+      "rank": 74,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2700"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 5595,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "BS U15",
+      "ranking_points": 4083,
+      "rank": 41,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "1750"
+        },
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 12664,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 10539,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 5250,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "3791"
+        },
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 6724,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 5593,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 4535,
+      "rank": 68,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "2624"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    }
+  ],
+  "name": "Eshan Neog",
+  "year_of_birth": null,
+  "gender": "M"
+}

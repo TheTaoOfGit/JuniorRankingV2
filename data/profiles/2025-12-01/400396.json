@@ -1,0 +1,114 @@
+{
+  "usab_id": "400396",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 9693,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 11475,
+      "rank": 19,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "1",
+          "points": "1620"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 17250,
+      "rank": 33,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 14850,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "5400"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        }
+      ]
+    }
+  ],
+  "name": "Angela Wang",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2010,
+  "year_of_birth_confidence": "confirmed"
+}

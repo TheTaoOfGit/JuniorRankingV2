@@ -1,0 +1,90 @@
+{
+  "usab_id": "467975",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 1867,
+      "rank": 137,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1542,
+      "rank": 87,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "437"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "87"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1575,
+      "rank": 105,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    }
+  ],
+  "name": "Sophie Lin",
+  "year_of_birth": null,
+  "gender": "F"
+}

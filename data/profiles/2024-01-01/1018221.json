@@ -1,0 +1,125 @@
+{
+  "usab_id": "1018221",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 4050,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "1080"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 24070,
+      "rank": 19,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "8640"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2023 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 9855,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "1620"
+        }
+      ]
+    }
+  ],
+  "name": "Stanley Xing",
+  "year_of_birth": null,
+  "gender": "M"
+}

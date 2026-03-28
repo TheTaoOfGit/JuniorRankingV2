@@ -1,0 +1,80 @@
+{
+  "usab_id": "413120",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 5076,
+      "rank": 98,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "1080"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 5157,
+      "rank": 41,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 4860,
+      "rank": 68,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Zoe Sun",
+  "year_of_birth": null,
+  "gender": "F"
+}

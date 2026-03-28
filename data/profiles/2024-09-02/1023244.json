@@ -1,0 +1,60 @@
+{
+  "usab_id": "1023244",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 2309,
+      "rank": 188,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 2106,
+      "rank": 104,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2309,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Aditi Srinivasan",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "draw_id": "1",
+    "name": "BS U11"
+  },
+  {
+    "draw_id": "2",
+    "name": "GS U11"
+  },
+  {
+    "draw_id": "3",
+    "name": "XD U11"
+  },
+  {
+    "draw_id": "6",
+    "name": "BD U11"
+  },
+  {
+    "draw_id": "4",
+    "name": "BD U11 - Group A"
+  },
+  {
+    "draw_id": "5",
+    "name": "BD U11 - Group B"
+  },
+  {
+    "draw_id": "7",
+    "name": "GD U11"
+  },
+  {
+    "draw_id": "8",
+    "name": "BS U13"
+  },
+  {
+    "draw_id": "9",
+    "name": "GS U13"
+  },
+  {
+    "draw_id": "10",
+    "name": "XD U13"
+  },
+  {
+    "draw_id": "11",
+    "name": "BD U13"
+  },
+  {
+    "draw_id": "14",
+    "name": "GD U13"
+  },
+  {
+    "draw_id": "12",
+    "name": "GD U13 - Group A"
+  },
+  {
+    "draw_id": "13",
+    "name": "GD U13 - Group B"
+  },
+  {
+    "draw_id": "15",
+    "name": "BS U15"
+  },
+  {
+    "draw_id": "16",
+    "name": "GS U15"
+  },
+  {
+    "draw_id": "19",
+    "name": "XD U15"
+  },
+  {
+    "draw_id": "17",
+    "name": "XD U15 - Group A"
+  },
+  {
+    "draw_id": "18",
+    "name": "XD U15 - Group B"
+  },
+  {
+    "draw_id": "22",
+    "name": "BD U15"
+  },
+  {
+    "draw_id": "20",
+    "name": "BD U15 - Group A"
+  },
+  {
+    "draw_id": "21",
+    "name": "BD U15 - Group B"
+  },
+  {
+    "draw_id": "23",
+    "name": "GD U15"
+  },
+  {
+    "draw_id": "24",
+    "name": "BS U17"
+  },
+  {
+    "draw_id": "25",
+    "name": "GS U17"
+  },
+  {
+    "draw_id": "28",
+    "name": "XD U17"
+  },
+  {
+    "draw_id": "26",
+    "name": "XD U17 - Group A"
+  },
+  {
+    "draw_id": "27",
+    "name": "XD U17 - Group B"
+  },
+  {
+    "draw_id": "29",
+    "name": "BD U17"
+  },
+  {
+    "draw_id": "30",
+    "name": "GD U17"
+  },
+  {
+    "draw_id": "31",
+    "name": "BS U19"
+  },
+  {
+    "draw_id": "32",
+    "name": "GS U19"
+  },
+  {
+    "draw_id": "35",
+    "name": "XD U19"
+  },
+  {
+    "draw_id": "33",
+    "name": "XD U19 - Group A"
+  },
+  {
+    "draw_id": "34",
+    "name": "XD U19 - Group B"
+  },
+  {
+    "draw_id": "38",
+    "name": "BD U19"
+  },
+  {
+    "draw_id": "36",
+    "name": "BD U19 - Group A"
+  },
+  {
+    "draw_id": "37",
+    "name": "BD U19 - Group B"
+  }
+]

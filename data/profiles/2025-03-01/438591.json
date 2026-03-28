@@ -1,0 +1,45 @@
+{
+  "usab_id": "438591",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 118,
+      "rank": 243,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 118,
+      "rank": 114,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 189,
+      "rank": 120,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Abigail Schoppe",
+  "year_of_birth": null,
+  "gender": "F"
+}

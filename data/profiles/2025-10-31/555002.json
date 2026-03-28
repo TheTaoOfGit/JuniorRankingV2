@@ -1,0 +1,23 @@
+{
+  "usab_id": "555002",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 1350,
+      "rank": 120,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Rania Lajmi",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2009,
+  "year_of_birth_confidence": "confirmed"
+}

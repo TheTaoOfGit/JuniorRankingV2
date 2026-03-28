@@ -1,0 +1,45 @@
+{
+  "usab_id": "488518",
+  "date": "2025-10-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 163,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 204,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Tara Madhusudhan",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,90 @@
+{
+  "usab_id": "1022267",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 1931,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "437"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 3055,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 3098,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "656"
+        }
+      ]
+    }
+  ],
+  "name": "Samuel Burton",
+  "year_of_birth": null,
+  "gender": "M"
+}

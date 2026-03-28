@@ -1,0 +1,117 @@
+{
+  "usab_id": "537278",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 1919,
+      "rank": 8,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 1282,
+      "rank": 8,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        },
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 1764,
+      "rank": 10,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "723"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        }
+      ]
+    }
+  ],
+  "name": "Adalyn Puah",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

@@ -1,0 +1,90 @@
+{
+  "usab_id": "430632",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 621,
+      "rank": 163,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 621,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 1828,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    }
+  ],
+  "name": "Sriaa Senthilkumar",
+  "year_of_birth": null,
+  "gender": "F"
+}

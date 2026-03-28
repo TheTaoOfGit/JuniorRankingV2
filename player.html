@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>(Unofficial) USA Badminton Junior Rankings - Player Profile</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #333; }
+.header { background: linear-gradient(135deg, #1a3a5c, #2d6aa0); color: white; padding: 24px; }
+.header h1 { font-size: 28px; }
+.header .meta { opacity: 0.85; margin-top: 6px; font-size: 15px; }
+.container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+.stats-row { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+.stat { background: white; border-radius: 8px; padding: 16px 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; flex: 1; min-width: 120px; }
+.stat .num { font-size: 24px; font-weight: 700; color: #1a3a5c; }
+.stat .label { font-size: 11px; color: #888; margin-top: 2px; }
+.section { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 16px; overflow: hidden; }
+.section-header { padding: 14px 18px; background: #f8f9fa; border-bottom: 1px solid #eee; font-weight: 600; font-size: 15px; cursor: pointer; display: flex; justify-content: space-between; }
+.section-header:hover { background: #eef1f4; }
+.section-body { padding: 16px 18px; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { text-align: left; padding: 8px 10px; background: #f8f9fa; border-bottom: 2px solid #dee2e6; font-weight: 600; }
+td { padding: 7px 10px; border-bottom: 1px solid #eee; }
+tr:hover td { background: #f0f7ff; }
+.win { color: #28a745; font-weight: 600; }
+.loss { color: #dc3545; font-weight: 600; }
+.badge { display: inline-block; padding: 3px 10px; border-radius: 12px; font-size: 11px; font-weight: 600; }
+.badge-main { background: #e3f2fd; color: #1565c0; }
+.badge-consolation { background: #fff3e0; color: #e65100; }
+.rank-chip { display: inline-block; padding: 4px 12px; border-radius: 6px; background: #e9ecef; font-size: 12px; margin: 2px; }
+.progression { display: flex; flex-wrap: wrap; gap: 4px; }
+.match-row { display: grid; grid-template-columns: 80px 1fr 40px 1fr 120px 30px; align-items: center; padding: 6px 0; border-bottom: 1px solid #f0f0f0; font-size: 13px; gap: 8px; }
+.match-row:hover { background: #f8fbff; }
+.match-round { color: #888; font-size: 11px; }
+.match-team { }
+.match-team.winner { font-weight: 600; }
+.match-vs { color: #ccc; text-align: center; font-size: 11px; }
+.match-score { font-family: 'Courier New', monospace; font-size: 12px; color: #555; }
+.match-wl { text-align: center; }
+.tourn-header { display: flex; justify-content: space-between; align-items: center; }
+.tourn-record { font-weight: 400; font-size: 13px; color: #666; }
+.filter-bar { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+.filter-bar select, .filter-bar input { padding: 6px 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 13px; }
+#loading { text-align: center; padding: 60px; color: #888; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1 id="player-name">Loading...</h1>
+  <div class="meta" id="player-meta"></div>
+</div>
+
+<div class="container">
+  <div class="stats-row" id="stats-row"></div>
+  <div id="rankings-section"></div>
+  <div id="progression-section"></div>
+  <div id="tournaments-section"></div>
+</div>
+
+<div id="loading">Loading player data...</div>
+
+<script>
+const USAB_ID = new URLSearchParams(window.location.search).get('id') || '440346';
+const DATA = 'data';
+const DATES = [
+  "2026-03-01","2026-02-01","2026-01-01","2025-12-01","2025-10-31","2025-10-01",
+  "2025-08-01","2025-06-01","2025-05-01","2025-04-01","2025-03-01","2025-02-01","2025-01-01",
+  "2024-12-01","2024-11-01","2024-09-02","2024-08-01","2024-05-01","2024-04-01",
+  "2024-03-01","2024-01-01","2023-12-31","2023-12-01"
+];
+
+async function loadJSON(path) {
+  try { const r = await fetch(path); return r.ok ? r.json() : null; } catch { return null; }
+}
+
+async function init() {
+  // Load profile
+  const profile = await loadJSON(`${DATA}/profiles/2026-03-01/${USAB_ID}.json`);
+  const birthYears = await loadJSON(`${DATA}/inferred_birth_years.json`);
+  const by = birthYears?.[USAB_ID];
+
+  if (!profile) {
+    document.getElementById('loading').textContent = 'Player not found.';
+    return;
+  }
+
+  // Load all tournament data to find this player's matches and name variations
+  const tournamentsIndex = await loadJSON(`${DATA}/tournaments.json`);
+  const allTournaments = [];
+  let totalWins = 0, totalLosses = 0, totalMatches = 0;
+  const nameVariations = new Set();
+  if (profile.name) nameVariations.add(profile.name);
+
+  // Scan all tournament result dirs
+  const resultDirs = [];
+  for (const [season, seasonList] of Object.entries(tournamentsIndex || {})) {
+    for (const t of seasonList) {
+      const url = t.tournamentsoftware_url;
+      if (!url) continue;
+      const m = url.match(/[?/](?:id=)?([A-Fa-f0-9-]{36})/);
+      if (m) resultDirs.push({ tid: m[1].toUpperCase(), name: t.name, scheduleDates: t.dates || '', season: season });
+    }
+  }
+
+  // Dedupe
+  const seen = new Set();
+  const uniqueDirs = resultDirs.filter(d => { if (seen.has(d.tid)) return false; seen.add(d.tid); return true; });
+
+  // Build TID -> schedule dates lookup
+  const tidDates = {};
+  for (const d of uniqueDirs) tidDates[d.tid] = d.scheduleDates;
+
+  for (const dir of uniqueDirs) {
+    const t = await loadJSON(`${DATA}/tournament_results/${dir.tid}/tournament.json`);
+    if (!t) continue;
+
+    const playerMatches = t.matches.filter(m =>
+      m.team1?.some(p => p.usab_id === USAB_ID) || m.team2?.some(p => p.usab_id === USAB_ID)
+    );
+
+    if (playerMatches.length === 0) continue;
+
+    let w = 0, l = 0;
+    for (const m of playerMatches) {
+      const onT1 = m.team1?.some(p => p.usab_id === USAB_ID);
+      const won = (onT1 && m.winner === 1) || (!onT1 && m.winner === 2);
+      if (won) w++; else l++;
+    }
+
+    totalWins += w;
+    totalLosses += l;
+    totalMatches += playerMatches.length;
+
+    // Parse sort date from schedule dates (format: "M/D/YY-M/D/YY" or "M/D/YY - M/D/YY")
+    const sd = tidDates[dir.tid] || '';
+    let sortDate = '';
+    let displayDates = sd;
+
+    // Parse "M/D/YY" format
+    const dm = sd.match(/(\d{1,2})\/(\d{1,2})\/(\d{2,4})/);
+    if (dm) {
+      const yr = dm[3].length === 2 ? (parseInt(dm[3]) > 50 ? '19' : '20') + dm[3] : dm[3];
+      sortDate = `${yr}-${dm[1].padStart(2,'0')}-${dm[2].padStart(2,'0')}`;
+      // Reformat display dates with full year
+      displayDates = sd.replace(/(\d{1,2})\/(\d{1,2})\/(\d{2})(?!\d)/g, (_, m, d, y) => {
+        const fy = (parseInt(y) > 50 ? '19' : '20') + y;
+        return `${m}/${d}/${fy}`;
+      });
+    }
+
+    // Fallback: try match times (e.g. "Mon 3/14/2026 11:00 AM")
+    if (!sortDate) {
+      for (const m of playerMatches) {
+        const tm = (m.time || '').match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+        if (tm) {
+          sortDate = `${tm[3]}-${tm[1].padStart(2,'0')}-${tm[2].padStart(2,'0')}`;
+          displayDates = `${tm[1]}/${tm[2]}/${tm[3]}`;
+          break;
+        }
+      }
+    }
+
+    // Fallback: extract year from tournament name
+    if (!sortDate) {
+      const ym = (t.name || '').match(/(20\d{2})/);
+      if (ym) sortDate = ym[1] + '-01-01';
+    }
+
+    // Collect name variations
+    for (const m of playerMatches) {
+      for (const p of [...(m.team1||[]), ...(m.team2||[])]) {
+        if (p.usab_id === USAB_ID && p.name) nameVariations.add(p.name);
+      }
+    }
+    if (t.players?.[USAB_ID]?.name) nameVariations.add(t.players[USAB_ID].name);
+
+    allTournaments.push({ ...t, playerMatches, wins: w, losses: l, displayDates, sortDate });
+  }
+
+  // Set header with all name variations
+  const primaryName = profile.name || [...nameVariations][0] || 'Unknown';
+  const aka = [...nameVariations].filter(n => n !== primaryName);
+  document.title = `${primaryName} - Player Profile`;
+  document.getElementById('player-name').textContent = primaryName;
+  document.getElementById('player-meta').innerHTML =
+    `USAB# ${USAB_ID} &nbsp;|&nbsp; ${profile.gender === 'F' ? 'Female' : 'Male'} &nbsp;|&nbsp; Born ~${by?.yob_inferred || '?'} (${by?.confidence || ''})` +
+    (aka.length ? ` &nbsp;|&nbsp; Also known as: ${aka.join(', ')}` : '');
+
+  // Stats row
+  document.getElementById('stats-row').innerHTML = `
+    <div class="stat"><div class="num">${allTournaments.length}</div><div class="label">Tournaments</div></div>
+    <div class="stat"><div class="num">${totalMatches}</div><div class="label">Matches</div></div>
+    <div class="stat"><div class="num win">${totalWins}</div><div class="label">Wins</div></div>
+    <div class="stat"><div class="num loss">${totalLosses}</div><div class="label">Losses</div></div>
+    <div class="stat"><div class="num">${totalMatches ? (totalWins * 100 / totalMatches).toFixed(0) : 0}%</div><div class="label">Win Rate</div></div>
+    <div class="stat"><div class="num">${profile.categories?.length || 0}</div><div class="label">Current Events</div></div>
+  `;
+
+  // Current rankings
+  if (profile.categories?.length) {
+    let html = '<div class="section"><div class="section-header">Current Rankings (Mar 2026)</div><div class="section-body">';
+    html += '<table><tr><th>Event</th><th>Rank</th><th>Points</th><th>Tournaments</th></tr>';
+    for (const cat of profile.categories.sort((a,b) => a.category.localeCompare(b.category))) {
+      const tournList = (cat.tournaments || []).map(t =>
+        `<div style="font-size:11px;color:#666;">${t.position} - ${t.tournament.substring(0,50)} (${t.points}pts)</div>`
+      ).join('');
+      html += `<tr><td><strong>${cat.category}</strong></td><td style="font-size:18px;font-weight:700;color:#1a3a5c;">#${cat.rank}</td>
+        <td>${cat.ranking_points.toLocaleString()}</td><td>${tournList}</td></tr>`;
+    }
+    html += '</table></div></div>';
+    document.getElementById('rankings-section').innerHTML = html;
+  }
+
+  // Ranking progression
+  let progHtml = '<div class="section"><div class="section-header" onclick="this.nextElementSibling.classList.toggle(\'collapsed\')">Ranking Progression</div><div class="section-body">';
+  progHtml += '<table><tr><th>Date</th>';
+  const allCats = new Set();
+  const progData = [];
+  for (const date of DATES) {
+    const p = await loadJSON(`${DATA}/profiles/${date}/${USAB_ID}.json`);
+    if (p?.categories?.length) {
+      const row = { date };
+      for (const c of p.categories) { row[c.category] = c; allCats.add(c.category); }
+      progData.push(row);
+    }
+  }
+  const catList = [...allCats].sort();
+  for (const c of catList) progHtml += `<th>${c}</th>`;
+  progHtml += '</tr>';
+  for (const row of progData.reverse()) {
+    progHtml += `<tr><td><strong>${row.date}</strong></td>`;
+    for (const c of catList) {
+      const d = row[c];
+      progHtml += d ? `<td><span class="rank-chip">#${d.rank} (${d.ranking_points})</span></td>` : '<td></td>';
+    }
+    progHtml += '</tr>';
+  }
+  progHtml += '</table></div></div>';
+  document.getElementById('progression-section').innerHTML = progHtml;
+
+  // Tournament matches - reverse chronological (newest first)
+  let tHtml = '';
+  allTournaments.sort((a, b) => (b.sortDate || '').localeCompare(a.sortDate || ''));
+
+  for (const t of allTournaments) {
+    const events = [...new Set(t.playerMatches.map(m => m.event))].sort();
+
+    tHtml += `<div class="section"><div class="section-header"><div class="tourn-header">
+      <span>${t.name}</span>
+      <span class="tourn-record">${t.displayDates || ''} &nbsp;|&nbsp; <span class="win">${t.wins}W</span> - <span class="loss">${t.losses}L</span></span>
+    </div></div><div class="section-body">`;
+
+    // Round sort order: early rounds first, finals last
+    const roundOrder = (r) => {
+      if (!r) return 999;
+      r = r.toLowerCase();
+      const m = r.match(/round of (\d+)/);
+      if (m) return 1000 - parseInt(m[1]); // R128=872, R64=936, R32=968, R16=984
+      if (r.includes('quarter')) return 990;
+      if (r.includes('semi')) return 995;
+      if (r.includes('3rd') || r.includes('4th')) return 997;
+      if (r === 'final') return 998;
+      if (r.includes('consolation')) {
+        const cm = r.match(/(\d+)/);
+        if (cm && r.includes('round')) return 2000 - parseInt(cm[1]);
+        if (r.includes('quarter')) return 2090;
+        if (r.includes('semi')) return 2095;
+        if (r.includes('final') && !r.includes('semi') && !r.includes('quarter')) return 2098;
+        return 2050;
+      }
+      return 999;
+    };
+
+    for (const event of events) {
+      const eventMatches = t.playerMatches.filter(m => m.event === event);
+      const mainMatches = eventMatches.filter(m => m.bracket !== 'consolation').sort((a,b) => roundOrder(a.round) - roundOrder(b.round));
+      const consMatches = eventMatches.filter(m => m.bracket === 'consolation').sort((a,b) => roundOrder(a.round) - roundOrder(b.round));
+
+      tHtml += `<h4 style="margin:12px 0 6px;color:#1a3a5c;">${event}</h4>`;
+
+      const renderMatches = (matches, label) => {
+        if (!matches.length) return '';
+        let h = label ? `<div style="font-size:11px;color:#888;margin:4px 0;">${label}</div>` : '';
+        for (const m of matches) {
+          const onT1 = m.team1?.some(p => p.usab_id === USAB_ID);
+          const won = (onT1 && m.winner === 1) || (!onT1 && m.winner === 2);
+          const myTeam = onT1 ? m.team1 : m.team2;
+          const oppTeam = onT1 ? m.team2 : m.team1;
+          const partner = myTeam?.filter(p => p.usab_id !== USAB_ID).map(p => p.name).join(', ');
+          const opponent = oppTeam?.map(p => p.name).join(' + ') || 'Bye';
+          const scores = m.scores?.map(s => {
+            const my = onT1 ? s[0] : s[1];
+            const opp = onT1 ? s[1] : s[0];
+            return `<span style="color:${my > opp ? '#28a745' : '#dc3545'}">${my}-${opp}</span>`;
+          }).join(', ') || '';
+          const partnerStr = partner ? ` <span style="color:#888;font-size:11px;">(w/ ${partner})</span>` : '';
+
+          h += `<div class="match-row">
+            <div class="match-round">${m.round || ''}</div>
+            <div class="match-team">vs ${opponent}</div>
+            <div></div>
+            <div>${partnerStr}</div>
+            <div class="match-score">${scores}${m.walkover ? ' <span style="color:#888">(WO)</span>' : ''}</div>
+            <div class="match-wl ${won ? 'win' : 'loss'}">${won ? 'W' : 'L'}</div>
+          </div>`;
+        }
+        return h;
+      };
+
+      tHtml += renderMatches(mainMatches, consMatches.length ? '<span class="badge badge-main">Main Bracket</span>' : '');
+      tHtml += renderMatches(consMatches, '<span class="badge badge-consolation">Consolation</span>');
+    }
+
+    tHtml += '</div></div>';
+  }
+
+  document.getElementById('tournaments-section').innerHTML = tHtml;
+  document.getElementById('loading').style.display = 'none';
+}
+
+init();
+</script>
+</body>
+</html>

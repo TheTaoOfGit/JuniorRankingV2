@@ -1,0 +1,60 @@
+{
+  "usab_id": "486827",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1627,
+      "rank": 204,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "1080"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 292,
+      "rank": 166,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 4385,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "875"
+        }
+      ]
+    }
+  ],
+  "name": "Elysha Ling",
+  "year_of_birth": null,
+  "gender": "F"
+}

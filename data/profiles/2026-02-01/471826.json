@@ -1,0 +1,128 @@
+{
+  "usab_id": "471826",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 482,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2026 CBA MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BS U11",
+      "ranking_points": 187,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 865,
+      "rank": 117,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2026 CBA MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 570,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 635,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2026 CBA MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 340,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Peter Lei",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2016,
+  "year_of_birth_confidence": "estimated"
+}

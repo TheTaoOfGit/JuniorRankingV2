@@ -1,0 +1,53 @@
+{
+  "usab_id": "466181",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 234,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 528,
+      "rank": 62,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Ayaan Kale",
+  "year_of_birth": null,
+  "gender": "M"
+}

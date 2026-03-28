@@ -1,0 +1,95 @@
+{
+  "usab_id": "440548",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1674,
+      "rank": 206,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "437"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 988,
+      "rank": 132,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "437"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 4039,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Chloe Ye",
+  "year_of_birth": null,
+  "gender": "F"
+}

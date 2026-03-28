@@ -1,0 +1,75 @@
+{
+  "usab_id": "1023156",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 2309,
+      "rank": 166,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 1944,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 4050,
+      "rank": 73,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    }
+  ],
+  "name": "Namra Sharath",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,70 @@
+{
+  "usab_id": "481776",
+  "date": "2025-10-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 436,
+      "rank": 72,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 610,
+      "rank": 143,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 315,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Akhil Sivakumar",
+  "year_of_birth": null,
+  "gender": "M"
+}

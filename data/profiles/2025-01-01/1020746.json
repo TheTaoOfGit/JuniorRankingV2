@@ -1,0 +1,136 @@
+{
+  "usab_id": "1020746",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 7140,
+      "rank": 68,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 5940,
+      "rank": 42,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "1620"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 20830,
+      "rank": 28,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "9180"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "5400"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 14580,
+      "rank": 13,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "9180"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "5400"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 19965,
+      "rank": 22,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "9180"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 17415,
+      "rank": 6,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "9180"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "3375"
+        }
+      ]
+    }
+  ],
+  "name": "Arush Chitgopkar",
+  "year_of_birth": null,
+  "gender": "M"
+}

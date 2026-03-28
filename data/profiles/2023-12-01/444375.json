@@ -1,0 +1,102 @@
+{
+  "usab_id": "444375",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 1830,
+      "rank": 40,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "4",
+          "points": "1260"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1909,
+      "rank": 66,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 1740,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 748,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    }
+  ],
+  "name": "Aarav Gupta",
+  "year_of_birth": null,
+  "gender": "M"
+}

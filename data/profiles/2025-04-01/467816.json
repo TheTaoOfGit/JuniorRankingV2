@@ -1,0 +1,50 @@
+{
+  "usab_id": "467816",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 219,
+      "rank": 305,
+      "tournaments": [
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 816,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "87"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 729,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Sophie Sim",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,92 @@
+{
+  "usab_id": "464784",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 2216,
+      "rank": 186,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 839,
+      "rank": 219,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 861,
+      "rank": 114,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 2173,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "4",
+          "points": "700"
+        }
+      ]
+    }
+  ],
+  "name": "Merrisa Wang",
+  "year_of_birth": null,
+  "gender": "F"
+}

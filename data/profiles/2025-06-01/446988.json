@@ -1,0 +1,105 @@
+{
+  "usab_id": "446988",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 963,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "354"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 1212,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 2303,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "984"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Aditi Malladi",
+  "year_of_birth": null,
+  "gender": "XD"
+}

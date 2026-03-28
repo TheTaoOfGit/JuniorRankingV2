@@ -1,0 +1,130 @@
+{
+  "usab_id": "1023057",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 2315,
+      "rank": 42,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "9 to 16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "17-32",
+          "points": "118"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "79"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 2309,
+      "rank": 78,
+      "tournaments": [
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "1",
+          "points": "875"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 1806,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Tanay Kankanala",
+  "year_of_birth": null,
+  "gender": "M"
+}

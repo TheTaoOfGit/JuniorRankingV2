@@ -1,0 +1,45 @@
+{
+  "usab_id": "476635",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 213,
+      "rank": 108,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 85,
+      "rank": 73,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 531,
+      "rank": 41,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Aashvi Patel",
+  "year_of_birth": null,
+  "gender": "F"
+}

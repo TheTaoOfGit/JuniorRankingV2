@@ -1,0 +1,110 @@
+{
+  "usab_id": "411210",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1402,
+      "rank": 63,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 1598,
+      "rank": 105,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 904,
+      "rank": 185,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Matthew Luo",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,45 @@
+{
+  "usab_id": "398863",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 984,
+      "rank": 61,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 984,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 984,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    }
+  ],
+  "name": "Ketan Dubey",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,55 @@
+{
+  "usab_id": "531346",
+  "date": "2025-10-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 350,
+      "rank": 294,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 700,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1094,
+      "rank": 117,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2025 AUSTIN LEANDER BADMINTON SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Dhyuti Aruru",
+  "year_of_birth": null,
+  "gender": "F"
+}

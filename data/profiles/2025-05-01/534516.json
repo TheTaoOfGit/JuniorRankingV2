@@ -1,0 +1,53 @@
+{
+  "usab_id": "534516",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 289,
+      "rank": 66,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 417,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Jeffrey Yan",
+  "year_of_birth": null,
+  "gender": "M"
+}

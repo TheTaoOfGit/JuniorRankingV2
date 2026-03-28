@@ -1,0 +1,192 @@
+{
+  "usab_id": "419107",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 1440,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 1732,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 3303,
+      "rank": 63,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "945"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 3189,
+      "rank": 24,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "945"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Mrugakshi Kulkarni",
+  "year_of_birth": null,
+  "gender": "F"
+}

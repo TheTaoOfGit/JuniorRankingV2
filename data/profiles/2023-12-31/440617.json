@@ -1,0 +1,45 @@
+{
+  "usab_id": "440617",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 213,
+      "rank": 146,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 213,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 340,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Miura Goh",
+  "year_of_birth": null,
+  "gender": "F"
+}

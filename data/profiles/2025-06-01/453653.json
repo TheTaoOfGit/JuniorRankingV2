@@ -1,0 +1,43 @@
+{
+  "usab_id": "453653",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 5200,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 6550,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Divaakar Prabu Mahesh",
+  "year_of_birth": null,
+  "gender": "M"
+}

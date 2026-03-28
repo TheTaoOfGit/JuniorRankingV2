@@ -1,0 +1,102 @@
+{
+  "usab_id": "440306",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 897,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "79"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 1232,
+      "rank": 140,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 503,
+      "rank": 144,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 157,
+      "rank": 265,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Varad Vaishnav",
+  "year_of_birth": null,
+  "gender": "M"
+}

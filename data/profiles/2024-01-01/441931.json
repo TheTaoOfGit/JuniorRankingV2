@@ -1,0 +1,85 @@
+{
+  "usab_id": "441931",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 992,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "65-128",
+          "points": "146"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 1284,
+      "rank": 103,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 292,
+      "rank": 212,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Akshath Potnuru",
+  "year_of_birth": null,
+  "gender": "M"
+}

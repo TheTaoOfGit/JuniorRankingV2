@@ -1,0 +1,72 @@
+{
+  "usab_id": "437329",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 859,
+      "rank": 201,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1626,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 827,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        }
+      ]
+    }
+  ],
+  "name": "Kandice Chu",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2013,
+  "year_of_birth_confidence": "confirmed"
+}

@@ -1,0 +1,60 @@
+{
+  "usab_id": "469476",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 511,
+      "rank": 273,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 642,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1079,
+      "rank": 117,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    }
+  ],
+  "name": "Mahika Duggar",
+  "year_of_birth": null,
+  "gender": "XD"
+}

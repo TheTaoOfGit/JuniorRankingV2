@@ -1,0 +1,33 @@
+{
+  "usab_id": "472573",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 64,
+      "rank": 77,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 159,
+      "rank": 69,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Sofia Su",
+  "year_of_birth": null,
+  "gender": "F"
+}

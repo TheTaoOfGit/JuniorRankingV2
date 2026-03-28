@@ -1,0 +1,112 @@
+{
+  "usab_id": "444706",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 1216,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1791,
+      "rank": 78,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 1236,
+      "rank": 195,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 689,
+      "rank": 186,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Nithesh Madishetti",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,33 @@
+{
+  "usab_id": "444619",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 102,
+      "rank": 114,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 204,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Adrian Zhang",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,180 @@
+{
+  "usab_id": "1020911",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 11007,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 10617,
+      "rank": 39,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 10280,
+      "rank": 7,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "3791"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "4",
+          "points": "2333"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2333"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 13965,
+      "rank": 34,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 13965,
+      "rank": 11,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 8822,
+      "rank": 6,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "3791"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2479"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 14774,
+      "rank": 22,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U17 & U19",
+          "position": "2",
+          "points": "4860"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 11737,
+      "rank": 5,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2624"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2333"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "1823"
+        }
+      ]
+    }
+  ],
+  "name": "Sasha Suman",
+  "year_of_birth": null,
+  "gender": "F"
+}

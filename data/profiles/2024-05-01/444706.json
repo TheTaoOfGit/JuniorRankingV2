@@ -1,0 +1,65 @@
+{
+  "usab_id": "444706",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 1027,
+      "rank": 59,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1161,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 547,
+      "rank": 211,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Nithesh Madishetti",
+  "year_of_birth": null,
+  "gender": "M"
+}

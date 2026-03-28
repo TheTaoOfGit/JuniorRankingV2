@@ -1,0 +1,43 @@
+{
+  "usab_id": "475121",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 616,
+      "rank": 27,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "5 to 8",
+          "points": "531"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 553,
+      "rank": 45,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Udbhav H Ram",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,72 @@
+{
+  "usab_id": "526663",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1823,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2026 NW SEATTLE CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 2641,
+      "rank": 133,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2026 NW SEATTLE CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 1291,
+      "rank": 141,
+      "tournaments": [
+        {
+          "tournament": "2026 NW SEATTLE CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Yuvan Karanam",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2013,
+  "year_of_birth_confidence": "estimated_likely"
+}

@@ -1,0 +1,181 @@
+{
+  "usab_id": "1020416",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 17985,
+      "rank": 20,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "6",
+          "points": "7020"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 17145,
+      "rank": 4,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "6",
+          "points": "7020"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "4590"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 15255,
+      "rank": 51,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 14175,
+      "rank": 17,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 5160,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 2160,
+      "rank": 168,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "2160"
+        }
+      ]
+    }
+  ],
+  "name": "Daniel Park",
+  "year_of_birth": null,
+  "gender": "M"
+}

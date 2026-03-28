@@ -1,0 +1,62 @@
+{
+  "usab_id": "468246",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1188,
+      "rank": 240,
+      "tournaments": [
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1998,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2646,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    }
+  ],
+  "name": "Surbhi Sakshi",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2010,
+  "year_of_birth_confidence": "confirmed"
+}

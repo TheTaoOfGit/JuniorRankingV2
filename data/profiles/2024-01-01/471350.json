@@ -1,0 +1,45 @@
+{
+  "usab_id": "471350",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 102,
+      "rank": 240,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 102,
+      "rank": 131,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 217,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    }
+  ],
+  "name": "Deeksha Suresh Babu",
+  "year_of_birth": null,
+  "gender": "XD"
+}

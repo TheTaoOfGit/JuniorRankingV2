@@ -1,0 +1,94 @@
+{
+  "usab_id": "1022462",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 8560,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 2160,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 8875,
+      "rank": 105,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 3375,
+      "rank": 132,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "5-8",
+          "points": "3375"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 2550,
+      "rank": 175,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Jaxton Zhang",
+  "year_of_birth": null,
+  "gender": "M"
+}

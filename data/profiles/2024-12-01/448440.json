@@ -1,0 +1,60 @@
+{
+  "usab_id": "448440",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1363,
+      "rank": 233,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1646,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1924,
+      "rank": 141,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Sahasra Battula",
+  "year_of_birth": null,
+  "gender": "F"
+}

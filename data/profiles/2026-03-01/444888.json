@@ -1,0 +1,77 @@
+{
+  "usab_id": "444888",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 1433,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 664,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 2078,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    }
+  ],
+  "name": "Cindy Zhang",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2013,
+  "year_of_birth_confidence": "confirmed"
+}

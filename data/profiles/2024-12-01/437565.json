@@ -1,0 +1,45 @@
+{
+  "usab_id": "437565",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 189,
+      "rank": 274,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 295,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 402,
+      "rank": 136,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        }
+      ]
+    }
+  ],
+  "name": "Anqing Wang",
+  "year_of_birth": null,
+  "gender": "F"
+}

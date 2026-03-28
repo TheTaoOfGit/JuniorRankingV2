@@ -1,0 +1,55 @@
+{
+  "usab_id": "424442",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1006,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "656"
+        },
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 1422,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 875,
+      "rank": 189,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        }
+      ]
+    }
+  ],
+  "name": "Abhinav Reddy Nimma",
+  "year_of_birth": null,
+  "gender": "M"
+}

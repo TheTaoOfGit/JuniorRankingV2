@@ -1,0 +1,75 @@
+{
+  "usab_id": "444786",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 522,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 664,
+      "rank": 76,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 176,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Kartik Kanchi",
+  "year_of_birth": null,
+  "gender": "M"
+}

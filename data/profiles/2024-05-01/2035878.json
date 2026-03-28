@@ -1,0 +1,50 @@
+{
+  "usab_id": "2035878",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 1000,
+      "rank": 164,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 4900,
+      "rank": 125,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 2400,
+      "rank": 186,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    }
+  ],
+  "name": "Brian Hu",
+  "year_of_birth": null,
+  "gender": "M"
+}

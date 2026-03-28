@@ -1,0 +1,75 @@
+{
+  "usab_id": "399583",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 3400,
+      "rank": 112,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1200"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "1200"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 5575,
+      "rank": 119,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 6775,
+      "rank": 102,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "4",
+          "points": "2400"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    }
+  ],
+  "name": "Pratham Bansal",
+  "year_of_birth": null,
+  "gender": "BS"
+}

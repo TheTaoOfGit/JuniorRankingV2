@@ -1,0 +1,33 @@
+{
+  "usab_id": "450051",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 159,
+      "rank": 39,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 159,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Audrey Li",
+  "year_of_birth": null,
+  "gender": "F"
+}

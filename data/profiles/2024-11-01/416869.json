@@ -1,0 +1,85 @@
+{
+  "usab_id": "416869",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 1736,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "945"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "17-32",
+          "points": "118"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "43"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 2484,
+      "rank": 41,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "945"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "4",
+          "points": "378"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 851,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "354"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Ryan Chu",
+  "year_of_birth": null,
+  "gender": "M"
+}

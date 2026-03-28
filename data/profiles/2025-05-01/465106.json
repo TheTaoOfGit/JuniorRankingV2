@@ -1,0 +1,75 @@
+{
+  "usab_id": "465106",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 346,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 589,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 474,
+      "rank": 69,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "William Lin",
+  "year_of_birth": null,
+  "gender": "M"
+}

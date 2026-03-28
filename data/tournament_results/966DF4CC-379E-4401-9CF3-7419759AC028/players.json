@@ -1,0 +1,1571 @@
+{
+  "1": {
+    "ts_player_id": "1",
+    "usab_id": "464882",
+    "name": "Emma Bai",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "2": {
+    "ts_player_id": "2",
+    "usab_id": "47829",
+    "name": "Carryssa Bun",
+    "events": [
+      "GD U19",
+      "GS U19",
+      "XD U19"
+    ]
+  },
+  "3": {
+    "ts_player_id": "3",
+    "usab_id": "413186",
+    "name": "Enming Cao",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "4": {
+    "ts_player_id": "4",
+    "usab_id": "47830",
+    "name": "Audrey Chang",
+    "events": [
+      "GS U19",
+      "XD U19"
+    ]
+  },
+  "5": {
+    "ts_player_id": "5",
+    "usab_id": "436669",
+    "name": "Fay Chao",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "6": {
+    "ts_player_id": "6",
+    "usab_id": "468420",
+    "name": "Cecilia Chen",
+    "events": [
+      "GD U15",
+      "XD U15"
+    ]
+  },
+  "7": {
+    "ts_player_id": "7",
+    "usab_id": "1021421",
+    "name": "Jaden Ke Hong Chen",
+    "events": [
+      "BD U17",
+      "BS U19",
+      "XD U19"
+    ]
+  },
+  "8": {
+    "ts_player_id": "8",
+    "usab_id": "407190",
+    "name": "Jasper Chen",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "9": {
+    "ts_player_id": "9",
+    "usab_id": "467202",
+    "name": "Michael Chen",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "10": {
+    "ts_player_id": "10",
+    "usab_id": "437877",
+    "name": "Molly Chen",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "11": {
+    "ts_player_id": "11",
+    "usab_id": "47816",
+    "name": "Youshi Chen",
+    "events": [
+      "BD U19",
+      "BS U19",
+      "XD U19"
+    ]
+  },
+  "12": {
+    "ts_player_id": "12",
+    "usab_id": "433489",
+    "name": "Jocelyn Chiang",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "13": {
+    "ts_player_id": "13",
+    "usab_id": "409169",
+    "name": "Eason Chin",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "14": {
+    "ts_player_id": "14",
+    "usab_id": "470371",
+    "name": "Aiden Choi",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "15": {
+    "ts_player_id": "15",
+    "usab_id": "437329",
+    "name": "Kandice Chu",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "16": {
+    "ts_player_id": "16",
+    "usab_id": "407331",
+    "name": "Timothy Yung-An Chuang",
+    "events": [
+      "BD U17",
+      "BS U15"
+    ]
+  },
+  "17": {
+    "ts_player_id": "17",
+    "usab_id": "434650",
+    "name": "Dylan Ji Daniels",
+    "events": [
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "18": {
+    "ts_player_id": "18",
+    "usab_id": "437438",
+    "name": "Joanna Deng",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "19": {
+    "ts_player_id": "19",
+    "usab_id": "47813",
+    "name": "Cody Duan",
+    "events": [
+      "BD U19",
+      "BS U19"
+    ]
+  },
+  "20": {
+    "ts_player_id": "20",
+    "usab_id": "1020525",
+    "name": "Yuliaoliao Fan",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "21": {
+    "ts_player_id": "21",
+    "usab_id": "471380",
+    "name": "Joseph Paul Flowerhill",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "22": {
+    "ts_player_id": "22",
+    "usab_id": "470972",
+    "name": "Matthew Paul Flowerhill",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "23": {
+    "ts_player_id": "23",
+    "usab_id": "1019643",
+    "name": "Pradyun Gowda",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "24": {
+    "ts_player_id": "24",
+    "usab_id": "436416",
+    "name": "Yuki Guan",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "25": {
+    "ts_player_id": "25",
+    "usab_id": "1020480",
+    "name": "Christopher Gunawan",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "26": {
+    "ts_player_id": "26",
+    "usab_id": null,
+    "name": "Frank He (chongkai)",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "27": {
+    "ts_player_id": "27",
+    "usab_id": "471256",
+    "name": "Xianxuan He",
+    "events": [
+      "BS U11"
+    ]
+  },
+  "28": {
+    "ts_player_id": "28",
+    "usab_id": "470558",
+    "name": "Ellis Ho",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "29": {
+    "ts_player_id": "29",
+    "usab_id": "1021420",
+    "name": "Felicia Ho",
+    "events": [
+      "GD U13",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "30": {
+    "ts_player_id": "30",
+    "usab_id": "470381",
+    "name": "Aaron Hong",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "31": {
+    "ts_player_id": "31",
+    "usab_id": "436707",
+    "name": "Aiden JINYOOL Hong",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "32": {
+    "ts_player_id": "32",
+    "usab_id": "470428",
+    "name": "Claire Hong",
+    "events": [
+      "GD U13",
+      "GS U13"
+    ]
+  },
+  "33": {
+    "ts_player_id": "33",
+    "usab_id": "470513",
+    "name": "Albert Hu",
+    "events": [
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "34": {
+    "ts_player_id": "34",
+    "usab_id": "470375",
+    "name": "Andrew Hu",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "35": {
+    "ts_player_id": "35",
+    "usab_id": "471254",
+    "name": "Brian Huang",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "36": {
+    "ts_player_id": "36",
+    "usab_id": "1021257",
+    "name": "Kevin Huynh",
+    "events": [
+      "BS U19"
+    ]
+  },
+  "37": {
+    "ts_player_id": "37",
+    "usab_id": "1022121",
+    "name": "Lanting Jiang",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "38": {
+    "ts_player_id": "38",
+    "usab_id": "1018064",
+    "name": "Michael Jiang",
+    "events": [
+      "BD U19",
+      "BS U19",
+      "XD U19"
+    ]
+  },
+  "39": {
+    "ts_player_id": "39",
+    "usab_id": "398884",
+    "name": "Xintong Jiang",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "40": {
+    "ts_player_id": "40",
+    "usab_id": "436499",
+    "name": "Yooseung Jason Jung",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "41": {
+    "ts_player_id": "41",
+    "usab_id": "1021522",
+    "name": "Chloe A Kai",
+    "events": [
+      "GD U17",
+      "GS U19",
+      "XD U19"
+    ]
+  },
+  "42": {
+    "ts_player_id": "42",
+    "usab_id": "1020486",
+    "name": "Veera Kalakota",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "43": {
+    "ts_player_id": "43",
+    "usab_id": "470379",
+    "name": "Hailey Yeseul Kim",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "44": {
+    "ts_player_id": "44",
+    "usab_id": "470419",
+    "name": "Madison Yerim Kim",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "45": {
+    "ts_player_id": "45",
+    "usab_id": "471148",
+    "name": "Yong Han Kim",
+    "events": [
+      "BS U15"
+    ]
+  },
+  "46": {
+    "ts_player_id": "46",
+    "usab_id": "407371",
+    "name": "Andy Korlann",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "47": {
+    "ts_player_id": "47",
+    "usab_id": "1019723",
+    "name": "Ashley Wai Kwan",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "48": {
+    "ts_player_id": "48",
+    "usab_id": "47188",
+    "name": "Erika My Lai",
+    "events": [
+      "GD U19",
+      "GS U19"
+    ]
+  },
+  "49": {
+    "ts_player_id": "49",
+    "usab_id": "461569",
+    "name": "Austin Lam",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "50": {
+    "ts_player_id": "50",
+    "usab_id": "458624",
+    "name": "Hailey Lam",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "51": {
+    "ts_player_id": "51",
+    "usab_id": "405024",
+    "name": "Tsz Wai Lam",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "52": {
+    "ts_player_id": "52",
+    "usab_id": null,
+    "name": "Junjie Lao",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "53": {
+    "ts_player_id": "53",
+    "usab_id": "1020855",
+    "name": "Aiden S Lau",
+    "events": [
+      "BD U19",
+      "BS U19",
+      "XD U17"
+    ]
+  },
+  "54": {
+    "ts_player_id": "54",
+    "usab_id": "1022000",
+    "name": "Jordan Lau",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "55": {
+    "ts_player_id": "55",
+    "usab_id": "1020943",
+    "name": "Gavin Le",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U15"
+    ]
+  },
+  "56": {
+    "ts_player_id": "56",
+    "usab_id": "470378",
+    "name": "Daniel Lee",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "57": {
+    "ts_player_id": "57",
+    "usab_id": "471187",
+    "name": "Olivia Lee",
+    "events": [
+      "GD U13",
+      "GS U13"
+    ]
+  },
+  "58": {
+    "ts_player_id": "58",
+    "usab_id": "470948",
+    "name": "Yumie Lee",
+    "events": [
+      "GD U15",
+      "GS U15"
+    ]
+  },
+  "59": {
+    "ts_player_id": "59",
+    "usab_id": "408768",
+    "name": "Cheree Leung",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "60": {
+    "ts_player_id": "60",
+    "usab_id": "1020998",
+    "name": "Lorin Leung",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "61": {
+    "ts_player_id": "61",
+    "usab_id": "1022062",
+    "name": "Renee Leung",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U17"
+    ]
+  },
+  "62": {
+    "ts_player_id": "62",
+    "usab_id": "410748",
+    "name": "Cindy Li",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "63": {
+    "ts_player_id": "63",
+    "usab_id": "470374",
+    "name": "Haoyang Li",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "64": {
+    "ts_player_id": "64",
+    "usab_id": "2036051",
+    "name": "Matthew Li",
+    "events": [
+      "BD U19",
+      "BS U19",
+      "XD U19"
+    ]
+  },
+  "65": {
+    "ts_player_id": "65",
+    "usab_id": "437541",
+    "name": "Ryan Li",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "66": {
+    "ts_player_id": "66",
+    "usab_id": null,
+    "name": "Delwyn Liang",
+    "events": [
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "67": {
+    "ts_player_id": "67",
+    "usab_id": "1022517",
+    "name": "Swanika Liang",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "68": {
+    "ts_player_id": "68",
+    "usab_id": "465106",
+    "name": "William Lin",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "69": {
+    "ts_player_id": "69",
+    "usab_id": "456943",
+    "name": "Finley L Lin-Gracey",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "70": {
+    "ts_player_id": "70",
+    "usab_id": "437072",
+    "name": "Aiden Liu",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "71": {
+    "ts_player_id": "71",
+    "usab_id": "412662",
+    "name": "Bella Liu",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "72": {
+    "ts_player_id": "72",
+    "usab_id": "413028",
+    "name": "Bliss Liu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "73": {
+    "ts_player_id": "73",
+    "usab_id": "1020958",
+    "name": "Dongzi Liu",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "74": {
+    "ts_player_id": "74",
+    "usab_id": "1020220",
+    "name": "Emily Liu",
+    "events": [
+      "GD U19",
+      "GS U19",
+      "XD U19"
+    ]
+  },
+  "75": {
+    "ts_player_id": "75",
+    "usab_id": "413253",
+    "name": "Eric Shunqi Liu",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "76": {
+    "ts_player_id": "76",
+    "usab_id": "444459",
+    "name": "Angie Lu",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "77": {
+    "ts_player_id": "77",
+    "usab_id": "436889",
+    "name": "Evan Lu",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "78": {
+    "ts_player_id": "78",
+    "usab_id": "465307",
+    "name": "Danny Luo",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "79": {
+    "ts_player_id": "79",
+    "usab_id": "398222",
+    "name": "Ethan Yip Ly",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "80": {
+    "ts_player_id": "80",
+    "usab_id": "444460",
+    "name": "Rayansh Maheshwari",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "81": {
+    "ts_player_id": "81",
+    "usab_id": "456817",
+    "name": "Jerry Zhengnan Mai",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "82": {
+    "ts_player_id": "82",
+    "usab_id": "456818",
+    "name": "Zhengqian Mai",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "83": {
+    "ts_player_id": "83",
+    "usab_id": "470300",
+    "name": "Caden Mcmullin",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "84": {
+    "ts_player_id": "84",
+    "usab_id": "418773",
+    "name": "Rita Mei",
+    "events": [
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "85": {
+    "ts_player_id": "85",
+    "usab_id": "1006358",
+    "name": "Meghana Nishant",
+    "events": [
+      "GD U15",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "86": {
+    "ts_player_id": "86",
+    "usab_id": "437699",
+    "name": "Keaton Ou",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "87": {
+    "ts_player_id": "87",
+    "usab_id": "1021829",
+    "name": "Xinyang Peng",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "88": {
+    "ts_player_id": "88",
+    "usab_id": "470421",
+    "name": "Vedasri Saanvi Puppala",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "89": {
+    "ts_player_id": "89",
+    "usab_id": "445203",
+    "name": "Siming(Alan) Qu",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "90": {
+    "ts_player_id": "90",
+    "usab_id": "403009",
+    "name": "Shivani Ramakrishnan",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "92": {
+    "ts_player_id": "92",
+    "usab_id": "438591",
+    "name": "Abigail Schoppe",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "93": {
+    "ts_player_id": "93",
+    "usab_id": "1020586",
+    "name": "Jaden Seangmany",
+    "events": [
+      "BS U19"
+    ]
+  },
+  "94": {
+    "ts_player_id": "94",
+    "usab_id": "413123",
+    "name": "Jayden Su",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "95": {
+    "ts_player_id": "95",
+    "usab_id": "352126",
+    "name": "Sofia Su",
+    "events": [
+      "GD U11",
+      "GS U11"
+    ]
+  },
+  "96": {
+    "ts_player_id": "96",
+    "usab_id": "437313",
+    "name": "Crystal Sun",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "97": {
+    "ts_player_id": "97",
+    "usab_id": "413119",
+    "name": "Eddie Sun",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "98": {
+    "ts_player_id": "98",
+    "usab_id": "413120",
+    "name": "Zoe Sun",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "99": {
+    "ts_player_id": "99",
+    "usab_id": "422950",
+    "name": "Jonathan Tan",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "100": {
+    "ts_player_id": "100",
+    "usab_id": null,
+    "name": "Yufan Evan Tan",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "101": {
+    "ts_player_id": "101",
+    "usab_id": "1020969",
+    "name": "Zoey Enqi Tan",
+    "events": [
+      "GD U19",
+      "GS U19"
+    ]
+  },
+  "102": {
+    "ts_player_id": "102",
+    "usab_id": "1020476",
+    "name": "Mihir Thaha",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "103": {
+    "ts_player_id": "103",
+    "usab_id": "429996",
+    "name": "Ethan Thai",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "104": {
+    "ts_player_id": "104",
+    "usab_id": "405330",
+    "name": "Ritchie P Timothy",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "105": {
+    "ts_player_id": "105",
+    "usab_id": "470638",
+    "name": "Isla Katherine Tran",
+    "events": [
+      "GD U11",
+      "GS U11"
+    ]
+  },
+  "106": {
+    "ts_player_id": "106",
+    "usab_id": "403801",
+    "name": "Justin Tran",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "107": {
+    "ts_player_id": "107",
+    "usab_id": "437806",
+    "name": "Karra Emily Tran",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "108": {
+    "ts_player_id": "108",
+    "usab_id": "437849",
+    "name": "Reese Katherine Tran",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "110": {
+    "ts_player_id": "110",
+    "usab_id": "457476",
+    "name": "Aaron Tsai",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "111": {
+    "ts_player_id": "111",
+    "usab_id": "470377",
+    "name": "Vihaan Tungala",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "112": {
+    "ts_player_id": "112",
+    "usab_id": "400396",
+    "name": "Angela Wang",
+    "events": [
+      "GD U17",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "113": {
+    "ts_player_id": "113",
+    "usab_id": "458188",
+    "name": "Bowen Wang",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "114": {
+    "ts_player_id": "114",
+    "usab_id": "456875",
+    "name": "Grace Wang",
+    "events": [
+      "GD U13",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "115": {
+    "ts_player_id": "115",
+    "usab_id": "457610",
+    "name": "Henry Wang",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "116": {
+    "ts_player_id": "116",
+    "usab_id": "443105",
+    "name": "Isabel Wang",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "117": {
+    "ts_player_id": "117",
+    "usab_id": "460793",
+    "name": "Jeremy Wang",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "118": {
+    "ts_player_id": "118",
+    "usab_id": "436411",
+    "name": "Joey Wang",
+    "events": [
+      "BD U11",
+      "BS U13",
+      "XD U11"
+    ]
+  },
+  "119": {
+    "ts_player_id": "119",
+    "usab_id": "437369",
+    "name": "Leslie Wang",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "120": {
+    "ts_player_id": "120",
+    "usab_id": "443102",
+    "name": "Olivia Wang",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "121": {
+    "ts_player_id": "121",
+    "usab_id": "470916",
+    "name": "Ryan Wang",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "122": {
+    "ts_player_id": "122",
+    "usab_id": "437327",
+    "name": "Yuyang Wang",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "123": {
+    "ts_player_id": "123",
+    "usab_id": "437700",
+    "name": "Zachary Wang",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "124": {
+    "ts_player_id": "124",
+    "usab_id": "1022633",
+    "name": "Selena Wei",
+    "events": [
+      "GD U15",
+      "GS U17",
+      "XD U15"
+    ]
+  },
+  "125": {
+    "ts_player_id": "125",
+    "usab_id": "407299",
+    "name": "Devon Wong",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "127": {
+    "ts_player_id": "127",
+    "usab_id": null,
+    "name": "Luka Wong (0110wel)",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "128": {
+    "ts_player_id": "128",
+    "usab_id": "445058",
+    "name": "Aiden Wu",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "129": {
+    "ts_player_id": "129",
+    "usab_id": "408958",
+    "name": "Allen Wu",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "130": {
+    "ts_player_id": "130",
+    "usab_id": "1022057",
+    "name": "Ethan Wu",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "131": {
+    "ts_player_id": "131",
+    "usab_id": "469415",
+    "name": "Ao Xiang",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "132": {
+    "ts_player_id": "132",
+    "usab_id": "400584",
+    "name": "Daniel Xie",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "133": {
+    "ts_player_id": "133",
+    "usab_id": "1020931",
+    "name": "Bernice Xu",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "134": {
+    "ts_player_id": "134",
+    "usab_id": "433543",
+    "name": "Daisy Xu",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "135": {
+    "ts_player_id": "135",
+    "usab_id": "398240",
+    "name": "Katherine F Xu",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U15"
+    ]
+  },
+  "136": {
+    "ts_player_id": "136",
+    "usab_id": "470169",
+    "name": "Keqi Yang",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "137": {
+    "ts_player_id": "137",
+    "usab_id": "461503",
+    "name": "Willie WANLI Yang",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "138": {
+    "ts_player_id": "138",
+    "usab_id": "403350",
+    "name": "Yian Yang",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "139": {
+    "ts_player_id": "139",
+    "usab_id": "1022441",
+    "name": "Zhenbang Yang",
+    "events": [
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "140": {
+    "ts_player_id": "140",
+    "usab_id": "1020477",
+    "name": "Cassidy Yeh",
+    "events": [
+      "GD U19",
+      "GS U19",
+      "XD U17"
+    ]
+  },
+  "141": {
+    "ts_player_id": "141",
+    "usab_id": "456925",
+    "name": "Anson Yip",
+    "events": [
+      "BD U17",
+      "BS U15"
+    ]
+  },
+  "142": {
+    "ts_player_id": "142",
+    "usab_id": "1020874",
+    "name": "Atticus Yong",
+    "events": [
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "143": {
+    "ts_player_id": "143",
+    "usab_id": "47317",
+    "name": "Justine Yong",
+    "events": [
+      "GD U19",
+      "GS U17"
+    ]
+  },
+  "144": {
+    "ts_player_id": "144",
+    "usab_id": "1022733",
+    "name": "Linus Yong",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "145": {
+    "ts_player_id": "145",
+    "usab_id": "1022330",
+    "name": "Phillip You",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "146": {
+    "ts_player_id": "146",
+    "usab_id": "437569",
+    "name": "Eric Yu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "147": {
+    "ts_player_id": "147",
+    "usab_id": "1021572",
+    "name": "Jaleesa Yu",
+    "events": [
+      "GD U17",
+      "GS U17"
+    ]
+  },
+  "148": {
+    "ts_player_id": "148",
+    "usab_id": "437702",
+    "name": "Kaiwen Yu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "149": {
+    "ts_player_id": "149",
+    "usab_id": "412921",
+    "name": "Tracy Yu",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "150": {
+    "ts_player_id": "150",
+    "usab_id": "445080",
+    "name": "Weirui Yu",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "151": {
+    "ts_player_id": "151",
+    "usab_id": "470967",
+    "name": "Sophia Nicole Zandpour",
+    "events": [
+      "GD U15",
+      "GS U15"
+    ]
+  },
+  "152": {
+    "ts_player_id": "152",
+    "usab_id": "1020950",
+    "name": "Maggie Zang",
+    "events": [
+      "GD U17",
+      "GS U19",
+      "XD U17"
+    ]
+  },
+  "153": {
+    "ts_player_id": "153",
+    "usab_id": "470241",
+    "name": "Mingyuan Zang",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "154": {
+    "ts_player_id": "154",
+    "usab_id": "471042",
+    "name": "Kyle Zhan",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "155": {
+    "ts_player_id": "155",
+    "usab_id": "436757",
+    "name": "Andrew Steven Zhang",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "156": {
+    "ts_player_id": "156",
+    "usab_id": "471049",
+    "name": "Henry HONGXU Zhang",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "157": {
+    "ts_player_id": "157",
+    "usab_id": "1022462",
+    "name": "Jaxton Zhang",
+    "events": [
+      "BD U19",
+      "BS U19"
+    ]
+  },
+  "158": {
+    "ts_player_id": "158",
+    "usab_id": "444625",
+    "name": "Nova Zhang",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "159": {
+    "ts_player_id": "159",
+    "usab_id": "436403",
+    "name": "Egbert Zhao",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "160": {
+    "ts_player_id": "160",
+    "usab_id": "1019845",
+    "name": "Ziyan Zhao",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "161": {
+    "ts_player_id": "161",
+    "usab_id": "470233",
+    "name": "Boqian Zheng",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "162": {
+    "ts_player_id": "162",
+    "usab_id": null,
+    "name": "Kaizhou Zheng (zheng kai zhou)",
+    "events": [
+      "BS U19"
+    ]
+  },
+  "163": {
+    "ts_player_id": "163",
+    "usab_id": "1022669",
+    "name": "Jacob Zhou",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "164": {
+    "ts_player_id": "164",
+    "usab_id": "410736",
+    "name": "Jaden Zhou",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "165": {
+    "ts_player_id": "165",
+    "usab_id": "1022081",
+    "name": "Judy Zhu",
+    "events": [
+      "GD U17",
+      "GS U15"
+    ]
+  },
+  "166": {
+    "ts_player_id": "166",
+    "usab_id": "1020604",
+    "name": "Yalan Zhu",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  }
+}

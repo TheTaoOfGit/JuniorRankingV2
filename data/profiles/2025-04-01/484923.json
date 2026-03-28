@@ -1,0 +1,75 @@
+{
+  "usab_id": "484923",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 480,
+      "rank": 107,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 822,
+      "rank": 105,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 877,
+      "rank": 119,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Luke Wen",
+  "year_of_birth": null,
+  "gender": "M"
+}

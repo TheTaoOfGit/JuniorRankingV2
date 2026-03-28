@@ -1,0 +1,60 @@
+{
+  "usab_id": "471350",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 629,
+      "rank": 167,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 535,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 819,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    }
+  ],
+  "name": "Deeksha Suresh Babu",
+  "year_of_birth": null,
+  "gender": "XD"
+}

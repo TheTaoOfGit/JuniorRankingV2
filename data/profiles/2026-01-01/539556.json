@@ -1,0 +1,35 @@
+{
+  "usab_id": "539556",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 102,
+      "rank": 262,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 102,
+      "rank": 119,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Adrianna Marie Sy",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "confirmed"
+}

@@ -1,0 +1,141 @@
+{
+  "usab_id": "1020476",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 12480,
+      "rank": 36,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "5940"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "BS U17",
+      "ranking_points": 6480,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "5940"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 12720,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9 to 12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 7020,
+      "rank": 62,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9 to 12",
+          "points": "4860"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 13650,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "5940"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 8100,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "5940"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "2160"
+        }
+      ]
+    }
+  ],
+  "name": "Mihir Thaha",
+  "year_of_birth": null,
+  "gender": "M"
+}

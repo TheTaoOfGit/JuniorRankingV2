@@ -1,0 +1,33 @@
+{
+  "usab_id": "485078",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 64,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 159,
+      "rank": 83,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Le Siang (Lex) Low",
+  "year_of_birth": null,
+  "gender": "M"
+}

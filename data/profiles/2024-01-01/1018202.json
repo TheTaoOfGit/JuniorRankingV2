@@ -1,0 +1,43 @@
+{
+  "usab_id": "1018202",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2430,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 5670,
+      "rank": 103,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Yu Hung Jiang",
+  "year_of_birth": null,
+  "gender": "M"
+}

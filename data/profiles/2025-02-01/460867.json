@@ -1,0 +1,85 @@
+{
+  "usab_id": "460867",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 775,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "191"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1052,
+      "rank": 95,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 315,
+      "rank": 187,
+      "tournaments": [
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Brayden Liu",
+  "year_of_birth": null,
+  "gender": "M"
+}

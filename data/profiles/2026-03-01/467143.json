@@ -1,0 +1,72 @@
+{
+  "usab_id": "467143",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 1102,
+      "rank": 182,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "630"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "354"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 913,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "47"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 583,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Ishitha Sreevisakh",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2013,
+  "year_of_birth_confidence": "confirmed"
+}

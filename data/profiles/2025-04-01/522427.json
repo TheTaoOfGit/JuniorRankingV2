@@ -1,0 +1,33 @@
+{
+  "usab_id": "522427",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "GS U13",
+      "ranking_points": 118,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 295,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "5 to 8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Hannah Wong",
+  "year_of_birth": null,
+  "gender": "F"
+}

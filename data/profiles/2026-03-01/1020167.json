@@ -1,0 +1,40 @@
+{
+  "usab_id": "1020167",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 1000,
+      "rank": 163,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 6400,
+      "rank": 105,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2026 DAVE FREEMAN JR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    }
+  ],
+  "name": "Evan Mu",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2009,
+  "year_of_birth_confidence": "estimated_likely"
+}

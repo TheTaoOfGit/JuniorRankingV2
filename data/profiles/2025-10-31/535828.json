@@ -1,0 +1,40 @@
+{
+  "usab_id": "535828",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 128,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        },
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 167,
+      "tournaments": [
+        {
+          "tournament": "2025 CAN-AM ELITE BADMINTON NORCAL OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Howard Law",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

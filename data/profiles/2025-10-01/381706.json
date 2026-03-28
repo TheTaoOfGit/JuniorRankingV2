@@ -1,0 +1,75 @@
+{
+  "usab_id": "381706",
+  "date": "2025-10-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 4266,
+      "rank": 133,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "1620"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 2201,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 4253,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "3240"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Angela Wang",
+  "year_of_birth": null,
+  "gender": "F"
+}

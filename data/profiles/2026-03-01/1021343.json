@@ -1,0 +1,67 @@
+{
+  "usab_id": "1021343",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 4860,
+      "rank": 120,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "4860"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 9435,
+      "rank": 36,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "3240"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 20020,
+      "rank": 26,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "6",
+          "points": "13000"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "4320"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "2",
+          "points": "2700"
+        }
+      ]
+    }
+  ],
+  "name": "Sanjanaa Shyam",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2009,
+  "year_of_birth_confidence": "confirmed"
+}

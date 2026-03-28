@@ -1,0 +1,41 @@
+{
+  "usab_id": "1023255",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 595,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "43"
+        }
+      ]
+    }
+  ],
+  "name": "Wilson Liao",
+  "year_of_birth": null,
+  "gender": "M"
+}

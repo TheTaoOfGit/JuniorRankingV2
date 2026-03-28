@@ -1,0 +1,75 @@
+{
+  "usab_id": "447845",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 780,
+      "rank": 94,
+      "tournaments": [
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 992,
+      "rank": 110,
+      "tournaments": [
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 791,
+      "rank": 164,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    }
+  ],
+  "name": "Shreyansh Panda",
+  "year_of_birth": null,
+  "gender": "M"
+}

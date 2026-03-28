@@ -1,0 +1,60 @@
+{
+  "usab_id": "1019487",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2000,
+      "rank": 142,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 12000,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "8000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 20000,
+      "rank": 27,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    }
+  ],
+  "name": "Jun Heng Lai",
+  "year_of_birth": null,
+  "gender": "BS"
+}

@@ -1,0 +1,43 @@
+{
+  "usab_id": "477795",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 350,
+      "rank": 273,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1386,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Victoria Zhu",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,63 @@
+{
+  "usab_id": "419895",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 10750,
+      "rank": 50,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "3000"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 15250,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "6000"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Raymond Li",
+  "year_of_birth": null,
+  "gender": "M"
+}

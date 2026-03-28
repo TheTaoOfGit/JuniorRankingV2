@@ -1,0 +1,33 @@
+{
+  "usab_id": "455986",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 85,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 340,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Terrisa Zhang",
+  "year_of_birth": null,
+  "gender": "F"
+}

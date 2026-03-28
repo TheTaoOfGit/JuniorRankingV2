@@ -1,0 +1,60 @@
+{
+  "usab_id": "413253",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 192,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "43"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 315,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 213,
+      "rank": 142,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Eric Liu",
+  "year_of_birth": null,
+  "gender": "M"
+}

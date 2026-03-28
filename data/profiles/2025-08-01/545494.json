@@ -1,0 +1,33 @@
+{
+  "usab_id": "545494",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 656,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "656"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 875,
+      "rank": 132,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        }
+      ]
+    }
+  ],
+  "name": "Amrutha Katta",
+  "year_of_birth": null,
+  "gender": "F"
+}

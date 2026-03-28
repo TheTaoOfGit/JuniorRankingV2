@@ -1,0 +1,47 @@
+{
+  "usab_id": "441618",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1875,
+      "rank": 181,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 2400,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 2400,
+      "rank": 102,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    }
+  ],
+  "name": "Ahana Bhat",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2007,
+  "year_of_birth_confidence": "confirmed"
+}

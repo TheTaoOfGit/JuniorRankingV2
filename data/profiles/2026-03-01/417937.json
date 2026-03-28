@@ -1,0 +1,60 @@
+{
+  "usab_id": "417937",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 9425,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "1000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 14050,
+      "rank": 52,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "9000"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    }
+  ],
+  "name": "Nathan Kankanala",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2008,
+  "year_of_birth_confidence": "confirmed"
+}

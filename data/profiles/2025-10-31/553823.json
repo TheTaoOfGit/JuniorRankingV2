@@ -1,0 +1,35 @@
+{
+  "usab_id": "553823",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 85,
+      "rank": 148,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 213,
+      "rank": 117,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Westin Chen",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2016,
+  "year_of_birth_confidence": "estimated_likely"
+}

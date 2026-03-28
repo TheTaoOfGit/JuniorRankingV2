@@ -1,0 +1,33 @@
+{
+  "usab_id": "2036055",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 1200,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2022 SOCAL SGVBC CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1875,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2022 SOCAL SGVBC CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    }
+  ],
+  "name": "Cindy Lin",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,35 @@
+{
+  "usab_id": "1022001",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 2400,
+      "rank": 170,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 2550,
+      "rank": 74,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Kishita Arora",
+  "year_of_birth": null,
+  "gender": "XD",
+  "year_of_birth_inferred": 2007,
+  "year_of_birth_confidence": "confirmed"
+}

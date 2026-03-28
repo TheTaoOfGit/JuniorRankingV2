@@ -1,0 +1,33 @@
+{
+  "usab_id": "471758",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "GS U13",
+      "ranking_points": 64,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 102,
+      "rank": 125,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Sophie Che",
+  "year_of_birth": null,
+  "gender": "F"
+}

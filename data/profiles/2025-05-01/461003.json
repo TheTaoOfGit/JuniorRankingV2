@@ -1,0 +1,33 @@
+{
+  "usab_id": "461003",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1620,
+      "rank": 209,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "1620"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1080,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "1080"
+        }
+      ]
+    }
+  ],
+  "name": "Rena De Villiers",
+  "year_of_birth": null,
+  "gender": "F"
+}

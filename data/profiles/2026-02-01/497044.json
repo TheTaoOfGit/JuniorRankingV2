@@ -1,0 +1,72 @@
+{
+  "usab_id": "497044",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 1215,
+      "rank": 133,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "17-32",
+          "points": "405"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 1944,
+      "rank": 152,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 4950,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    }
+  ],
+  "name": "Kaie Bernal",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2011,
+  "year_of_birth_confidence": "estimated_likely"
+}

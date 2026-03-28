@@ -1,0 +1,90 @@
+{
+  "usab_id": "407036",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1262,
+      "rank": 83,
+      "tournaments": [
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "17-32",
+          "points": "219"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 2129,
+      "rank": 85,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 1889,
+      "rank": 112,
+      "tournaments": [
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Siddhanth Selvanathan",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,75 @@
+{
+  "usab_id": "414297",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 347,
+      "rank": 127,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "65-128",
+          "points": "79"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "79"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1213,
+      "rank": 79,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "9-16",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 716,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Austin Win",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,57 @@
+{
+  "usab_id": "1022023",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1013,
+      "rank": 222,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1998,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 4833,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "3375"
+        },
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "2",
+          "points": "1458"
+        }
+      ]
+    }
+  ],
+  "name": "Annabelle Cheng",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2010,
+  "year_of_birth_confidence": "confirmed"
+}

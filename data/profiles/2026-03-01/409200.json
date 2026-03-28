@@ -1,0 +1,55 @@
+{
+  "usab_id": "409200",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 7375,
+      "rank": 67,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "3000"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 12875,
+      "rank": 63,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "13-16",
+          "points": "7000"
+        },
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1875"
+        }
+      ]
+    }
+  ],
+  "name": "Vedaant Sreedharan",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2008,
+  "year_of_birth_confidence": "confirmed"
+}

@@ -1,0 +1,35 @@
+{
+  "usab_id": "538306",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 64,
+      "rank": 155,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 204,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Jacob Zhang",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

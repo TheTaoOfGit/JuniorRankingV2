@@ -1,0 +1,72 @@
+{
+  "usab_id": "522270",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 223,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 397,
+      "rank": 159,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 102,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 306,
+      "rank": 91,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Hrishikesh Gollamudi",
+  "year_of_birth": null,
+  "gender": "M"
+}

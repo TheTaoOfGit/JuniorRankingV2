@@ -1,0 +1,36 @@
+{
+  "usab_id": "419001",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 18950,
+      "rank": 21,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "1",
+          "points": "10000"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "5-8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "1500"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "9-16",
+          "points": "1200"
+        }
+      ]
+    }
+  ],
+  "name": "Anirv Chamakura",
+  "year_of_birth": null,
+  "gender": "BS"
+}

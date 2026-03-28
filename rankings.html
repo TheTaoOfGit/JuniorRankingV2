@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>(Unofficial) USA Badminton Junior Rankings</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #333; }
+.header { background: linear-gradient(135deg, #1a3a5c, #2d6aa0); color: white; padding: 14px 24px; text-align: center; }
+.header h1 { font-size: 20px; margin-bottom: 2px; }
+.header p { opacity: 0.8; font-size: 12px; }
+.controls { background: white; border-bottom: 1px solid #ddd; padding: 8px 16px; position: sticky; top: 0; z-index: 10; }
+.controls-row { display: flex; align-items: center; gap: 10px; justify-content: center; flex-wrap: wrap; }
+.month-nav { display: flex; align-items: center; gap: 4px; }
+.month-nav button { padding: 4px 10px; border: 1px solid #ccc; background: white; border-radius: 4px; cursor: pointer; font-size: 13px; }
+.month-nav button:hover { background: #eee; }
+.month-nav select { padding: 5px 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 13px; font-weight: 600; }
+.tab-group { display: flex; gap: 2px; }
+.tab-group button { padding: 5px 12px; border: 2px solid #2d6aa0; background: white; color: #2d6aa0; border-radius: 5px; cursor: pointer; font-weight: 600; font-size: 12px; }
+.tab-group button.active { background: #2d6aa0; color: white; }
+.tab-group button:hover:not(.active) { background: #e8f0f8; }
+.disc-group { display: flex; gap: 2px; }
+.disc-group button { padding: 4px 10px; border: 1px solid #999; background: white; color: #555; border-radius: 4px; cursor: pointer; font-size: 11px; }
+.disc-group button.active { background: #555; color: white; }
+.disc-group button:hover:not(.active) { background: #eee; }
+.controls input { padding: 5px 10px; border: 1px solid #ddd; border-radius: 5px; font-size: 12px; width: 160px; }
+.container { max-width: 1100px; margin: 0 auto; padding: 10px 16px; }
+.stats { display: flex; gap: 8px; margin-bottom: 8px; justify-content: center; flex-wrap: wrap; }
+.stat { background: white; border-radius: 6px; padding: 6px 12px; box-shadow: 0 1px 2px rgba(0,0,0,0.08); text-align: center; min-width: 70px; }
+.stat .n { font-size: 16px; font-weight: 700; color: #1a3a5c; }
+.stat .l { font-size: 9px; color: #888; }
+table { width: 100%; border-collapse: collapse; font-size: 12px; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+thead th { text-align: left; padding: 7px 8px; background: #f0f2f5; border-bottom: 2px solid #dee2e6; font-weight: 600; font-size: 10px; color: #555; text-transform: uppercase; letter-spacing: 0.5px; }
+td { padding: 5px 8px; border-bottom: 1px solid #f0f0f0; vertical-align: top; }
+tr.data-row:hover td { background: #f5f9ff; }
+.rank-cell { font-weight: 700; color: #1a3a5c; font-size: 13px; text-align: right; width: 36px; }
+.name-cell { font-weight: 500; }
+.name-cell a { color: #0066cc; text-decoration: none; }
+.name-cell a:hover { text-decoration: underline; }
+.born { color: #aaa; font-size: 10px; font-weight: 400; margin-left: 3px; }
+.pts-cell { font-weight: 700; color: #1a3a5c; font-size: 13px; text-align: right; width: 55px; }
+.match-cell { text-align: center; width: 20px; font-size: 10px; }
+.match-yes { color: #28a745; }
+.match-no { color: #dc3545; }
+.tournaments-cell { font-size: 11px; line-height: 1.5; color: #555; }
+.t-line { display: flex; gap: 5px; align-items: baseline; }
+.t-pos { color: #1a3a5c; font-weight: 600; min-width: 36px; text-align: right; }
+.t-pts { color: #2d6aa0; font-weight: 600; min-width: 32px; text-align: right; }
+.t-badge { font-size: 9px; padding: 1px 4px; border-radius: 3px; font-weight: 700; min-width: 26px; text-align: center; display: inline-block; }
+.t-JN { background: #fff3cd; color: #856404; }
+.t-ORC { background: #d4edda; color: #155724; }
+.t-OLC { background: #cce5ff; color: #004085; }
+.t-CRC { background: #e2e3e5; color: #383d41; }
+.t-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 260px; }
+.diff-note { color: #dc3545; font-size: 10px; margin-top: 1px; }
+#loading { text-align: center; padding: 40px; color: #888; font-size: 14px; }
+.no-data { text-align: center; padding: 40px; color: #aaa; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>(Unofficial) USA Badminton Junior Rankings</h1>
+  <p>Calculated from tournament match data | Top 4 results from last 12 months</p>
+  <p style="opacity:0.6;font-size:11px;margin-top:4px;">This ranking is unofficial. For official rankings (typically slightly delayed), visit <a href="https://usabjrrankings.org" target="_blank" style="color:#aed6ff;">usabjrrankings.org</a>.</p>
+</div>
+
+<div class="controls">
+  <div class="controls-row">
+    <div class="month-nav">
+      <button onclick="prevMonth()">&larr;</button>
+      <select id="month-select" onchange="loadMonth()"></select>
+      <button onclick="nextMonth()">&rarr;</button>
+    </div>
+    <div class="tab-group" id="age-tabs"></div>
+    <div class="disc-group" id="disc-tabs"></div>
+    <input type="text" id="search" placeholder="Search..." oninput="filterTable()">
+  </div>
+</div>
+
+<div class="container">
+  <div class="stats" id="stats"></div>
+  <table>
+    <thead><tr>
+      <th style="width:36px">#</th>
+      <th style="width:180px">Player</th>
+      <th style="width:55px;text-align:right">Pts</th>
+      <th style="width:20px"></th>
+      <th>Top 4 Tournament Results</th>
+    </tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+  <div id="loading">Loading...</div>
+</div>
+
+<script>
+const DATA = 'data/calculated_rankings_monthly';
+let manifest = null;
+let currentData = {};
+let officialMap = {};
+let currentMonth = '';
+let currentAG = 'U13';
+let currentDisc = 'GS';
+
+const AGE_GROUPS = ['U11','U13','U15','U17','U19'];
+const DISCIPLINES = [
+  {id:'BS', label:'Boys S'}, {id:'GS', label:'Girls S'},
+  {id:'BD', label:'Boys D'}, {id:'GD', label:'Girls D'},
+  {id:'XD', label:'Mixed D'}
+];
+
+async function init() {
+  try {
+    manifest = await (await fetch(`${DATA}/manifest.json`)).json();
+  } catch {
+    manifest = {dates: ['2026-03-01'], disciplines: ['BS','GS','BD','GD','XD'], age_groups: AGE_GROUPS};
+  }
+
+  // Populate month selector (newest first)
+  const sel = document.getElementById('month-select');
+  [...manifest.dates].reverse().forEach(d => {
+    const opt = document.createElement('option');
+    opt.value = d;
+    const dt = new Date(d + 'T00:00:00');
+    opt.textContent = dt.toLocaleDateString('en-US', {year:'numeric', month:'short'});
+    sel.appendChild(opt);
+  });
+  currentMonth = manifest.dates[manifest.dates.length - 1]; // most recent
+  sel.value = currentMonth;
+
+  // Build tabs
+  const agDiv = document.getElementById('age-tabs');
+  AGE_GROUPS.forEach(ag => {
+    const btn = document.createElement('button');
+    btn.textContent = ag;
+    btn.className = ag === currentAG ? 'active' : '';
+    btn.onclick = () => { currentAG = ag; updateTabs(); showRanking(); };
+    agDiv.appendChild(btn);
+  });
+  const discDiv = document.getElementById('disc-tabs');
+  DISCIPLINES.forEach(d => {
+    const btn = document.createElement('button');
+    btn.textContent = d.label;
+    btn.className = d.id === currentDisc ? 'active' : '';
+    btn.onclick = () => { currentDisc = d.id; updateTabs(); showRanking(); };
+    discDiv.appendChild(btn);
+  });
+
+  await loadMonth();
+}
+
+function updateTabs() {
+  document.querySelectorAll('.tab-group button').forEach(b => b.classList.toggle('active', b.textContent === currentAG));
+  document.querySelectorAll('.disc-group button').forEach((b, i) => b.classList.toggle('active', DISCIPLINES[i].id === currentDisc));
+}
+
+function prevMonth() {
+  const sel = document.getElementById('month-select');
+  if (sel.selectedIndex < sel.options.length - 1) {
+    sel.selectedIndex++;
+    loadMonth();
+  }
+}
+function nextMonth() {
+  const sel = document.getElementById('month-select');
+  if (sel.selectedIndex > 0) {
+    sel.selectedIndex--;
+    loadMonth();
+  }
+}
+
+async function loadMonth() {
+  const sel = document.getElementById('month-select');
+  currentMonth = sel.value;
+  document.getElementById('loading').style.display = 'block';
+  document.getElementById('tbody').innerHTML = '';
+
+  try {
+    currentData = await (await fetch(`${DATA}/${currentMonth}.json`)).json();
+  } catch {
+    // Try legacy single file
+    try {
+      currentData = await (await fetch('data/calculated_rankings.json')).json();
+    } catch {
+      currentData = {};
+    }
+  }
+
+  // Load official comparison if available
+  const key = `${currentDisc}_${currentAG}`;
+  try {
+    const off = await (await fetch(`data/rankings/${currentMonth}_${key}.json`)).json();
+    officialMap = {};
+    off.rankings.forEach(r => officialMap[r.usab_id] = r.ranking_points);
+  } catch { officialMap = {}; }
+
+  document.getElementById('loading').style.display = 'none';
+  showRanking();
+}
+
+async function showRanking() {
+  const key = `${currentDisc}_${currentAG}`;
+  const rankings = currentData[key] || [];
+
+  // Try loading official for this specific combo
+  try {
+    const off = await (await fetch(`data/rankings/${currentMonth}_${key}.json`)).json();
+    officialMap = {};
+    off.rankings.forEach(r => officialMap[r.usab_id] = r.ranking_points);
+  } catch { officialMap = {}; }
+
+  let yes = 0, no = 0;
+  rankings.forEach(r => {
+    const off = officialMap[r.usab_id];
+    if (off !== undefined) { if (String(r.total_points) === String(off)) yes++; else no++; }
+  });
+
+  const hasOfficial = yes + no > 0;
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="n">${currentDisc} ${currentAG}</div><div class="l">${currentMonth}</div></div>
+    <div class="stat"><div class="n">${rankings.length}</div><div class="l">Players</div></div>
+    ${hasOfficial ? `
+    <div class="stat"><div class="n">${yes}</div><div class="l">Match</div></div>
+    <div class="stat"><div class="n">${no}</div><div class="l">Diff</div></div>
+    <div class="stat"><div class="n">${Math.round(100*yes/(yes+no))}%</div><div class="l">Accuracy</div></div>
+    ` : ''}
+  `;
+
+  renderTable(rankings);
+}
+
+function shortName(name) {
+  return (name || '').replace(/^20\d{2}\s+/, '').replace(/YONEX\s+/i, '').replace(/U\.S\.\s+/i, '').replace(/OPEN\s+(REGIONAL|LOCAL)\s+CHAMPIONSHIPS?/i, '').replace(/CLOSED\s+REGIONAL\s+CHAMPIONSHIPS?/i, '').replace(/JUNIOR\s+NATIONAL\s+CHAMPIONSHIPS/i, 'JN').trim().substring(0, 32);
+}
+
+function renderTable(rankings) {
+  const q = document.getElementById('search').value.toLowerCase();
+  const tbody = document.getElementById('tbody');
+
+  if (!rankings.length) {
+    tbody.innerHTML = '<tr><td colspan="5" class="no-data">No ranking data for this period</td></tr>';
+    return;
+  }
+
+  let html = '';
+  rankings.forEach(r => {
+    if (q && !r.name.toLowerCase().includes(q) && !r.usab_id.includes(q)) return;
+
+    const off = officialMap[r.usab_id];
+    let matchHtml = '';
+    if (off !== undefined) {
+      matchHtml = String(r.total_points) === String(off)
+        ? '<span class="match-yes">&#10003;</span>'
+        : '<span class="match-no">&#10007;</span>';
+    }
+
+    let tournsHtml = '';
+    (r.top_results || []).forEach(t => {
+      tournsHtml += `<div class="t-line">
+        <span class="t-pos">${t.position_display || t.position}</span>
+        <span class="t-pts">${t.points}</span>
+        <span class="t-badge t-${t.type}">${t.type}</span>
+        <span class="t-name">${shortName(t.tournament)}</span>
+      </div>`;
+    });
+
+    if (off !== undefined && String(r.total_points) !== String(off)) {
+      const diff = r.total_points - off;
+      tournsHtml += `<div class="diff-note">Official: ${off} (${diff > 0 ? '+' : ''}${diff})</div>`;
+    }
+
+    html += `<tr class="data-row">
+      <td class="rank-cell">${r.rank}</td>
+      <td class="name-cell"><a href="player.html?id=${r.usab_id}">${r.name}</a><span class="born">~${r.yob || '?'}</span></td>
+      <td class="pts-cell">${r.total_points.toLocaleString()}</td>
+      <td class="match-cell">${matchHtml}</td>
+      <td class="tournaments-cell">${tournsHtml}</td>
+    </tr>`;
+  });
+
+  tbody.innerHTML = html || '<tr><td colspan="5" class="no-data">No players found</td></tr>';
+}
+
+function filterTable() {
+  const key = `${currentDisc}_${currentAG}`;
+  renderTable(currentData[key] || []);
+}
+
+init();
+</script>
+</body>
+</html>

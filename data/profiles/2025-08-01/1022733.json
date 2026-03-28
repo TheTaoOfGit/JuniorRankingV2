@@ -1,0 +1,65 @@
+{
+  "usab_id": "1022733",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1583,
+      "rank": 94,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "744"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 1481,
+      "rank": 131,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "787"
+        },
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 547,
+      "rank": 257,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Linus Yong",
+  "year_of_birth": null,
+  "gender": "M"
+}

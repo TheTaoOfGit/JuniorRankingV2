@@ -1,0 +1,43 @@
+{
+  "usab_id": "475221",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 244,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 372,
+      "rank": 85,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Ianson Chan",
+  "year_of_birth": null,
+  "gender": "M"
+}

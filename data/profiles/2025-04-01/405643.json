@@ -1,0 +1,90 @@
+{
+  "usab_id": "405643",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 812,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 2257,
+      "rank": 26,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 2651,
+      "rank": 35,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "935"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "850"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "1",
+          "points": "472"
+        },
+        {
+          "tournament": "2025 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5 to 8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Grace Park",
+  "year_of_birth": null,
+  "gender": "F"
+}

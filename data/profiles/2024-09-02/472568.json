@@ -1,0 +1,50 @@
+{
+  "usab_id": "472568",
+  "date": "2024-09-02",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 405,
+      "rank": 213,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 2213,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1200"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 3000,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    }
+  ],
+  "name": "Kristin Chen",
+  "year_of_birth": null,
+  "gender": "XD"
+}

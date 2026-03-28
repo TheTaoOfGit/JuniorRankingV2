@@ -1,0 +1,55 @@
+{
+  "usab_id": "479954",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 437,
+      "rank": 262,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "437"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1203,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2024 Nets & Turf South OLC",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "437"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1013,
+      "rank": 156,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Feronia Panjwani",
+  "year_of_birth": null,
+  "gender": "F"
+}

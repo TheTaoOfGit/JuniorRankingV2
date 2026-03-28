@@ -1,0 +1,45 @@
+{
+  "usab_id": "472342",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 193,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 204,
+      "rank": 91,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Nila Ilamurugu",
+  "year_of_birth": null,
+  "gender": "XD"
+}

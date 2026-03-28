@@ -1,0 +1,60 @@
+{
+  "usab_id": "525824",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 378,
+      "rank": 197,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 378,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 673,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2025 YONEX DAVE FREEMAN JUNIOR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Emily Xu",
+  "year_of_birth": null,
+  "gender": "F"
+}

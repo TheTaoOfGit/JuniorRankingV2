@@ -1,0 +1,45 @@
+{
+  "usab_id": "423827",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 146,
+      "rank": 313,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 146,
+      "rank": 174,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1166,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1166"
+        }
+      ]
+    }
+  ],
+  "name": "Chuhan Liu",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,79 @@
+{
+  "usab_id": "486096",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1195,
+      "rank": 238,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 547,
+      "rank": 269,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 1058,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        },
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1079,
+      "rank": 127,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX LIBC NORTHEAST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    }
+  ],
+  "name": "Myra Telang",
+  "year_of_birth": null,
+  "gender": "XD",
+  "year_of_birth_inferred": 2012,
+  "year_of_birth_confidence": "estimated_likely"
+}

@@ -1,0 +1,43 @@
+{
+  "usab_id": "444800",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 810,
+      "rank": 98,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1661,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    }
+  ],
+  "name": "Hansini Dornala",
+  "year_of_birth": null,
+  "gender": "F"
+}

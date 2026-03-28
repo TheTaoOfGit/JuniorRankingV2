@@ -1,0 +1,47 @@
+{
+  "usab_id": "472029",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 102,
+      "rank": 269,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 64,
+      "rank": 129,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 102,
+      "rank": 127,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Venya Pamidimukkala",
+  "year_of_birth": null,
+  "gender": "XD",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "confirmed"
+}

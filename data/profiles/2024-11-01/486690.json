@@ -1,0 +1,33 @@
+{
+  "usab_id": "486690",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 159,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 295,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Vihana Azhakan",
+  "year_of_birth": null,
+  "gender": "F"
+}

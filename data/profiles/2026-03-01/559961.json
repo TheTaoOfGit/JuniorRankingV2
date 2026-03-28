@@ -1,0 +1,55 @@
+{
+  "usab_id": "559961",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 251,
+      "rank": 61,
+      "tournaments": [
+        {
+          "tournament": "2026 DAVE FREEMAN JR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 703,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        },
+        {
+          "tournament": "2025 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2026 DAVE FREEMAN JR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Kevin Zhang",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

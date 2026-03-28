@@ -1,0 +1,33 @@
+{
+  "usab_id": "451173",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 64,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 102,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Vibhu Ramachandra Prakash",
+  "year_of_birth": null,
+  "gender": "M"
+}

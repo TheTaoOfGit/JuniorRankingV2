@@ -1,0 +1,72 @@
+{
+  "usab_id": "431027",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 3048,
+      "rank": 163,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "4",
+          "points": "2400"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 648,
+      "rank": 267,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1296,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2309,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Yuqin Peng",
+  "year_of_birth": null,
+  "gender": "F"
+}

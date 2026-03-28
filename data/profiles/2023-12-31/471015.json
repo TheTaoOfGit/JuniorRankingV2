@@ -1,0 +1,43 @@
+{
+  "usab_id": "471015",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 897,
+      "rank": 109,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1247,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "700"
+        },
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Suyao Lee",
+  "year_of_birth": null,
+  "gender": "F"
+}

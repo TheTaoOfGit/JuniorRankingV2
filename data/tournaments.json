@@ -1,0 +1,1016 @@
+{
+  "2025-2026": [
+    {
+      "dates": "8/30/25-9/1/25",
+      "name": "2025 YONEX BELLEVUE NORTHWEST ORC",
+      "region": "NW",
+      "host_club": "Bellevue Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/07/2025-YONEX-BELLEVUE-NW-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/D96AD8D0-A9D8-4679-939E-82E9963A49A7"
+    },
+    {
+      "dates": "9/20/25-9/21/25",
+      "name": "2025 AUSTIN LEANDER SOUTH OLC",
+      "region": "South",
+      "host_club": "Austin Badminton",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/08/2025-AUSTIN-BADMINTON-LEANDER-SOUTH-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/376A120B-F979-495B-9799-ED548D9A1E7E"
+    },
+    {
+      "dates": "10/11/25-10/13/25",
+      "name": "2025 YONEX LIBC NORTHEAST ORC",
+      "region": "NE",
+      "host_club": "Long Island Badminton Center",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/08/2025-YONEX-LIBC-NE-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/40CE63A2-430A-4C56-80C7-2DBD701A9019"
+    },
+    {
+      "dates": "11/8/25-11/10/25",
+      "name": "2025 YONEX SYNERGY NORCAL ORC",
+      "region": "NorCal",
+      "host_club": "Synergy Badminton Academy Automall",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/09/2025-YONEX-SYNERGY-NorCal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/A3D197AE-C74C-41BF-9C66-F91B7576B77A"
+    },
+    {
+      "dates": "11/22/25-11/23/25",
+      "name": "2025 EGRET MIDWEST OLC",
+      "region": "MW",
+      "host_club": "Egret Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/10/2025-Egret-Midwest-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/F1D5FE50-3A8A-4C5A-8A55-71BE130B6EC3"
+    },
+    {
+      "dates": "11/29/25-11/30/25",
+      "name": "2025 SCHAFER SLG SOUTH OLC",
+      "region": "South",
+      "host_club": "Schafer Badminton",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/10/2025-Schafer-SLG-South-OLC-Prospectus-2.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/75548892-B29A-420B-9951-973C8C9F2D68"
+    },
+    {
+      "dates": "12/5/25-12/7/25",
+      "name": "2025 FORTIUS SOUTH CRC",
+      "region": "South",
+      "host_club": "Fortius Sports Academy",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/10/2025-Fortius-South-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/22C92233-478E-4239-BCF3-A3A9A054BA2C"
+    },
+    {
+      "dates": "12/6/25-12/7/25",
+      "name": "2025 SGVBC SOCAL CRC",
+      "region": "SoCal",
+      "host_club": "San Gabriel Valley Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/10/2025-YONEX-SGVBC-SOCAL-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/FEAC4C02-C295-4225-AA82-CFCBA83B2834"
+    },
+    {
+      "dates": "12/12/25-12/14/25",
+      "name": "2025 CAPITAL NE OLC",
+      "region": "NE",
+      "host_club": "Capital Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/11/2025-Capital-NE-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/86C3EAAF-BA94-42DB-9110-7CD31A5810FD"
+    },
+    {
+      "dates": "12/20/25-12/21/25",
+      "name": "2025 PEAK SPORTS SOUTH OLC",
+      "region": "South",
+      "host_club": "Peak Sports",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/11/2025-Peak-Sports-South-OLC-Prospectus-2.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/78DDAE7C-34D9-4775-81F2-23C18EAC9265"
+    },
+    {
+      "dates": "1/3/26-1/4/26",
+      "name": "2026 WAYSIDE NE CRC",
+      "region": "NE",
+      "host_club": "HelloBirdie Badminton",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/12/2026-Wayside-NE-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/937ACE29-5F1C-4E39-B3FC-DE5DC9F67A6E"
+    },
+    {
+      "dates": "1/10/26-1/11/26",
+      "name": "2026 CBA MIDWEST OLC",
+      "region": "MW",
+      "host_club": "Chicago Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/12/2026-CBA-Midwest-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/58FD9D91-2FE9-4613-9E59-6D56ADE8BF5B"
+    },
+    {
+      "dates": "1/17/26-1/19/26",
+      "name": "2026 YONEX ARENA SOCAL ORC",
+      "region": "SoCal",
+      "host_club": "Arena Badminton & Sports Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/12/2026-Yonex-Arena-SoCal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/239635E4-C300-4F6A-A364-7062F0430F30"
+    },
+    {
+      "dates": "2/14/26-2/16/26",
+      "name": "2026 YONEX DFW BADMINTON SOUTH ORC",
+      "region": "South",
+      "host_club": "DFW Badminton Lewisville",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/01/2026-YONEX-DFW-BADMINTON-LEWISVILLE-SOUTH-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/4C4A21C2-E62B-4448-8B0D-12AEE6263B99"
+    },
+    {
+      "dates": "2/20/26-2/22/26",
+      "name": "2026 DAVE FREEMAN JR. SOCAL OLC",
+      "region": "SoCal",
+      "host_club": "San Diego Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/01/2026-Dave-Freeman-Jr-SoCal-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/45D5792F-78E5-43B1-8D72-898357052913"
+    },
+    {
+      "dates": "2/21/26-2/22/26",
+      "name": "2026 SEATTLE NW CRC",
+      "region": "NW",
+      "host_club": "Seattle Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/01/2026-NW-SEATTLE-BADMINTON-CLUB-CRC-PROSPECTUS.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/EF556B64-3B34-438D-853D-8812143EC357"
+    },
+    {
+      "dates": "2/28/26-3/1/26",
+      "name": "2026 Play N Thrive MW CRC",
+      "region": "MW",
+      "host_club": "Play N Thrive Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/02/2026-Play-N-Thrive-MW-CRC.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/AB29A304-A807-4A9B-8B2F-DD33BD545B91"
+    },
+    {
+      "dates": "3/13/26-3/15/26",
+      "name": "2026 BINTANG NorCal OLC",
+      "region": "NorCal",
+      "host_club": "Bintang Badminton",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/02/2026-Bintang-NorCal-OLC.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/5779DD58-5F08-4D64-A092-B41478B07A0A"
+    },
+    {
+      "dates": "3/20/26-3/22/26",
+      "name": "2026 VISTARA SOUTH OLC",
+      "region": "South",
+      "host_club": "Vistara Sports",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/03/Updated_Vistara2026.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/9BA4D091-5DA0-44B3-ADD7-511F99031852",
+      "note": "Rescheduled"
+    },
+    {
+      "dates": "4/3/26-4/6/26",
+      "name": "2026 YONEX U.S SELECTION EVENT (PAJC & WJC)",
+      "region": "National",
+      "host_club": "Wayside Athletic Club",
+      "type": "Selection Event",
+      "prospectus": "https://usabadminton.org/wp-content/uploads/2026/03/Junior-Selection-Selection-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/0e3c129b-28ca-43ff-9c2c-96c92d3c7090"
+    },
+    {
+      "dates": "4/18/26-4/19/26",
+      "name": "2026 OBA NW OLC",
+      "region": "NW",
+      "host_club": "Oregon Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2026/03/2026OBANWOLC.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/1ED39347-2461-4BB8-945F-F694BE254915"
+    },
+    {
+      "dates": "4/18/26-4/19/26",
+      "name": "2026 Schafer South OLC",
+      "region": "South",
+      "host_club": "Schafer Badminton",
+      "type": "OLC",
+      "prospectus": "https://usabadminton.org/wp-content/uploads/2026/03/SchaferSouth26.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/138de723-8d99-44de-a898-13492ad3f717"
+    },
+    {
+      "dates": "5/15/26-5/17/26",
+      "name": "2026 EBC NORCAL CRC",
+      "region": "NorCal",
+      "host_club": "Elite Badminton Center",
+      "type": "CRC",
+      "prospectus": null,
+      "tournamentsoftware_url": null
+    },
+    {
+      "dates": "5/23/26-5/25/26",
+      "name": "2026 YONEX SPBA MIDWEST ORC",
+      "region": "MW",
+      "host_club": "Shannon Pohl Badminton Academy",
+      "type": "ORC",
+      "prospectus": null,
+      "tournamentsoftware_url": null
+    },
+    {
+      "dates": "TBA",
+      "name": "2026 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+      "region": "National",
+      "host_club": "TBA",
+      "type": "National",
+      "prospectus": null,
+      "tournamentsoftware_url": null
+    }
+  ],
+  "2024-2025": [
+    {
+      "dates": "8/31/24-9/2/24",
+      "name": "2024 YONEX NORTHWEST ORC",
+      "region": "NW",
+      "host_club": "Bellevue Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/08/2024-YONEX-BELLEVUE-NW-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/A7A8ADBC-267C-4A11-AB5F-65CF7135CEEC"
+    },
+    {
+      "dates": "10/12/24-10/14/24",
+      "name": "2024 YONEX NORTHEAST ORC",
+      "region": "NE",
+      "host_club": "Capital Badminton Academy; Northern Virginia Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/09/2024-YONEX-NE-ORC-Capital-U11-U17-U19-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/969F86FC-F184-476B-BAC7-D0D8DCB9D4DB"
+    },
+    {
+      "dates": "11/9/24-11/11/24",
+      "name": "2024 YONEX NORCAL ORC",
+      "region": "NorCal",
+      "host_club": "Synergy Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/11/2024-NorCal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/06F5E427-B35C-4357-8F9C-AF31E4D3602B"
+    },
+    {
+      "dates": "11/23/24-11/24/24",
+      "name": "2024 MIDWEST OLC",
+      "region": "MW",
+      "host_club": "Midwest Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/10/2024-MBC-Midwest-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/1C0EF623-420D-42E8-BBEB-06953C77FE71"
+    },
+    {
+      "dates": "12/7/24-12/8/24",
+      "name": "2024 NORTHWEST CRC",
+      "region": "NW",
+      "host_club": "Seattle Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/11/2024-Seattle-Badminton-Club-NW-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/B1B12EBB-5F9F-419F-9807-20348BD5CE1C"
+    },
+    {
+      "dates": "12/7/24-12/8/24",
+      "name": "2024 SOCAL CRC",
+      "region": "SoCal",
+      "host_club": "San Gabriel Valley Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/11/2024-YONEX-SGVBC-SOCAL-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/3437BDDD-5D97-4A38-805C-D934949ACAAB"
+    },
+    {
+      "dates": "12/13/24-12/15/24",
+      "name": "2024 NE CRC",
+      "region": "NE",
+      "host_club": "New Jersey Badminton Club",
+      "type": "CRC",
+      "prospectus": "https://usabadminton.org/wp-content/uploads/2024/11/2024-NE-NJBC-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/8E022A4D-C618-498A-A6CD-5DA1DB92D92E"
+    },
+    {
+      "dates": "1/18/25-1/20/25",
+      "name": "2025 YONEX SOCAL ORC",
+      "region": "SoCal",
+      "host_club": "Arena Badminton & Sports Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/12/2025-Yonex-Arena-SoCal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/99B06E11-7C7F-41DF-9DB6-7087B29FD72A"
+    },
+    {
+      "dates": "1/25/25-1/26/25",
+      "name": "2025 MIDWEST CRC",
+      "region": "MW",
+      "host_club": "Egret Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/12/2025-Egret-MW-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/5465A21A-CA81-4571-BE22-1957930E2C58"
+    },
+    {
+      "dates": "1/24/25-1/26/25",
+      "name": "2025 NE OLC",
+      "region": "NE",
+      "host_club": "CANCELLED",
+      "type": "OLC",
+      "prospectus": null,
+      "tournamentsoftware_url": null,
+      "note": "CANCELLED"
+    },
+    {
+      "dates": "2/15/25-2/17/25",
+      "name": "2025 YONEX SOUTH ORC",
+      "region": "South",
+      "host_club": "DFW Badminton Lewisville",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/01/2025-YONEX-DFW-BADMINTON-LEWISVILLE-SOUTH-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/BB09B547-0989-49FE-A3FA-710669CD3D9B"
+    },
+    {
+      "dates": "2/28/25-3/2/25",
+      "name": "2025 NE OLC",
+      "region": "NE",
+      "host_club": "Boston Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/01/2025-NE-MassBad-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/E6C0A995-9E65-427B-87AB-468A31B36384"
+    },
+    {
+      "dates": "2/28/25-3/2/25",
+      "name": "2025 YONEX Junior Pan Am Games Selection Event",
+      "region": "National",
+      "host_club": "Midwest Badminton Club",
+      "type": "Selection Event",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/02/2025-Selection-Event-JPAG-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/38882A3E-16F7-4A15-B108-32475CA67B90"
+    },
+    {
+      "dates": "3/21/25-3/23/25",
+      "name": "2025 ABC OLC",
+      "region": "NorCal",
+      "host_club": "US Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/03/2025-ABC-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/4795C1C3-9F40-4DFA-88C6-FC7659DC087D"
+    },
+    {
+      "dates": "3/22/25-3/23/25",
+      "name": "2025 SOUTH CRC",
+      "region": "South",
+      "host_club": "Austin Leander",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/02/2025-Austin-Badminton-Leander-South-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/5F149ED1-2D29-4EBF-AE9A-4B3D87D22A2B"
+    },
+    {
+      "dates": "4/5/25-4/6/25",
+      "name": "2025 SCHAFER SLG SOUTH OLC",
+      "region": "South",
+      "host_club": "Schafer Badminton",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/04/2025-Schafer-SLG-South-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/487763D5-0AD2-4378-9B51-6E1BD3F84CE5"
+    },
+    {
+      "dates": "4/12/25-4/13/25",
+      "name": "2025 DAVE FREEMAN JR. SOCAL OLC",
+      "region": "SoCal",
+      "host_club": "San Diego Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/03/2025-YONEX-Dave-Freeman-Junior-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/CF544139-F12A-4B99-A9B9-41E28C9F8266"
+    },
+    {
+      "dates": "4/12/25-4/13/25",
+      "name": "2025 South OLC",
+      "region": "South",
+      "host_club": "Triangle Badminton & Table Tennis",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/03/2025-Peak-Sports-South-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/66D14DB5-408F-4C65-8400-9E916F6FA5DD"
+    },
+    {
+      "dates": "4/18/25-4/21/25",
+      "name": "2025 YONEX U.S SELECTION EVENT (PAJC & WJC)",
+      "region": "National",
+      "host_club": "Can-Am Elite Badminton & Sports",
+      "type": "Selection Event",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/03/2025-USAB-Yonex-Junior-Selection-Event-for-Pan-Am-Junior-and-World-Junior-Championships-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/E5F301F7-ADE5-4AEF-8941-FAD832AEF8F8"
+    },
+    {
+      "dates": "4/26/25-4/27/25",
+      "name": "2025 OBA NW OLC",
+      "region": "NW",
+      "host_club": "Oregon Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/04/2025-OBA-NW-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/02D88A67-9666-4648-BE4E-8169AC28A321"
+    },
+    {
+      "dates": "5/24/25-5/26/25",
+      "name": "2025 YONEX MIDWEST ORC",
+      "region": "MW",
+      "host_club": "Shannon Pohl Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/04/2025-YONEX-SPBA-MW-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/46A4D2FD-F074-4F11-A86B-34F1ED3E6EC4"
+    },
+    {
+      "dates": "6/13/25-6/15/25",
+      "name": "2025 CAN-AM NORCAL OLC",
+      "region": "NorCal",
+      "host_club": "Can-Am Elite Badminton & Sports",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/05/2025-Can-Am-Elite-NorCal-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/56C224B4-0D68-40C6-A8F6-AB16F524C80A"
+    },
+    {
+      "dates": "7/1/25-7/7/25",
+      "name": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+      "region": "National",
+      "host_club": "St. Paul RiverCentre",
+      "type": "National",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2025/05/2025-YONEX-US-Junior-National-Championships-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/A2DD0F5E-24A4-4875-B053-8F25F31AC357"
+    }
+  ],
+  "2023-2024": [
+    {
+      "dates": "9/2/23-9/4/23",
+      "name": "2023 YONEX Northwest ORC",
+      "region": "NW",
+      "host_club": "Bellevue Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/08/2023-Bellevue-NW-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/0DC0854E-CAFC-4CCF-8065-82F97841111C"
+    },
+    {
+      "dates": "10/7/23-10/9/23",
+      "name": "2023 YONEX Northeast ORC",
+      "region": "NE",
+      "host_club": "Long Island Badminton Club; Long Island Sports Center",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/09/2023-Yonex-LIBC-NE-ORC-U11-U17-U19-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/1d619bdd-7289-4f4e-922e-33b9a23b0859"
+    },
+    {
+      "dates": "11/10/23-11/12/23",
+      "name": "2023 YONEX NorCal ORC",
+      "region": "NorCal",
+      "host_club": "California Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/10/2023-Yonex-CBA-NorCal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/91EF94AF-9FAE-45C1-A4A7-89C7E8E7047D"
+    },
+    {
+      "dates": "12/2/23-12/3/23",
+      "name": "2023 SOUTH OLC",
+      "region": "South",
+      "host_club": "Triangle Badminton & Table Tennis",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/11/2023-South-TBTT-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/C5331C39-089A-4691-AF78-E0750A7D3132"
+    },
+    {
+      "dates": "12/2/23-12/3/23",
+      "name": "2023 YONEX SoCal CRC",
+      "region": "SoCal",
+      "host_club": "San Gabriel Valley Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/11/2023-Yonex-SoCal-SGVBC-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/966DF4CC-379E-4401-9CF3-7419759AC028"
+    },
+    {
+      "dates": "12/9/23-12/10/23",
+      "name": "2023 MIDWEST OLC",
+      "region": "MW",
+      "host_club": "Egret Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/11/2023-Egret-Midwest-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/E9AEADD8-0B9F-4626-801C-9A3F600D144D"
+    },
+    {
+      "dates": "12/15/23-12/17/23",
+      "name": "2023 NE OLC",
+      "region": "NE",
+      "host_club": "Northern Virginia Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/11/2023-NVBC-NE-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/76A3DD6B-7EA1-4B41-8841-317EF58023C8"
+    },
+    {
+      "dates": "1/13/24-1/15/24",
+      "name": "2024 YONEX South ORC",
+      "region": "South",
+      "host_club": "Frisco Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/12/2024-Yonex-Frisco-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/50F7886A-E267-46E3-ACB0-47EECB226031"
+    },
+    {
+      "dates": "1/20/24-1/21/24",
+      "name": "2024 USAB SoCal Junior Development Championships",
+      "region": "SoCal",
+      "host_club": "Westminster High School",
+      "type": "JDT",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/01/2024-USAB-SoCal-Junior-Development-Tournament-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/966DF4CC-379E-4401-9CF3-7419759AC028"
+    },
+    {
+      "dates": "1/27/24-1/28/24",
+      "name": "2024 Midwest OLC",
+      "region": "MW",
+      "host_club": "CANCELLED",
+      "type": "OLC",
+      "prospectus": null,
+      "tournamentsoftware_url": null,
+      "note": "CANCELLED"
+    },
+    {
+      "dates": "2/3/24-2/4/24",
+      "name": "2024 SOUTH OLC",
+      "region": "South",
+      "host_club": "DFW Badminton Center",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/01/2024-DFW-South-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/E140BEF5-2C4E-4F77-840D-2218AE03879D"
+    },
+    {
+      "dates": "2/17/24-2/19/24",
+      "name": "2024 YONEX SoCal ORC & SHONAI SELECTION EVENT",
+      "region": "SoCal",
+      "host_club": "Arena Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/01/2024-YONEX-ARENA-SOCAL-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/D47E7D45-BE8E-4BDD-B09E-21DCA2E509E2"
+    },
+    {
+      "dates": "2/23/24-2/25/24",
+      "name": "2024 NE MASSBAD OLC",
+      "region": "NE",
+      "host_club": "Boston Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/01/2024-NE-MassBad-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/457E16EA-F589-470C-B317-CED853EEEBAA"
+    },
+    {
+      "dates": "2/24/24-2/25/24",
+      "name": "2024 MIDWEST CRC",
+      "region": "MW",
+      "host_club": "Midwest Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/02/2024-MBC-Midwest-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/88F17126-9D0E-4153-A9D6-4FA118131FFF"
+    },
+    {
+      "dates": "3/8/24-3/10/24",
+      "name": "2024 ABC OLC",
+      "region": "NorCal",
+      "host_club": "US Badminton Academy",
+      "type": "OLC",
+      "prospectus": "https://usabadminton.org/wp-content/uploads/2024/02/2024-ABC-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/7D57F24E-5346-4540-B486-19DB5750C014"
+    },
+    {
+      "dates": "3/9/24-3/10/24",
+      "name": "2024 SOUTH CRC",
+      "region": "South",
+      "host_club": "Triangle Badminton & Table Tennis",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/02/2024-TBTT-South-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/B3633DE6-69B3-4BDC-B6A4-E61F4907E353"
+    },
+    {
+      "dates": "3/29/24-4/1/24",
+      "name": "YONEX U.S. SELECTION EVENT (PAJC & WJC)",
+      "region": "National",
+      "host_club": "Frisco Badminton",
+      "type": "Selection Event",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/03/2024-USAB-Yonex-Junior-Selection-Event-for-Pan-Am-Junior-and-World-Junior-Championships.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/A8868659-6D37-4FCF-B1AA-FCE11E9CE8A0"
+    },
+    {
+      "dates": "4/19/24-4/21/24",
+      "name": "2024 NE CRC",
+      "region": "NE",
+      "host_club": "New Jersey Badminton Club",
+      "type": "CRC",
+      "prospectus": "https://usabadminton.org/wp-content/uploads/2024/03/2024-NJBC-NE-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/4C6AEB86-9EEA-42D0-907F-964AB20EB6CF"
+    },
+    {
+      "dates": "4/27/24-4/28/24",
+      "name": "2024 DAVE FREEMAN JR. OLC",
+      "region": "SoCal",
+      "host_club": "San Diego Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/03/2024-Yonex-Dave-Freeman-Jr-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/EE2741A5-A966-4C9E-A095-29F7FDE42D3E"
+    },
+    {
+      "dates": "5/10/24-5/12/24",
+      "name": "2024 OBA NW OLC",
+      "region": "NW",
+      "host_club": "Oregon Badminton Academy",
+      "type": "OLC",
+      "prospectus": null,
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/E6CDA88C-9C0E-4A22-921F-89EB4045362D"
+    },
+    {
+      "dates": "5/25/24-5/27/24",
+      "name": "2024 YONEX MIDWEST ORC",
+      "region": "MW",
+      "host_club": "Shannon Pohl Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/05/2024-YONEX-SPBA-MW-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/13BFD913-52BF-4986-84F1-08ECE4B947BA"
+    },
+    {
+      "dates": "6/7/24-6/9/24",
+      "name": "2024 South OLC",
+      "region": "South",
+      "host_club": "Nets & Turf",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/05/2024-Nets-Turf-Arena-South-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/A23410CB-9045-4CB9-AD62-C0AFE797F4C5"
+    },
+    {
+      "dates": "6/14/24-6/16/24",
+      "name": "2024 NE OLC",
+      "region": "NE",
+      "host_club": "Northern Virginia Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/06/2024-NVBC-NE-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/D2BDAC36-F32F-43ED-A90E-15F43E4CF90F"
+    },
+    {
+      "dates": "7/2/24-7/8/24",
+      "name": "2024 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+      "region": "National",
+      "host_club": "Irving Convention Center",
+      "type": "National",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2024/05/2024-YONEX-US-Junior-Nationals-Prospectus-Final.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/BE1D8386-1356-4B85-91F8-F6D547B2C7B1"
+    }
+  ],
+  "2022-2023": [
+    {
+      "dates": "9/3/22-9/5/22",
+      "name": "2022 Northwest ORC",
+      "region": "NW",
+      "host_club": "Harbour Pointe Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/08/2022-Bellevue-NW-ORC-Prospectus-Final.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/73413AC4-DE0B-42F0-9BDD-8C1B5652F37D"
+    },
+    {
+      "dates": "10/8/22-10/10/22",
+      "name": "2022 Yonex Northeast ORC",
+      "region": "NE",
+      "host_club": "Long Island Sports Center & Long Island Badminton Center",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/09/2022-Yonex-LISC-Northeast-U11-U13-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/6FFAB52D-C9F9-4966-98D6-F817942A0BB3"
+    },
+    {
+      "dates": "11/11/22-11/13/22",
+      "name": "2022 NorCal ORC",
+      "region": "NorCal",
+      "host_club": "California Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/10/2022-Yonex-NorCal-CBA-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/F45D3E83-9C4D-462E-A7BA-FC0C633936DF"
+    },
+    {
+      "dates": "12/3/22-12/4/22",
+      "name": "2022 SoCal CRC",
+      "region": "SoCal",
+      "host_club": "San Gabriel Valley Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/11/2022-2023-SGVBC-SOCAL-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/A3A96C7F-ADD3-42AA-839B-BFF55EEA1202"
+    },
+    {
+      "dates": "12/3/22-12/4/22",
+      "name": "2022 Midwest CRC",
+      "region": "MW",
+      "host_club": "Egret Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/11/2022-2023-Egret-Midwest-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/B6B8B4C8-5844-4867-A8C5-16163423A79B"
+    },
+    {
+      "dates": "1/14/23-1/16/23",
+      "name": "2023 South ORC",
+      "region": "South",
+      "host_club": "Frisco Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/12/2023-Frisco-South-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/5E3FCB8C-5655-4CAA-B9C9-9B247022A79F"
+    },
+    {
+      "dates": "2/4/23-2/5/23",
+      "name": "2023 NE OLC",
+      "region": "NE",
+      "host_club": "New Jersey Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/01/2023-NE-NJBC-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/7B9BA7B8-4A50-4007-96F8-1C79BB1D2A9C"
+    },
+    {
+      "dates": "2/18/23-2/20/23",
+      "name": "2023 SoCal ORC",
+      "region": "SoCal",
+      "host_club": "Arena Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/01/2023-Arena-Socal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/69535E3A-281A-4C8F-8F08-5CC1CEDEF3AB"
+    },
+    {
+      "dates": "2/25/23-2/26/23",
+      "name": "2023 Dave Freeman Jr. OLC",
+      "region": "SoCal",
+      "host_club": "San Diego Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/02/2023-Dave-Freeman-Jr-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/58905B24-6955-47B0-B93B-EB43EDF22B3F"
+    },
+    {
+      "dates": "2/25/23-2/26/23",
+      "name": "2023 Midwest OLC",
+      "region": "MW",
+      "host_club": "Midwest Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/02/2023-Midwest-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/05A8EC8C-10E8-467C-A652-FEDCD4F9F73F"
+    },
+    {
+      "dates": "3/11/23-3/12/23",
+      "name": "2023 South CRC",
+      "region": "South",
+      "host_club": "Triangle Badminton & Table Tennis",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/02/2023-South-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/E7C833DA-AD99-4728-A59A-71D90E259331"
+    },
+    {
+      "dates": "3/24/23-3/26/23",
+      "name": "2023 MassBad NE OLC",
+      "region": "NE",
+      "host_club": "Boston Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/01/2023-NE-MassBad-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/1EA74CD3-26FE-4F93-A2BE-47D52A3728C8"
+    },
+    {
+      "dates": "4/7/23-4/10/23",
+      "name": "Selection Event for PAJC & WJC",
+      "region": "National",
+      "host_club": "Frisco Badminton",
+      "type": "Selection Event",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/03/2023-USAB-Yonex-Junior-Selection-Event-for-Pan-Am-Junior-and-World-Junior-Championships.docx.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/DB1BE00A-872B-46E5-A88B-74E867541E6D"
+    },
+    {
+      "dates": "4/28/23-4/30/23",
+      "name": "2023 NW OLC",
+      "region": "NW",
+      "host_club": "Oregon Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/03/2023-OBA-NW-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/4D2E4B32-55B9-409C-AA90-57482B88DD31"
+    },
+    {
+      "dates": "5/6/23-5/7/23",
+      "name": "2023 South OLC",
+      "region": "South",
+      "host_club": "Triangle Badminton & Table Tennis",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/04/2023-South-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/4AC4CE72-C1BA-46FF-8322-0775CCFFDAA8"
+    },
+    {
+      "dates": "5/27/23-5/29/23",
+      "name": "2023 Midwest ORC",
+      "region": "MW",
+      "host_club": "Shannon Pohl Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/05/2023-Yonex-SPBA-Midwest-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/F00EFC16-68DC-4AEB-A82D-05F6D49E66EC"
+    },
+    {
+      "dates": "6/25/23-7/2/23",
+      "name": "2023 YONEX U.S. Junior National Championships",
+      "region": "National",
+      "host_club": "The Podium Spokane WA",
+      "type": "National",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2023/05/2023-YONEX-US-Junior-Nationals-Prospectus-Final.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/tournament/01556CED-F10F-405F-B773-5F32DE6B22B7"
+    }
+  ],
+  "2021-2022": [
+    {
+      "dates": "11/6/21-11/7/21",
+      "name": "2021 Egret OLC",
+      "region": "MW",
+      "host_club": "Egret Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/10/2021-Egret-OLC-Prospectus-FINAL.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=122A5677-AC44-4D7F-8805-5BD299103C82"
+    },
+    {
+      "dates": "11/11/21-11/14/21",
+      "name": "2021 NorCal CRC",
+      "region": "NorCal",
+      "host_club": "Elite Badminton",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/10/2021-NorCal-EBC-CRC-Prospectus-FINAL.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=162A5244-5E15-4991-A673-F934A7DCD6E9"
+    },
+    {
+      "dates": "11/20/21-11/21/21",
+      "name": "2021 NW CRC",
+      "region": "NW",
+      "host_club": "Seattle Badminton Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/10/2021-Northwest-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=840622A6-46B1-4C0E-A1C0-716967736F7F"
+    },
+    {
+      "dates": "11/26/21-11/28/21",
+      "name": "2021 NE ORC",
+      "region": "NE",
+      "host_club": "International Badminton Center",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/11/NE-IBC-ORC-2021-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=9F86740D-8443-47A1-93AA-CB1CFC6C8F97"
+    },
+    {
+      "dates": "12/18/21-12/20/21",
+      "name": "2021 HPBC NW ORC",
+      "region": "NW",
+      "host_club": "Harbor Pointe Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/11/2021-NW-BBC-ORC-Prospectus-Final.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=9538C0B6-8BA1-4446-B900-821DD2AD5D1D"
+    },
+    {
+      "dates": "12/27/21-12/29/21",
+      "name": "2021 SoCal ORC",
+      "region": "SoCal",
+      "host_club": "San Gabriel Valley Badminton Club",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/12/2021-SoCal-SGVBC-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=AC640A87-C191-4A6C-964C-EEEDE448B5A2"
+    },
+    {
+      "dates": "1/15/22-1/17/22",
+      "name": "2022 South Frisco ORC",
+      "region": "South",
+      "host_club": "Frisco Badminton",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/12/2022-FRISCO-BADMINTON-SOUTH-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=A2E49C64-3C68-46DA-B4A3-2AF1D2C758CB"
+    },
+    {
+      "dates": "2/12/22-2/13/22",
+      "name": "2022 NE CRC",
+      "region": "NE",
+      "host_club": "South Jersey Indoor Sports Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/01/2022-Northeast-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=E31BC008-0B26-435B-B007-DCAA2B111C67"
+    },
+    {
+      "dates": "2/19/22-2/21/22",
+      "name": "2022 Synergy NorCal ORC",
+      "region": "NorCal",
+      "host_club": "Synergy Badminton",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/01/2022-Synergy-NorCal-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=E61953B0-2EDB-418D-9FE7-AA7893723087"
+    },
+    {
+      "dates": "2/26/22-2/27/22",
+      "name": "2022 MBC CRC",
+      "region": "MW",
+      "host_club": "MBC",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/01/2022-Midwest-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=461D5C31-33DE-41C2-BF3C-AF53FA59F58C"
+    },
+    {
+      "dates": "2/26/22-2/27/22",
+      "name": "2022 SoCal Dave Freeman OLC",
+      "region": "SoCal",
+      "host_club": "San Diego Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/01/2022-Dave-Freeman-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=7D736C11-8572-4BA4-AF92-558021586DCE"
+    },
+    {
+      "dates": "3/12/22-3/13/22",
+      "name": "2022 SoCal Arena CRC",
+      "region": "SoCal",
+      "host_club": "Arena Badminton & Sports Club",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/02/2022-SoCal-Arena-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=A9E88A79-6344-4A00-B154-E76A0D304DA0"
+    },
+    {
+      "dates": "3/19/22-3/20/22",
+      "name": "2022 South CRC",
+      "region": "South",
+      "host_club": "Houston Badminton Center",
+      "type": "CRC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/02/2022-South-CRC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=7CCA3375-4F51-431D-89A2-BF6A80727DE8"
+    },
+    {
+      "dates": "3/26/22-3/27/22",
+      "name": "2022 NE NJBC OLC",
+      "region": "NE",
+      "host_club": "New Jersey Badminton Club",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/03/2022-NE-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=7DB07BDF-87DE-4061-B0DA-E5C391A62B89"
+    },
+    {
+      "dates": "4/15/22-4/18/22",
+      "name": "Selection Event for PAJC & WJC",
+      "region": "National",
+      "host_club": "Frisco Badminton",
+      "type": "Selection Event",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/03/2022-USAB-Junior-Selection-Event-for-Pan-Am-Junior-and-World-Junior-Championships-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=2D2FC227-4ADA-46F7-AB81-6D317BE065EB"
+    },
+    {
+      "dates": "4/16/22-4/17/22",
+      "name": "2022 South Frisco U11 Only OLC",
+      "region": "South",
+      "host_club": "Frisco Badminton",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/03/2022-South-Frisco-U11-Only-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=733C0B86-6C3A-48DC-8353-A11D5E181FC6"
+    },
+    {
+      "dates": "5/7/22-5/8/22",
+      "name": "2022 NW Oregon OLC",
+      "region": "NW",
+      "host_club": "Oregon Badminton Academy",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/04/2022-NW-Oregon-OLC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=A4F63553-4106-46DA-954F-6AB2794E1498"
+    },
+    {
+      "dates": "5/28/22-5/30/22",
+      "name": "2022 SPBA MW ORC",
+      "region": "MW",
+      "host_club": "Shannon Pohl Badminton Academy",
+      "type": "ORC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/04/2022-MW-ORC-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=15617B9A-42E2-4961-9D2D-ED9ABA8041BB"
+    },
+    {
+      "dates": "6/28/22-7/4/22",
+      "name": "2022 Junior National Championships",
+      "region": "National",
+      "host_club": "Frisco Fieldhouse",
+      "type": "National",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2022/05/2022-Junior-Nationals-Prospectus-Final.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=114E4A90-5D9B-4D50-98AF-0551965B6CAA"
+    }
+  ],
+  "2020-2021": [
+    {
+      "dates": "6/21/21-6/28/21",
+      "name": "2021 USA Badminton U.S. Junior National Championships",
+      "region": "National",
+      "host_club": "Concord NC",
+      "type": "National",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/05/2021-Yonex-Junior-Nationals-Prospectus-final.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=2D2FC227-4ADA-46F7-AB81-6D317BE065EB"
+    },
+    {
+      "dates": "8/6/21-8/8/21",
+      "name": "2021 Selection Event for Junior Pan American Games",
+      "region": "National",
+      "host_club": "Pomona CA",
+      "type": "Selection Event",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/07/2021-Selection-Event-JPAG-Prospectus.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=2E0F476B-6A60-43D5-A5EB-067B0A43261F"
+    },
+    {
+      "dates": "8/7/21-8/8/21",
+      "name": "2021 USAB South Open Local Championships",
+      "region": "South",
+      "host_club": "Atlanta GA",
+      "type": "OLC",
+      "prospectus": "http://usabadminton.org/wp-content/uploads/2021/07/ARC-USAB-Prospectus-Final-2021-2022.pdf",
+      "tournamentsoftware_url": "https://www.tournamentsoftware.com/sport/tournament?id=FE6CE881-C6BA-4D12-ACCA-2C2C4D3687E1"
+    }
+  ]
+}

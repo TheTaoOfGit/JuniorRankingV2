@@ -1,0 +1,33 @@
+{
+  "usab_id": "445202",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "GS U13",
+      "ranking_points": 157,
+      "rank": 129,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 394,
+      "rank": 132,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SOCAL ARENA OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2024 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    }
+  ],
+  "name": "Mishka Mohapatra",
+  "year_of_birth": null,
+  "gender": "F"
+}

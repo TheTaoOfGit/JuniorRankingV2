@@ -1,0 +1,33 @@
+{
+  "usab_id": "1019562",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 3000,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 7000,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "13-16",
+          "points": "7000"
+        }
+      ]
+    }
+  ],
+  "name": "Aidan Ruan",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,26 @@
+{
+  "usab_id": "430114",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 700,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2024 SGVBC SoCal Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    }
+  ],
+  "name": "Mayithi Vutukuru",
+  "year_of_birth": null,
+  "gender": "F"
+}

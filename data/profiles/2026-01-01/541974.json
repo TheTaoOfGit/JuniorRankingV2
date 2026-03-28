@@ -1,0 +1,52 @@
+{
+  "usab_id": "541974",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 189,
+      "rank": 239,
+      "tournaments": [
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 484,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 425,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        }
+      ]
+    }
+  ],
+  "name": "Venbha Sathish Kumar",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "estimated_likely"
+}

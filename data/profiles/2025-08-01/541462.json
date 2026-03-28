@@ -1,0 +1,43 @@
+{
+  "usab_id": "541462",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 244,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "5 to 8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 372,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Sahasra Parasa",
+  "year_of_birth": null,
+  "gender": "F"
+}

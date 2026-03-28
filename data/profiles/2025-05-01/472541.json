@@ -1,0 +1,33 @@
+{
+  "usab_id": "472541",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1013,
+      "rank": 214,
+      "tournaments": [
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1296,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    }
+  ],
+  "name": "Sunny Tian",
+  "year_of_birth": null,
+  "gender": "F"
+}

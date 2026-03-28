@@ -1,0 +1,55 @@
+{
+  "usab_id": "413817",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1443,
+      "rank": 207,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "2",
+          "points": "787"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "656"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 1225,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1166,
+      "rank": 153,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "1166"
+        }
+      ]
+    }
+  ],
+  "name": "Netra Madhusudhan",
+  "year_of_birth": null,
+  "gender": "F"
+}

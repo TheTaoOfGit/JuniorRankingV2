@@ -1,0 +1,33 @@
+{
+  "usab_id": "519570",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 85,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 531,
+      "rank": 64,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Daisy Ma",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,45 @@
+{
+  "usab_id": "2034316",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 10000,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 9000,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "9000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 9000,
+      "rank": 58,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "9000"
+        }
+      ]
+    }
+  ],
+  "name": "Veronica Yang",
+  "year_of_birth": null,
+  "gender": "F"
+}

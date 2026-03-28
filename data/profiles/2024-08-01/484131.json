@@ -1,0 +1,45 @@
+{
+  "usab_id": "484131",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 340,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 85,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 340,
+      "rank": 64,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Taara Karthik",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,47 @@
+{
+  "usab_id": "565646",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 340,
+      "rank": 68,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 340,
+      "rank": 37,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 340,
+      "rank": 53,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Shanaya Sirsgi",
+  "year_of_birth": null,
+  "gender": "XD",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

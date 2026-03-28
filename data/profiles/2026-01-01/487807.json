@@ -1,0 +1,92 @@
+{
+  "usab_id": "487807",
+  "date": "2026-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 1012,
+      "rank": 120,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 710,
+      "rank": 72,
+      "tournaments": [
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 1123,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2025 FORTIUS SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        },
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Bhavanyaa Arunkumar",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "confirmed"
+}

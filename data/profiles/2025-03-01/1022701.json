@@ -1,0 +1,45 @@
+{
+  "usab_id": "1022701",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 540,
+      "rank": 269,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 729,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1166,
+      "rank": 147,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9 to 16",
+          "points": "1166"
+        }
+      ]
+    }
+  ],
+  "name": "Sraavya Aduri",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,33 @@
+{
+  "usab_id": "1021334",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 1200,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 2550,
+      "rank": 133,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Aadam Mulla",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,43 @@
+{
+  "usab_id": "452158",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 642,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 2523,
+      "rank": 99,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1823"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "4",
+          "points": "700"
+        }
+      ]
+    }
+  ],
+  "name": "Adelaide Almeida",
+  "year_of_birth": null,
+  "gender": "F"
+}

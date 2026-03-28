@@ -1,0 +1,47 @@
+{
+  "usab_id": "471350",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 472,
+      "rank": 203,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "1",
+          "points": "472"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 378,
+      "rank": 108,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "4",
+          "points": "378"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 425,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "2",
+          "points": "425"
+        }
+      ]
+    }
+  ],
+  "name": "Deeksha Suresh Babu",
+  "year_of_birth": null,
+  "gender": "XD",
+  "year_of_birth_inferred": 2013,
+  "year_of_birth_confidence": "confirmed"
+}

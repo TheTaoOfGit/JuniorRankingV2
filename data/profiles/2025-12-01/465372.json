@@ -1,0 +1,45 @@
+{
+  "usab_id": "465372",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 702,
+      "rank": 140,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "162"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2363,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "1350"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Sadie Conklin",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2011,
+  "year_of_birth_confidence": "estimated_likely"
+}

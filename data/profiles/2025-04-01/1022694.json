@@ -1,0 +1,50 @@
+{
+  "usab_id": "1022694",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1200,
+      "rank": 210,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 918,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1350,
+      "rank": 136,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Aditi Allampati",
+  "year_of_birth": null,
+  "gender": "F"
+}

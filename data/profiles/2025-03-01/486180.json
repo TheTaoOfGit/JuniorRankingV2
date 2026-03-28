@@ -1,0 +1,33 @@
+{
+  "usab_id": "486180",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2500,
+      "rank": 120,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 4000,
+      "rank": 135,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Sai Yanamandra",
+  "year_of_birth": null,
+  "gender": "M"
+}

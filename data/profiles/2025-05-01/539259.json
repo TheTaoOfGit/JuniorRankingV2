@@ -1,0 +1,45 @@
+{
+  "usab_id": "539259",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 148,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 76,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 159,
+      "rank": 71,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Elizabeth Mark",
+  "year_of_birth": null,
+  "gender": "F"
+}

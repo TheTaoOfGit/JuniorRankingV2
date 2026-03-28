@@ -1,0 +1,33 @@
+{
+  "usab_id": "1018439",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 7000,
+      "rank": 107,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "13-16",
+          "points": "7000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 17000,
+      "rank": 38,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "17000"
+        }
+      ]
+    }
+  ],
+  "name": "Hannah George",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,62 @@
+{
+  "usab_id": "481476",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 397,
+      "rank": 189,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 454,
+      "rank": 88,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "5 to 8",
+          "points": "295"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 633,
+      "rank": 90,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "4",
+          "points": "378"
+        },
+        {
+          "tournament": "2025 CAPITAL BADMINTON NE OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        }
+      ]
+    }
+  ],
+  "name": "Amelia Hu",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2015,
+  "year_of_birth_confidence": "estimated_likely"
+}

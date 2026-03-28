@@ -1,0 +1,45 @@
+{
+  "usab_id": "539242",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 137,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 72,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 159,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2025 AUSTIN BADMINTON LEANDER SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Samara Varasala",
+  "year_of_birth": null,
+  "gender": "F"
+}

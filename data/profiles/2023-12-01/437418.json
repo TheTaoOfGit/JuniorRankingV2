@@ -1,0 +1,43 @@
+{
+  "usab_id": "437418",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 484,
+      "rank": 176,
+      "tournaments": [
+        {
+          "tournament": "2022 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 434,
+      "rank": 57,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2022 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Catherine Du",
+  "year_of_birth": null,
+  "gender": "XD"
+}

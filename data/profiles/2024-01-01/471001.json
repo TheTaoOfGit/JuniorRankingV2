@@ -1,0 +1,33 @@
+{
+  "usab_id": "471001",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "GS U13",
+      "ranking_points": 102,
+      "rank": 130,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 159,
+      "rank": 127,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Diya Nair",
+  "year_of_birth": null,
+  "gender": "F"
+}

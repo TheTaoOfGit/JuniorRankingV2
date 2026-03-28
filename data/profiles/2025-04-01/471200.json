@@ -1,0 +1,33 @@
+{
+  "usab_id": "471200",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 292,
+      "rank": 154,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 729,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15) Final",
+          "position": "17-32",
+          "points": "729"
+        }
+      ]
+    }
+  ],
+  "name": "Mahima Devullapally",
+  "year_of_birth": null,
+  "gender": "F"
+}

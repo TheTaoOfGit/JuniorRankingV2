@@ -1,0 +1,48 @@
+{
+  "usab_id": "460986",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 688,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "236"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 661,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "472"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Alvin Liu",
+  "year_of_birth": null,
+  "gender": "M"
+}

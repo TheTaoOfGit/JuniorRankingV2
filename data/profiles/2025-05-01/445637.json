@@ -1,0 +1,60 @@
+{
+  "usab_id": "445637",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 1488,
+      "rank": 49,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "3",
+          "points": "723"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 978,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9-12",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 850,
+      "rank": 127,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "17-24",
+          "points": "510"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Sreeskandan Saravanan",
+  "year_of_birth": null,
+  "gender": "M"
+}

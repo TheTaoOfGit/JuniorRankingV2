@@ -1,0 +1,38 @@
+{
+  "usab_id": "486568",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1013,
+      "rank": 215,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 3563,
+      "rank": 85,
+      "tournaments": [
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Emily Whyms",
+  "year_of_birth": null,
+  "gender": "F"
+}

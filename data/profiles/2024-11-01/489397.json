@@ -1,0 +1,38 @@
+{
+  "usab_id": "489397",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 157,
+      "rank": 285,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 512,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "17-32",
+          "points": "394"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    }
+  ],
+  "name": "Vedika Menon",
+  "year_of_birth": null,
+  "gender": "F"
+}

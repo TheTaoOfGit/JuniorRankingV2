@@ -1,0 +1,33 @@
+{
+  "usab_id": "415474",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 85,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 531,
+      "rank": 78,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Gautam Vasanth Raj",
+  "year_of_birth": null,
+  "gender": "M"
+}

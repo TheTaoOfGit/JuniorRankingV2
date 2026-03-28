@@ -1,0 +1,134 @@
+[
+  {
+    "draw_id": "1",
+    "name": "BS U11"
+  },
+  {
+    "draw_id": "2",
+    "name": "GS U11"
+  },
+  {
+    "draw_id": "63",
+    "name": "XD U11"
+  },
+  {
+    "draw_id": "61",
+    "name": "XD U11 - Group A"
+  },
+  {
+    "draw_id": "62",
+    "name": "XD U11 - Group B"
+  },
+  {
+    "draw_id": "4",
+    "name": "BD U11"
+  },
+  {
+    "draw_id": "5",
+    "name": "GD U11"
+  },
+  {
+    "draw_id": "33",
+    "name": "BS U13"
+  },
+  {
+    "draw_id": "38",
+    "name": "GS U13"
+  },
+  {
+    "draw_id": "39",
+    "name": "XD U13"
+  },
+  {
+    "draw_id": "40",
+    "name": "BD U13"
+  },
+  {
+    "draw_id": "36",
+    "name": "GD U13"
+  },
+  {
+    "draw_id": "34",
+    "name": "GD U13 - Group A"
+  },
+  {
+    "draw_id": "35",
+    "name": "GD U13 - Group B"
+  },
+  {
+    "draw_id": "41",
+    "name": "BS U15"
+  },
+  {
+    "draw_id": "42",
+    "name": "GS U15"
+  },
+  {
+    "draw_id": "37",
+    "name": "XD U15"
+  },
+  {
+    "draw_id": "43",
+    "name": "BD U15"
+  },
+  {
+    "draw_id": "57",
+    "name": "GD U15"
+  },
+  {
+    "draw_id": "55",
+    "name": "GD U15 - Group A"
+  },
+  {
+    "draw_id": "56",
+    "name": "GD U15 - Group B"
+  },
+  {
+    "draw_id": "45",
+    "name": "BS U17"
+  },
+  {
+    "draw_id": "46",
+    "name": "GS U17"
+  },
+  {
+    "draw_id": "47",
+    "name": "XD U17"
+  },
+  {
+    "draw_id": "48",
+    "name": "BD U17"
+  },
+  {
+    "draw_id": "51",
+    "name": "GD U17"
+  },
+  {
+    "draw_id": "49",
+    "name": "GD U17 - Group A"
+  },
+  {
+    "draw_id": "50",
+    "name": "GD U17 - Group B"
+  },
+  {
+    "draw_id": "52",
+    "name": "BS U19"
+  },
+  {
+    "draw_id": "60",
+    "name": "GS U19"
+  },
+  {
+    "draw_id": "58",
+    "name": "GS U19 - Group A"
+  },
+  {
+    "draw_id": "59",
+    "name": "GS U19 - Group B"
+  },
+  {
+    "draw_id": "54",
+    "name": "BD U19"
+  }
+]

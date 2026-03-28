@@ -1,0 +1,45 @@
+{
+  "usab_id": "2033955",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 10000,
+      "rank": 55,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 10000,
+      "rank": 83,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 10000,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    }
+  ],
+  "name": "Ryan Ma",
+  "year_of_birth": null,
+  "gender": "M"
+}

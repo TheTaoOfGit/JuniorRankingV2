@@ -1,0 +1,33 @@
+{
+  "usab_id": "400643",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 402,
+      "rank": 164,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 189,
+      "rank": 91,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Samyuktha Tadinada",
+  "year_of_birth": null,
+  "gender": "F"
+}

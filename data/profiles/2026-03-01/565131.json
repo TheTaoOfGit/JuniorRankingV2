@@ -1,0 +1,47 @@
+{
+  "usab_id": "565131",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 85,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 340,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 213,
+      "rank": 94,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Ian(Yanxin) Song",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

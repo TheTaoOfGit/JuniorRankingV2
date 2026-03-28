@@ -1,0 +1,43 @@
+{
+  "usab_id": "400659",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 5875,
+      "rank": 125,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 8800,
+      "rank": 66,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "6250"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Elise Xu",
+  "year_of_birth": null,
+  "gender": "XD"
+}

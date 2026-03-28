@@ -1,0 +1,60 @@
+{
+  "usab_id": "526586",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 998,
+      "rank": 260,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 998,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "9 to 16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1560,
+      "rank": 132,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 NE NJBC Closed Regional Championships",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Chingshin Hou",
+  "year_of_birth": null,
+  "gender": "F"
+}

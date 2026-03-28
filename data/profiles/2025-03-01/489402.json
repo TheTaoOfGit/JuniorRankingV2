@@ -1,0 +1,33 @@
+{
+  "usab_id": "489402",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 2500,
+      "rank": 175,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 4000,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Isabelle Huang",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,67 @@
+{
+  "usab_id": "410794",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 460,
+      "rank": 64,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "230"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 633,
+      "rank": 133,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 255,
+      "rank": 107,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 307,
+      "rank": 215,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NJBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    }
+  ],
+  "name": "Sze Kei Wong",
+  "year_of_birth": null,
+  "gender": "M"
+}

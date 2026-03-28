@@ -1,0 +1,75 @@
+{
+  "usab_id": "399583",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2950,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "1200"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "1000"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "750"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 4900,
+      "rank": 136,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "9 to 16",
+          "points": "1200"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 6100,
+      "rank": 114,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "4",
+          "points": "2400"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    }
+  ],
+  "name": "Pratham Bansal",
+  "year_of_birth": null,
+  "gender": "BS"
+}

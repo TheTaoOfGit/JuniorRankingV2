@@ -1,0 +1,33 @@
+{
+  "usab_id": "471015",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 1545,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2624,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        }
+      ]
+    }
+  ],
+  "name": "Suyao Lee",
+  "year_of_birth": null,
+  "gender": "F"
+}

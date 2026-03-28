@@ -1,0 +1,33 @@
+{
+  "usab_id": "432042",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2500,
+      "rank": 139,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 6250,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "5 to 8",
+          "points": "6250"
+        }
+      ]
+    }
+  ],
+  "name": "En Jie Zhang",
+  "year_of_birth": null,
+  "gender": "M"
+}

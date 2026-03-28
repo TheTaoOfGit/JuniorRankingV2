@@ -1,0 +1,50 @@
+{
+  "usab_id": "417505",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 189,
+      "rank": 243,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 346,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "9-16",
+          "points": "189"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 394,
+      "rank": 129,
+      "tournaments": [
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    }
+  ],
+  "name": "Spriha Garg",
+  "year_of_birth": null,
+  "gender": "F"
+}

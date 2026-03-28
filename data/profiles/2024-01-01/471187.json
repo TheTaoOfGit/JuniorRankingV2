@@ -1,0 +1,33 @@
+{
+  "usab_id": "471187",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "GS U13",
+      "ranking_points": 118,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "118"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 189,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Olivia Lee",
+  "year_of_birth": null,
+  "gender": "F"
+}

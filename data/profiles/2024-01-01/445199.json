@@ -1,0 +1,33 @@
+{
+  "usab_id": "445199",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 540,
+      "rank": 109,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1350,
+      "rank": 104,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    }
+  ],
+  "name": "Allie Woo",
+  "year_of_birth": null,
+  "gender": "F"
+}

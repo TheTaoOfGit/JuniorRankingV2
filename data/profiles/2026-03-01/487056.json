@@ -1,0 +1,47 @@
+{
+  "usab_id": "487056",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 378,
+      "rank": 206,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "378"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 189,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 472,
+      "rank": 103,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        }
+      ]
+    }
+  ],
+  "name": "Mariia Filimonova",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "confirmed"
+}

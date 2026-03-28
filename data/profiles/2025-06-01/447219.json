@@ -1,0 +1,33 @@
+{
+  "usab_id": "447219",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1875,
+      "rank": 191,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1875"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 2550,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2025 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "2550"
+        }
+      ]
+    }
+  ],
+  "name": "Jen Hou",
+  "year_of_birth": null,
+  "gender": "F"
+}

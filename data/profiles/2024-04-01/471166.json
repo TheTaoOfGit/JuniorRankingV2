@@ -1,0 +1,33 @@
+{
+  "usab_id": "471166",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 204,
+      "rank": 64,
+      "tournaments": [
+        {
+          "tournament": "2023 TBTT SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Xinti Ge",
+  "year_of_birth": null,
+  "gender": "F"
+}

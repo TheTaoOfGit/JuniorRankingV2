@@ -1,0 +1,47 @@
+{
+  "usab_id": "565146",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 204,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 217,
+      "rank": 52,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 295,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2026 WAYSIDE NORTHEAST CLOSED REGIONAL CHAMPIONSHIP",
+          "position": "5-8",
+          "points": "295"
+        }
+      ]
+    }
+  ],
+  "name": "Aadya Sharma",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

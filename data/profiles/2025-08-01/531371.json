@@ -1,0 +1,38 @@
+{
+  "usab_id": "531371",
+  "date": "2025-08-01",
+  "categories": [
+    {
+      "category": "GS U15",
+      "ranking_points": 815,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "437"
+        },
+        {
+          "tournament": "2024 SBC Northwest Closed Regional Championships",
+          "position": "4",
+          "points": "378"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 875,
+      "rank": 131,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "875"
+        }
+      ]
+    }
+  ],
+  "name": "Sanvi Garg",
+  "year_of_birth": null,
+  "gender": "F"
+}

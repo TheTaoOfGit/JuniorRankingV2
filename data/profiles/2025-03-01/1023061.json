@@ -1,0 +1,43 @@
+{
+  "usab_id": "1023061",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2400,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "9 to 16",
+          "points": "1200"
+        },
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 4275,
+      "rank": 131,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "5 to 8",
+          "points": "1875"
+        }
+      ]
+    }
+  ],
+  "name": "Siddharth Gundarapu",
+  "year_of_birth": null,
+  "gender": "M"
+}

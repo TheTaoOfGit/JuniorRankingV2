@@ -1,0 +1,45 @@
+{
+  "usab_id": "497016",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 4000,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 4000,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 6250,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "5-8",
+          "points": "6250"
+        }
+      ]
+    }
+  ],
+  "name": "Hanrong Hu",
+  "year_of_birth": null,
+  "gender": "F"
+}

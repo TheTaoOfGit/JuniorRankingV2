@@ -1,0 +1,55 @@
+{
+  "usab_id": "448440",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 700,
+      "rank": 211,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 700,
+      "rank": 110,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        },
+        {
+          "tournament": "2023 SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 547,
+      "rank": 148,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "547"
+        }
+      ]
+    }
+  ],
+  "name": "Sahasra Battula",
+  "year_of_birth": null,
+  "gender": "F"
+}

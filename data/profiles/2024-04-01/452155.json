@@ -1,0 +1,33 @@
+{
+  "usab_id": "452155",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1013,
+      "rank": 211,
+      "tournaments": [
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 648,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2023 OREGON BADMINTON ACADEMY OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        }
+      ]
+    }
+  ],
+  "name": "Gayatri Gadre",
+  "year_of_birth": null,
+  "gender": "XD"
+}

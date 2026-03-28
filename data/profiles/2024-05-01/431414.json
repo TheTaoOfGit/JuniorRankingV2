@@ -1,0 +1,70 @@
+{
+  "usab_id": "431414",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 2172,
+      "rank": 113,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "65-128",
+          "points": "146"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 3475,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "4",
+          "points": "1296"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "9-16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 940,
+      "rank": 269,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND SPORTS CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U13 & U15",
+          "position": "33-64",
+          "points": "292"
+        }
+      ]
+    }
+  ],
+  "name": "Hanson Zhu",
+  "year_of_birth": null,
+  "gender": "M"
+}

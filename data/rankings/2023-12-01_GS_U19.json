@@ -1,0 +1,630 @@
+{
+  "date": "2023-12-01",
+  "category": "GS",
+  "age_group": "U19",
+  "rankings": [
+    {
+      "rank": "1",
+      "usab_id": "2034316",
+      "name": "Veronica Yang",
+      "ranking_points": "38000",
+      "profile_url": "/2034316/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "2",
+      "usab_id": "1018384",
+      "name": "Ella Lin",
+      "ranking_points": "36000",
+      "profile_url": "/1018384/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "3",
+      "usab_id": "1020941",
+      "name": "Rishita Tubati",
+      "ranking_points": "34750",
+      "profile_url": "/1020941/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "4",
+      "usab_id": "47830",
+      "name": "Audrey Chang",
+      "ranking_points": "33250",
+      "profile_url": "/47830/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "5",
+      "usab_id": "1018248",
+      "name": "Bettie Huang",
+      "ranking_points": "32000",
+      "profile_url": "/1018248/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "6",
+      "usab_id": "47976",
+      "name": "Kavya Krishna",
+      "ranking_points": "29250",
+      "profile_url": "/47976/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "7",
+      "usab_id": "47408",
+      "name": "Akshaya Ajan",
+      "ranking_points": "28250",
+      "profile_url": "/47408/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "8",
+      "usab_id": "47639",
+      "name": "Jasmine Yeung",
+      "ranking_points": "27360",
+      "profile_url": "/47639/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "9",
+      "usab_id": "47915",
+      "name": "Alice Wang",
+      "ranking_points": "27250",
+      "profile_url": "/47915/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "10",
+      "usab_id": "438597",
+      "name": "Shagunpreet Kaur",
+      "ranking_points": "27250",
+      "profile_url": "/438597/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "11",
+      "usab_id": "2035528",
+      "name": "Mia Zhang",
+      "ranking_points": "26250",
+      "profile_url": "/2035528/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "12",
+      "usab_id": "47829",
+      "name": "Carryssa Bun",
+      "ranking_points": "25950",
+      "profile_url": "/47829/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "13",
+      "usab_id": "1020106",
+      "name": "Harshita Kandambakkam",
+      "ranking_points": "25750",
+      "profile_url": "/1020106/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "14",
+      "usab_id": "47292",
+      "name": "Mikayla Cruz",
+      "ranking_points": "25000",
+      "profile_url": "/47292/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "15",
+      "usab_id": "1019650",
+      "name": "Emma Wei",
+      "ranking_points": "22260",
+      "profile_url": "/1019650/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "16",
+      "usab_id": "1019494",
+      "name": "Nicole Krawczyk",
+      "ranking_points": "21650",
+      "profile_url": "/1019494/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "17",
+      "usab_id": "2036091",
+      "name": "Carina Huang",
+      "ranking_points": "21250",
+      "profile_url": "/2036091/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "18",
+      "usab_id": "47274",
+      "name": "Lilian Shu",
+      "ranking_points": "20500",
+      "profile_url": "/47274/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "19",
+      "usab_id": "1020653",
+      "name": "Xiaoyue Liu",
+      "ranking_points": "20385",
+      "profile_url": "/1020653/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "20",
+      "usab_id": "1018224",
+      "name": "Joline Siu",
+      "ranking_points": "20000",
+      "profile_url": "/1018224/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "21",
+      "usab_id": "47879",
+      "name": "Andrea Li",
+      "ranking_points": "19500",
+      "profile_url": "/47879/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "22",
+      "usab_id": "1019813",
+      "name": "Angela Ye",
+      "ranking_points": "18620",
+      "profile_url": "/1019813/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "23",
+      "usab_id": "1020235",
+      "name": "Vivian Shi",
+      "ranking_points": "18380",
+      "profile_url": "/1020235/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "24",
+      "usab_id": "1019584",
+      "name": "Kathleen Li",
+      "ranking_points": "17770",
+      "profile_url": "/1019584/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "25",
+      "usab_id": "1021122",
+      "name": "Angelina Chai",
+      "ranking_points": "17300",
+      "profile_url": "/1021122/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "26",
+      "usab_id": "1018243",
+      "name": "Angie Huang",
+      "ranking_points": "17250",
+      "profile_url": "/1018243/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "27",
+      "usab_id": "1021761",
+      "name": "Aashi Agarwal",
+      "ranking_points": "16500",
+      "profile_url": "/1021761/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "28",
+      "usab_id": "1020424",
+      "name": "Yaorui Shan",
+      "ranking_points": "16235",
+      "profile_url": "/1020424/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "29",
+      "usab_id": "1018440",
+      "name": "Suneri Chinthalapati",
+      "ranking_points": "16000",
+      "profile_url": "/1018440/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "30",
+      "usab_id": "47945",
+      "name": "Kayla Wu",
+      "ranking_points": "14400",
+      "profile_url": "/47945/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "31",
+      "usab_id": "1022253",
+      "name": "Rubie Liu",
+      "ranking_points": "14110",
+      "profile_url": "/1022253/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "32",
+      "usab_id": "1018139",
+      "name": "Rithika Oumapathy",
+      "ranking_points": "14000",
+      "profile_url": "/1018139/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "33",
+      "usab_id": "1022972",
+      "name": "Emma Milner",
+      "ranking_points": "13500",
+      "profile_url": "/1022972/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "34",
+      "usab_id": "2035637",
+      "name": "Chloe Ho",
+      "ranking_points": "13500",
+      "profile_url": "/2035637/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "35",
+      "usab_id": "1019940",
+      "name": "Annabelle Zhou",
+      "ranking_points": "13000",
+      "profile_url": "/1019940/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "36",
+      "usab_id": "1018439",
+      "name": "Hannah George",
+      "ranking_points": "12730",
+      "profile_url": "/1018439/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "37",
+      "usab_id": "1018226",
+      "name": "Valerie Xian",
+      "ranking_points": "12650",
+      "profile_url": "/1018226/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "38",
+      "usab_id": "1020220",
+      "name": "Emily Liu",
+      "ranking_points": "11920",
+      "profile_url": "/1020220/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "39",
+      "usab_id": "438062",
+      "name": "Megan Tai",
+      "ranking_points": "11900",
+      "profile_url": "/438062/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "40",
+      "usab_id": "1023152",
+      "name": "Krisha Tyagi",
+      "ranking_points": "11800",
+      "profile_url": "/1023152/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "41",
+      "usab_id": "1020803",
+      "name": "Charvi Anand",
+      "ranking_points": "11770",
+      "profile_url": "/1020803/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "42",
+      "usab_id": "1019329",
+      "name": "Koyu(Tara) Chou",
+      "ranking_points": "11500",
+      "profile_url": "/1019329/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "43",
+      "usab_id": "1020491",
+      "name": "Ardra Mohan",
+      "ranking_points": "10695",
+      "profile_url": "/1020491/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "44",
+      "usab_id": "1018239",
+      "name": "Mia Hundley",
+      "ranking_points": "10535",
+      "profile_url": "/1018239/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "45",
+      "usab_id": "1020832",
+      "name": "Diya Shetty",
+      "ranking_points": "10405",
+      "profile_url": "/1020832/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "46",
+      "usab_id": "430778",
+      "name": "Victoria Dinh",
+      "ranking_points": "9250",
+      "profile_url": "/430778/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "47",
+      "usab_id": "1021711",
+      "name": "Anagha Shreesha",
+      "ranking_points": "8425",
+      "profile_url": "/1021711/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "48",
+      "usab_id": "414125",
+      "name": "Allyson Lam",
+      "ranking_points": "8375",
+      "profile_url": "/414125/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "49",
+      "usab_id": "443865",
+      "name": "Samantha Tom",
+      "ranking_points": "8375",
+      "profile_url": "/443865/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "50",
+      "usab_id": "1021272",
+      "name": "Arushi Raghavendra",
+      "ranking_points": "8070",
+      "profile_url": "/1021272/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "51",
+      "usab_id": "47188",
+      "name": "Erika Lai",
+      "ranking_points": "7900",
+      "profile_url": "/47188/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "52",
+      "usab_id": "47890",
+      "name": "Reanne Chan",
+      "ranking_points": "7450",
+      "profile_url": "/47890/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "53",
+      "usab_id": "1008603",
+      "name": "Jasmine La",
+      "ranking_points": "6500",
+      "profile_url": "/1008603/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "54",
+      "usab_id": "47455",
+      "name": "Stella Pan",
+      "ranking_points": "6500",
+      "profile_url": "/47455/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "55",
+      "usab_id": "1019667",
+      "name": "Meggie Chang",
+      "ranking_points": "6430",
+      "profile_url": "/1019667/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "56",
+      "usab_id": "48019",
+      "name": "Riya Natarajan",
+      "ranking_points": "6280",
+      "profile_url": "/48019/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "57",
+      "usab_id": "1020969",
+      "name": "Zoey Tan",
+      "ranking_points": "5386",
+      "profile_url": "/1020969/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "58",
+      "usab_id": "1021513",
+      "name": "Riddhi Mallela",
+      "ranking_points": "5200",
+      "profile_url": "/1021513/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "59",
+      "usab_id": "418393",
+      "name": "Valarie Jiao",
+      "ranking_points": "5125",
+      "profile_url": "/418393/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "60",
+      "usab_id": "437686",
+      "name": "Rasika Gokhale",
+      "ranking_points": "5125",
+      "profile_url": "/437686/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "61",
+      "usab_id": "2034731",
+      "name": "Zoey Yong",
+      "ranking_points": "5050",
+      "profile_url": "/2034731/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "62",
+      "usab_id": "2034049",
+      "name": "Brianna Xu",
+      "ranking_points": "5000",
+      "profile_url": "/2034049/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "63",
+      "usab_id": "2035497",
+      "name": "Hailey Hung",
+      "ranking_points": "5000",
+      "profile_url": "/2035497/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "64",
+      "usab_id": "47376",
+      "name": "Charlotte Tse",
+      "ranking_points": "5000",
+      "profile_url": "/47376/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "65",
+      "usab_id": "400060",
+      "name": "Anna Choi",
+      "ranking_points": "4800",
+      "profile_url": "/400060/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "66",
+      "usab_id": "1019709",
+      "name": "Neha Kulkarni",
+      "ranking_points": "4377",
+      "profile_url": "/1019709/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "67",
+      "usab_id": "1020274",
+      "name": "Reshma Rajesh",
+      "ranking_points": "4375",
+      "profile_url": "/1020274/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "68",
+      "usab_id": "1018497",
+      "name": "Lindsey Wang",
+      "ranking_points": "4000",
+      "profile_url": "/1018497/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "69",
+      "usab_id": "400516",
+      "name": "Michelle Li",
+      "ranking_points": "3655",
+      "profile_url": "/400516/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "70",
+      "usab_id": "437714",
+      "name": "Sarina Fang",
+      "ranking_points": "3148",
+      "profile_url": "/437714/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "71",
+      "usab_id": "47931",
+      "name": "Makenna Wong",
+      "ranking_points": "3148",
+      "profile_url": "/47931/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "72",
+      "usab_id": "1022693",
+      "name": "Srijagati Allampati",
+      "ranking_points": "2905",
+      "profile_url": "/1022693/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "73",
+      "usab_id": "445553",
+      "name": "Gabrielle Chen",
+      "ranking_points": "2550",
+      "profile_url": "/445553/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "74",
+      "usab_id": "399150",
+      "name": "Sydney Stachovic",
+      "ranking_points": "2523",
+      "profile_url": "/399150/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "75",
+      "usab_id": "1018501",
+      "name": "Katherine Li",
+      "ranking_points": "2500",
+      "profile_url": "/1018501/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "76",
+      "usab_id": "1019533",
+      "name": "Veda Mullangi",
+      "ranking_points": "2500",
+      "profile_url": "/1019533/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "77",
+      "usab_id": "1020176",
+      "name": "Vimala Nair",
+      "ranking_points": "2500",
+      "profile_url": "/1020176/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "78",
+      "usab_id": "1020247",
+      "name": "Lauren Cho",
+      "ranking_points": "2500",
+      "profile_url": "/1020247/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "79",
+      "usab_id": "1021538",
+      "name": "Yunny Huang",
+      "ranking_points": "2500",
+      "profile_url": "/1021538/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "80",
+      "usab_id": "2035316",
+      "name": "Maggie Chen",
+      "ranking_points": "2500",
+      "profile_url": "/2035316/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "81",
+      "usab_id": "1022321",
+      "name": "Aarushi Choudhary",
+      "ranking_points": "1875",
+      "profile_url": "/1022321/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "82",
+      "usab_id": "2036055",
+      "name": "Cindy Lin",
+      "ranking_points": "1200",
+      "profile_url": "/2036055/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "83",
+      "usab_id": "437660",
+      "name": "Catherine Xu",
+      "ranking_points": "1155",
+      "profile_url": "/437660/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "84",
+      "usab_id": "1019857",
+      "name": "Isabelle Chen",
+      "ranking_points": "1013",
+      "profile_url": "/1019857/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "85",
+      "usab_id": "1020243",
+      "name": "Amanda Chang",
+      "ranking_points": "1013",
+      "profile_url": "/1020243/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "86",
+      "usab_id": "1018723",
+      "name": "Wanhan Sun",
+      "ranking_points": "750",
+      "profile_url": "/1018723/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "87",
+      "usab_id": "1021542",
+      "name": "Sanjitha Vaidyanathan",
+      "ranking_points": "750",
+      "profile_url": "/1021542/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "88",
+      "usab_id": "399241",
+      "name": "Naomi George",
+      "ranking_points": "750",
+      "profile_url": "/399241/details?age_group=U19&category=GS&date=2023-12-01"
+    },
+    {
+      "rank": "89",
+      "usab_id": "448034",
+      "name": "Cassie Sutor",
+      "ranking_points": "750",
+      "profile_url": "/448034/details?age_group=U19&category=GS&date=2023-12-01"
+    }
+  ]
+}

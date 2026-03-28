@@ -1,0 +1,43 @@
+{
+  "usab_id": "471954",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 867,
+      "rank": 140,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "648"
+        },
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2673,
+      "rank": 112,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    }
+  ],
+  "name": "Anjika Pattojoshi",
+  "year_of_birth": null,
+  "gender": "F"
+}

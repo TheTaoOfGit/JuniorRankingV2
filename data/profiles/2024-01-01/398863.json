@@ -1,0 +1,72 @@
+{
+  "usab_id": "398863",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1684,
+      "rank": 62,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "700"
+        }
+      ]
+    },
+    {
+      "category": "BS U13",
+      "ranking_points": 984,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 1456,
+      "rank": 54,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "472"
+        }
+      ]
+    },
+    {
+      "category": "XD U13",
+      "ranking_points": 1409,
+      "rank": 68,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SPBA MIDWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "425"
+        }
+      ]
+    }
+  ],
+  "name": "Ketan Dubey",
+  "year_of_birth": null,
+  "gender": "M"
+}

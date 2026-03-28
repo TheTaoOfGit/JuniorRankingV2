@@ -1,0 +1,35 @@
+{
+  "usab_id": "559745",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 26,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "33-64",
+          "points": "26"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 102,
+      "rank": 92,
+      "tournaments": [
+        {
+          "tournament": "2025 SCHAFER SLG SOUTH OPEN LOCAL CHAMPIONSHIPS 2",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    }
+  ],
+  "name": "Riyan Karanth",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

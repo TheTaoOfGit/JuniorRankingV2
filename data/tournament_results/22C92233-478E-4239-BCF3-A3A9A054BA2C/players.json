@@ -1,0 +1,1561 @@
+{
+  "1": {
+    "ts_player_id": "1",
+    "usab_id": "480273",
+    "name": "Venkata Sai Sreekar Kondamuri",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "2": {
+    "ts_player_id": "2",
+    "usab_id": "487649",
+    "name": "Aarav Muthu Rajavel",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "3": {
+    "ts_player_id": "3",
+    "usab_id": "552417",
+    "name": "Aadithya Pranav Pamarthi",
+    "events": [
+      "BS U11"
+    ]
+  },
+  "4": {
+    "ts_player_id": "4",
+    "usab_id": "551659",
+    "name": "Adhya Santhoshkumar",
+    "events": [
+      "GD U11",
+      "GS U11"
+    ]
+  },
+  "5": {
+    "ts_player_id": "5",
+    "usab_id": "552435",
+    "name": "Atharv Vanaparthy",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "6": {
+    "ts_player_id": "6",
+    "usab_id": "538219",
+    "name": "Bhargav Pragnya Vanaparthy",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "7": {
+    "ts_player_id": "7",
+    "usab_id": "533913",
+    "name": "Ayushram Reddy Keshidi",
+    "events": [
+      "BD U13",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "8": {
+    "ts_player_id": "8",
+    "usab_id": "437091",
+    "name": "Arjun Rajkumar",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U15"
+    ]
+  },
+  "9": {
+    "ts_player_id": "9",
+    "usab_id": "541551",
+    "name": "Hitesh Narasimha Vaddi",
+    "events": [
+      "BD U13",
+      "BS U11",
+      "XD U13"
+    ]
+  },
+  "10": {
+    "ts_player_id": "10",
+    "usab_id": "541554",
+    "name": "Saketha Narasimha Vaddi",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "11": {
+    "ts_player_id": "11",
+    "usab_id": "440357",
+    "name": "Adithya Yeluguri",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "12": {
+    "ts_player_id": "12",
+    "usab_id": "440349",
+    "name": "Meghna Yeluguri",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "13": {
+    "ts_player_id": "13",
+    "usab_id": "530254",
+    "name": "Neel Achari",
+    "events": [
+      "BD U11",
+      "BS U13",
+      "XD U11"
+    ]
+  },
+  "14": {
+    "ts_player_id": "14",
+    "usab_id": "535364",
+    "name": "Vivek Annapureddy",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "15": {
+    "ts_player_id": "15",
+    "usab_id": "1020104",
+    "name": "Mithun Gopinath",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "16": {
+    "ts_player_id": "16",
+    "usab_id": "558556",
+    "name": "Sidhanth Manivannan",
+    "events": [
+      "BS U15"
+    ]
+  },
+  "17": {
+    "ts_player_id": "17",
+    "usab_id": "439821",
+    "name": "Sankeerthi Marasani",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "18": {
+    "ts_player_id": "18",
+    "usab_id": "551747",
+    "name": "Anamithraa Omprakash",
+    "events": [
+      "GS U11"
+    ]
+  },
+  "19": {
+    "ts_player_id": "19",
+    "usab_id": "558755",
+    "name": "Hemanth Paritala",
+    "events": [
+      "BS U11"
+    ]
+  },
+  "20": {
+    "ts_player_id": "20",
+    "usab_id": "482942",
+    "name": "Tushaar Praveen",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "21": {
+    "ts_player_id": "21",
+    "usab_id": "537278",
+    "name": "Adalyn Puah",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "22": {
+    "ts_player_id": "22",
+    "usab_id": "524700",
+    "name": "Devaansh Surpur",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "23": {
+    "ts_player_id": "23",
+    "usab_id": "475403",
+    "name": "Mokshagna Surpur",
+    "events": [
+      "BD U13",
+      "BS U15",
+      "XD U13"
+    ]
+  },
+  "24": {
+    "ts_player_id": "24",
+    "usab_id": "471452",
+    "name": "Rithika Thatipatri",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "25": {
+    "ts_player_id": "25",
+    "usab_id": "471406",
+    "name": "Tejas Thatipatri",
+    "events": [
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "26": {
+    "ts_player_id": "26",
+    "usab_id": "402323",
+    "name": "Ishan Vinothkumar",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "27": {
+    "ts_player_id": "27",
+    "usab_id": "470094",
+    "name": "Abhinav Yadagiri",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U11"
+    ]
+  },
+  "28": {
+    "ts_player_id": "28",
+    "usab_id": "440568",
+    "name": "Ethan Yin",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U15"
+    ]
+  },
+  "29": {
+    "ts_player_id": "29",
+    "usab_id": "558452",
+    "name": "Sahithi Guggilam",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "30": {
+    "ts_player_id": "30",
+    "usab_id": "407380",
+    "name": "Ananya Mishra",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "31": {
+    "ts_player_id": "31",
+    "usab_id": "541648",
+    "name": "Maharvin Rayarapu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "32": {
+    "ts_player_id": "32",
+    "usab_id": "534616",
+    "name": "Soudamini Reddy",
+    "events": [
+      "GD U15",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "33": {
+    "ts_player_id": "33",
+    "usab_id": "412473",
+    "name": "Yuvan Yadagiri",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "34": {
+    "ts_player_id": "34",
+    "usab_id": "487807",
+    "name": "Bhavanyaa Arunkumar",
+    "events": [
+      "GD U13",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "35": {
+    "ts_player_id": "35",
+    "usab_id": "559354",
+    "name": "Abhiram Pokuri",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "36": {
+    "ts_player_id": "36",
+    "usab_id": "481962",
+    "name": "Devansh Ponnapalli",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "37": {
+    "ts_player_id": "37",
+    "usab_id": "551726",
+    "name": "Adhvik Ramakrishnan",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "38": {
+    "ts_player_id": "38",
+    "usab_id": "471052",
+    "name": "Shubhan Sarikonda",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "39": {
+    "ts_player_id": "39",
+    "usab_id": "1023167",
+    "name": "Bivab Chandra",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "40": {
+    "ts_player_id": "40",
+    "usab_id": "440344",
+    "name": "Niya Olivia Chen",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "41": {
+    "ts_player_id": "41",
+    "usab_id": "432827",
+    "name": "Siya Alicia Chen",
+    "events": [
+      "GD U17",
+      "GS U19",
+      "XD U17"
+    ]
+  },
+  "42": {
+    "ts_player_id": "42",
+    "usab_id": "478696",
+    "name": "Vidhu Reddy Keesara",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "43": {
+    "ts_player_id": "43",
+    "usab_id": "478686",
+    "name": "Vihaa Reddy Keesara",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "44": {
+    "ts_player_id": "44",
+    "usab_id": "488247",
+    "name": "Aarav Juven Prabhu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "45": {
+    "ts_player_id": "45",
+    "usab_id": "448075",
+    "name": "Samyutha Aluri",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "46": {
+    "ts_player_id": "46",
+    "usab_id": "439884",
+    "name": "Yashas Cheerlavancha",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "47": {
+    "ts_player_id": "47",
+    "usab_id": "559194",
+    "name": "Anika R Katepalli",
+    "events": [
+      "GD U13",
+      "GS U13"
+    ]
+  },
+  "48": {
+    "ts_player_id": "48",
+    "usab_id": "448467",
+    "name": "Laasya Gurram",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "49": {
+    "ts_player_id": "49",
+    "usab_id": "411802",
+    "name": "Marzuq Mathani",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "50": {
+    "ts_player_id": "50",
+    "usab_id": "559877",
+    "name": "Raagul Prakash",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "51": {
+    "ts_player_id": "51",
+    "usab_id": "481969",
+    "name": "Advith Karnam",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "52": {
+    "ts_player_id": "52",
+    "usab_id": "532326",
+    "name": "Pardhu Pathuri",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "53": {
+    "ts_player_id": "53",
+    "usab_id": "552564",
+    "name": "Pradvik Prabhu",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "54": {
+    "ts_player_id": "54",
+    "usab_id": "541547",
+    "name": "Kiana Natalia Winarto",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "55": {
+    "ts_player_id": "55",
+    "usab_id": "489877",
+    "name": "Imon Sahu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "56": {
+    "ts_player_id": "56",
+    "usab_id": "053111",
+    "name": "Ataana Mugilan",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "57": {
+    "ts_player_id": "57",
+    "usab_id": "525009",
+    "name": "Avyukth Reddy Pati",
+    "events": [
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "58": {
+    "ts_player_id": "58",
+    "usab_id": "448038",
+    "name": "Surya Peechara",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "59": {
+    "ts_player_id": "59",
+    "usab_id": "554939",
+    "name": "Sankalp Malugu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "61": {
+    "ts_player_id": "61",
+    "usab_id": null,
+    "name": "Likith Ande",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "62": {
+    "ts_player_id": "62",
+    "usab_id": "558381",
+    "name": "Akhil Karthik",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "63": {
+    "ts_player_id": "63",
+    "usab_id": "448308",
+    "name": "Erela Liu",
+    "events": [
+      "GD U17",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "64": {
+    "ts_player_id": "64",
+    "usab_id": "534531",
+    "name": "Varshini Thirupathi Pandiaraj",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "65": {
+    "ts_player_id": "65",
+    "usab_id": "471354",
+    "name": "Nicholas Wang",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "66": {
+    "ts_player_id": "66",
+    "usab_id": "541526",
+    "name": "Shivani Jayan",
+    "events": [
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "67": {
+    "ts_player_id": "67",
+    "usab_id": "560154",
+    "name": "Sagasraa Karnan",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "68": {
+    "ts_player_id": "68",
+    "usab_id": "538118",
+    "name": "Ariel An",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "69": {
+    "ts_player_id": "69",
+    "usab_id": "487591",
+    "name": "Mark Chen",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "70": {
+    "ts_player_id": "70",
+    "usab_id": "1023195",
+    "name": "Vishwajeeth Madhavan",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "71": {
+    "ts_player_id": "71",
+    "usab_id": "484280",
+    "name": "Glacia Zhuang",
+    "events": [
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "72": {
+    "ts_player_id": "72",
+    "usab_id": "474415",
+    "name": "Ritvik Singh",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "73": {
+    "ts_player_id": "73",
+    "usab_id": "1023170",
+    "name": "Krishnavi Kasu",
+    "events": [
+      "GD U17",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "74": {
+    "ts_player_id": "74",
+    "usab_id": "453546",
+    "name": "Soumith Parasa",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "75": {
+    "ts_player_id": "75",
+    "usab_id": "560661",
+    "name": "Izaac Schuenemann",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "76": {
+    "ts_player_id": "76",
+    "usab_id": null,
+    "name": "Anirudh Krishna Balaganesh",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "77": {
+    "ts_player_id": "77",
+    "usab_id": "477390",
+    "name": "Sarah Chandrasekar",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "78": {
+    "ts_player_id": "78",
+    "usab_id": "541561",
+    "name": "Sloka Darbha",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "79": {
+    "ts_player_id": "79",
+    "usab_id": "1023022",
+    "name": "Vihaan Darbha",
+    "events": [
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "80": {
+    "ts_player_id": "80",
+    "usab_id": "560329",
+    "name": "Tejal Devaraj",
+    "events": [
+      "GD U13",
+      "GS U13"
+    ]
+  },
+  "81": {
+    "ts_player_id": "81",
+    "usab_id": null,
+    "name": "Virinchi Gorrela",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "82": {
+    "ts_player_id": "82",
+    "usab_id": "524253",
+    "name": "Tanush Jaltar",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "83": {
+    "ts_player_id": "83",
+    "usab_id": "1023159",
+    "name": "Emilyn Lizbeth Joseph",
+    "events": [
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "84": {
+    "ts_player_id": "84",
+    "usab_id": "447938",
+    "name": "Sajith Kamal",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "85": {
+    "ts_player_id": "85",
+    "usab_id": "1023057",
+    "name": "Tanay Kankanala",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "86": {
+    "ts_player_id": "86",
+    "usab_id": "447726",
+    "name": "Tharun Katharnath",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "87": {
+    "ts_player_id": "87",
+    "usab_id": "1021809",
+    "name": "Advik Kevlani",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "88": {
+    "ts_player_id": "88",
+    "usab_id": "525139",
+    "name": "Aaditya Lanka",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "89": {
+    "ts_player_id": "89",
+    "usab_id": "440812",
+    "name": "Amogh Lanka",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "90": {
+    "ts_player_id": "90",
+    "usab_id": "405609",
+    "name": "Charvi Murali",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "91": {
+    "ts_player_id": "91",
+    "usab_id": "531384",
+    "name": "Varun Sai Pathuri",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "92": {
+    "ts_player_id": "92",
+    "usab_id": "481776",
+    "name": "Akhil Sivakumar",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "93": {
+    "ts_player_id": "93",
+    "usab_id": "475417",
+    "name": "Riana Soprala",
+    "events": [
+      "GD U11",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "94": {
+    "ts_player_id": "94",
+    "usab_id": "535250",
+    "name": "Agastya Vadarevu Srikanta",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "95": {
+    "ts_player_id": "95",
+    "usab_id": "472535",
+    "name": "Magadheesan Velu",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "96": {
+    "ts_player_id": "96",
+    "usab_id": "558012",
+    "name": "Diya Vikram",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "97": {
+    "ts_player_id": "97",
+    "usab_id": "478026",
+    "name": "Eesha Vikram",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "98": {
+    "ts_player_id": "98",
+    "usab_id": "560502",
+    "name": "Dakshesh Saktheeswaran",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "99": {
+    "ts_player_id": "99",
+    "usab_id": "471141",
+    "name": "Lohith Reddy Arava",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "100": {
+    "ts_player_id": "100",
+    "usab_id": "450984",
+    "name": "William Chen",
+    "events": [
+      "BD U15",
+      "BS U13"
+    ]
+  },
+  "101": {
+    "ts_player_id": "101",
+    "usab_id": "471057",
+    "name": "Jishnu Sai Chennupati",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "102": {
+    "ts_player_id": "102",
+    "usab_id": "541401",
+    "name": "Sai Vishnupriya Chennupati",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "103": {
+    "ts_player_id": "103",
+    "usab_id": "488210",
+    "name": "Kesan Murthysundar",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "104": {
+    "ts_player_id": "104",
+    "usab_id": "560205",
+    "name": "Adhira Raja",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "105": {
+    "ts_player_id": "105",
+    "usab_id": "560462",
+    "name": "Aarna Somasundaram",
+    "events": [
+      "GD U13",
+      "GS U13"
+    ]
+  },
+  "106": {
+    "ts_player_id": "106",
+    "usab_id": "555094",
+    "name": "Lianne Tang",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "107": {
+    "ts_player_id": "107",
+    "usab_id": "1021588",
+    "name": "Vigneswar Vadivelan",
+    "events": [
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "108": {
+    "ts_player_id": "108",
+    "usab_id": "560491",
+    "name": "Viswesh Gupta Yenisetty",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "109": {
+    "ts_player_id": "109",
+    "usab_id": "553224",
+    "name": "Venkata Sriharsha Damuluri",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "110": {
+    "ts_player_id": "110",
+    "usab_id": "553225",
+    "name": "Yogaditya Ram Damuluri",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "111": {
+    "ts_player_id": "111",
+    "usab_id": "481474",
+    "name": "Tapaswin Gandhavalla",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "112": {
+    "ts_player_id": "112",
+    "usab_id": "448477",
+    "name": "Varish Kunisetty",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "113": {
+    "ts_player_id": "113",
+    "usab_id": null,
+    "name": "Yohan Mahesh",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "114": {
+    "ts_player_id": "114",
+    "usab_id": "407257",
+    "name": "Aradhana Santhosh",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "115": {
+    "ts_player_id": "115",
+    "usab_id": "468931",
+    "name": "Vihaan S Vinay",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "116": {
+    "ts_player_id": "116",
+    "usab_id": "448448",
+    "name": "Gabby XZ Xiang",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "117": {
+    "ts_player_id": "117",
+    "usab_id": null,
+    "name": "Amogh Dandekar (XX23974882)",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "118": {
+    "ts_player_id": "118",
+    "usab_id": "488213",
+    "name": "Mehan Murthysundar",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "119": {
+    "ts_player_id": "119",
+    "usab_id": "399137",
+    "name": "Vishanth Vijay",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "120": {
+    "ts_player_id": "120",
+    "usab_id": "470778",
+    "name": "Jason Fang",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U13"
+    ]
+  },
+  "121": {
+    "ts_player_id": "121",
+    "usab_id": "438316",
+    "name": "Neha Murali",
+    "events": [
+      "GD U15",
+      "GS U15"
+    ]
+  },
+  "122": {
+    "ts_player_id": "122",
+    "usab_id": "407469",
+    "name": "Lokesh Ravuri",
+    "events": [
+      "BD U17",
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "123": {
+    "ts_player_id": "123",
+    "usab_id": "12345",
+    "name": "Dhakshin Vetriselvan",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "124": {
+    "ts_player_id": "124",
+    "usab_id": "469476",
+    "name": "Mahika Duggar",
+    "events": [
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "125": {
+    "ts_player_id": "125",
+    "usab_id": "36805",
+    "name": "Deethya Marri",
+    "events": [
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "126": {
+    "ts_player_id": "126",
+    "usab_id": "535926",
+    "name": "Krishna Chaitanya Modem",
+    "events": [
+      "BD U17",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "127": {
+    "ts_player_id": "127",
+    "usab_id": "430095",
+    "name": "Mukil Nambikumar",
+    "events": [
+      "BD U19",
+      "BS U19"
+    ]
+  },
+  "128": {
+    "ts_player_id": "128",
+    "usab_id": "448250",
+    "name": "Nikhil Peechara",
+    "events": [
+      "BS U17",
+      "XD U17"
+    ]
+  },
+  "129": {
+    "ts_player_id": "129",
+    "usab_id": null,
+    "name": "Vaasvik Potluri",
+    "events": [
+      "BD U11",
+      "BS U11",
+      "XD U11"
+    ]
+  },
+  "130": {
+    "ts_player_id": "130",
+    "usab_id": "533439",
+    "name": "Nihal Nuka",
+    "events": [
+      "BD U13",
+      "BS U13"
+    ]
+  },
+  "131": {
+    "ts_player_id": "131",
+    "usab_id": "488360",
+    "name": "Shanvika Vijay",
+    "events": [
+      "GD U11",
+      "GS U11",
+      "XD U11"
+    ]
+  },
+  "132": {
+    "ts_player_id": "132",
+    "usab_id": "560717",
+    "name": "Ishaan Reddy Cirra",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "133": {
+    "ts_player_id": "133",
+    "usab_id": "560695",
+    "name": "Suhan Nuka",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "134": {
+    "ts_player_id": "134",
+    "usab_id": "471717",
+    "name": "Ansh D Patel",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "135": {
+    "ts_player_id": "135",
+    "usab_id": "130613",
+    "name": "Akanksha Puram",
+    "events": [
+      "GD U15",
+      "GS U13"
+    ]
+  },
+  "136": {
+    "ts_player_id": "136",
+    "usab_id": null,
+    "name": "Ashwath Rongala",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "137": {
+    "ts_player_id": "137",
+    "usab_id": null,
+    "name": "Sujay Nanda Rongali",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "138": {
+    "ts_player_id": "138",
+    "usab_id": null,
+    "name": "Saanvika Shankara Bhaktula",
+    "events": [
+      "GD U15",
+      "GS U15"
+    ]
+  },
+  "139": {
+    "ts_player_id": "139",
+    "usab_id": "1023223",
+    "name": "Adhip Sundar",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "140": {
+    "ts_player_id": "140",
+    "usab_id": "448045",
+    "name": "Arudh Sundar",
+    "events": [
+      "BD U11",
+      "BS U11"
+    ]
+  },
+  "141": {
+    "ts_player_id": "141",
+    "usab_id": "12346",
+    "name": "Aditya Bheesetty",
+    "events": [
+      "BD U15",
+      "BS U15"
+    ]
+  },
+  "142": {
+    "ts_player_id": "142",
+    "usab_id": "558463",
+    "name": "Vibha Goneh",
+    "events": [
+      "GD U17",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "143": {
+    "ts_player_id": "143",
+    "usab_id": "558145",
+    "name": "Warenya Goneh",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "144": {
+    "ts_player_id": "144",
+    "usab_id": "1021603",
+    "name": "Vignesh Sivasankar",
+    "events": [
+      "BD U19",
+      "BS U19"
+    ]
+  },
+  "145": {
+    "ts_player_id": "145",
+    "usab_id": "488270",
+    "name": "Shanaya Dhanorkar",
+    "events": [
+      "GD U11",
+      "GS U11"
+    ]
+  },
+  "146": {
+    "ts_player_id": "146",
+    "usab_id": "482365",
+    "name": "Sahana Mittapalli",
+    "events": [
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "147": {
+    "ts_player_id": "147",
+    "usab_id": "559954",
+    "name": "Akshay Karthi",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "148": {
+    "ts_player_id": "148",
+    "usab_id": "533917",
+    "name": "Akshitha Reddy Keshidi",
+    "events": [
+      "GD U17",
+      "GS U17",
+      "XD U17"
+    ]
+  },
+  "149": {
+    "ts_player_id": "149",
+    "usab_id": null,
+    "name": "Shriya Rajesh",
+    "events": [
+      "GS U17"
+    ]
+  },
+  "150": {
+    "ts_player_id": "150",
+    "usab_id": "418420",
+    "name": "Haripriya Tati",
+    "events": [
+      "GD U19",
+      "GS U19",
+      "XD U19"
+    ]
+  },
+  "151": {
+    "ts_player_id": "151",
+    "usab_id": "551734",
+    "name": "Rakshitha Subash",
+    "events": [
+      "GD U15",
+      "GS U15",
+      "XD U15"
+    ]
+  },
+  "152": {
+    "ts_player_id": "152",
+    "usab_id": "472254",
+    "name": "Vishnu Basava",
+    "events": [
+      "BD U17",
+      "BS U17"
+    ]
+  },
+  "153": {
+    "ts_player_id": "153",
+    "usab_id": "444784",
+    "name": "Ishan Kanchi",
+    "events": [
+      "BD U17",
+      "BS U19"
+    ]
+  },
+  "154": {
+    "ts_player_id": "154",
+    "usab_id": "444786",
+    "name": "Kartik Kanchi",
+    "events": [
+      "BS U13"
+    ]
+  },
+  "155": {
+    "ts_player_id": "155",
+    "usab_id": "488375",
+    "name": "Aadhityah Rajagopalan",
+    "events": [
+      "BS U15"
+    ]
+  },
+  "156": {
+    "ts_player_id": "156",
+    "usab_id": "471350",
+    "name": "Deeksha Kasala",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "157": {
+    "ts_player_id": "157",
+    "usab_id": null,
+    "name": "Bhavini Chappidi (New)",
+    "events": [
+      "GD U15"
+    ]
+  },
+  "158": {
+    "ts_player_id": "158",
+    "usab_id": "560181",
+    "name": "Abhi Lasya Gopu",
+    "events": [
+      "GD U13",
+      "GS U13"
+    ]
+  },
+  "159": {
+    "ts_player_id": "159",
+    "usab_id": "467659",
+    "name": "Om Kane",
+    "events": [
+      "BD U13",
+      "BS U13",
+      "XD U13"
+    ]
+  },
+  "160": {
+    "ts_player_id": "160",
+    "usab_id": null,
+    "name": "Sandhanaa Senthil Ram Prabu (XX21420236)",
+    "events": [
+      "GD U19",
+      "GS U19"
+    ]
+  },
+  "161": {
+    "ts_player_id": "161",
+    "usab_id": "481353",
+    "name": "Reyhan SaiKarthik Suresh Babu",
+    "events": [
+      "BD U15",
+      "BS U15",
+      "XD U15"
+    ]
+  },
+  "163": {
+    "ts_player_id": "163",
+    "usab_id": "560775",
+    "name": "Avni Amol Pawar",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "164": {
+    "ts_player_id": "164",
+    "usab_id": "541974",
+    "name": "Venbha Sathish Kumar",
+    "events": [
+      "GD U13",
+      "GS U13",
+      "XD U13"
+    ]
+  },
+  "165": {
+    "ts_player_id": "165",
+    "usab_id": "479954",
+    "name": "Feronia Sadik Panjwani",
+    "events": [
+      "GD U17",
+      "GS U17"
+    ]
+  },
+  "166": {
+    "ts_player_id": "166",
+    "usab_id": "453301",
+    "name": "Sruthikaa Padmanaban",
+    "events": [
+      "GD U17",
+      "GS U19",
+      "XD U17"
+    ]
+  }
+}

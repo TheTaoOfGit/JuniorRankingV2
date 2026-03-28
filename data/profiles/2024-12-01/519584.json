@@ -1,0 +1,45 @@
+{
+  "usab_id": "519584",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 85,
+      "rank": 215,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 680,
+      "rank": 44,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "680"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 531,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Xiner Hu",
+  "year_of_birth": null,
+  "gender": "F"
+}

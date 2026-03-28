@@ -1,0 +1,64 @@
+{
+  "usab_id": "1022554",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 5400,
+      "rank": 112,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "1",
+          "points": "5400"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 5940,
+      "rank": 55,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "7 to 8",
+          "points": "5940"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 12636,
+      "rank": 25,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "9720"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "1",
+          "points": "2916"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 2916,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "1",
+          "points": "2916"
+        }
+      ]
+    }
+  ],
+  "name": "Joanne Li",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2011,
+  "year_of_birth_confidence": "confirmed"
+}

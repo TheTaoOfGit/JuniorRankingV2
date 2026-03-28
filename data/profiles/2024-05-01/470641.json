@@ -1,0 +1,33 @@
+{
+  "usab_id": "470641",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BD U11",
+      "ranking_points": 213,
+      "rank": 110,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 85,
+      "rank": 160,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Alexander Chen",
+  "year_of_birth": null,
+  "gender": "BD"
+}

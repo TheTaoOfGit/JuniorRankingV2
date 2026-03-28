@@ -1,0 +1,60 @@
+{
+  "usab_id": "1018384",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 28000,
+      "rank": 14,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "20000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "8000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 28000,
+      "rank": 11,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "18000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 28000,
+      "rank": 19,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "18000"
+        },
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    }
+  ],
+  "name": "Ella Lin",
+  "year_of_birth": null,
+  "gender": "XD"
+}

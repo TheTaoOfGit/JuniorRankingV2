@@ -1,0 +1,45 @@
+{
+  "usab_id": "1020176",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 2500,
+      "rank": 155,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 2500,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 4000,
+      "rank": 76,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Vimala Nair",
+  "year_of_birth": null,
+  "gender": "F"
+}

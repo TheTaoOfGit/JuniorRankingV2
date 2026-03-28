@@ -1,0 +1,55 @@
+{
+  "usab_id": "410748",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U15",
+      "ranking_points": 157,
+      "rank": 337,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U15",
+      "ranking_points": 236,
+      "rank": 163,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "79"
+        }
+      ]
+    },
+    {
+      "category": "GD U15",
+      "ranking_points": 1614,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "984"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "630"
+        }
+      ]
+    }
+  ],
+  "name": "Cindy Li",
+  "year_of_birth": null,
+  "gender": "F"
+}

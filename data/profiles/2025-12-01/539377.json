@@ -1,0 +1,35 @@
+{
+  "usab_id": "539377",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 191,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "49-64",
+          "points": "191"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 340,
+      "rank": 99,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Rahul Pasumarthy",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

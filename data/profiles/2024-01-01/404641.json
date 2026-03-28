@@ -1,0 +1,33 @@
+{
+  "usab_id": "404641",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 394,
+      "rank": 112,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 157,
+      "rank": 186,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    }
+  ],
+  "name": "Darsh Gadepalli",
+  "year_of_birth": null,
+  "gender": "M"
+}

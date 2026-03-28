@@ -1,0 +1,35 @@
+{
+  "usab_id": "524436",
+  "date": "2025-12-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 189,
+      "rank": 246,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 189,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Abhaya Ghuge",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2014,
+  "year_of_birth_confidence": "estimated_likely"
+}

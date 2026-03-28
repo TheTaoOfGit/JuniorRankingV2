@@ -1,0 +1,50 @@
+{
+  "usab_id": "451137",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 204,
+      "rank": 206,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 397,
+      "rank": 88,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "295"
+        },
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 402,
+      "rank": 105,
+      "tournaments": [
+        {
+          "tournament": "2024 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "402"
+        }
+      ]
+    }
+  ],
+  "name": "Sienna Lee",
+  "year_of_birth": null,
+  "gender": "XD"
+}

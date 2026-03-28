@@ -1,0 +1,60 @@
+{
+  "usab_id": "1022203",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 6400,
+      "rank": 107,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "2",
+          "points": "2700"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "2500"
+        },
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "1200"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 1350,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "1350"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 3618,
+      "rank": 101,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "9-16",
+          "points": "2160"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "2",
+          "points": "1458"
+        }
+      ]
+    }
+  ],
+  "name": "Katie Moy",
+  "year_of_birth": null,
+  "gender": "XD"
+}

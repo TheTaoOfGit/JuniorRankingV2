@@ -1,0 +1,45 @@
+{
+  "usab_id": "410584",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 935,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "935"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 765,
+      "rank": 72,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9 to 12",
+          "points": "765"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 935,
+      "rank": 93,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "935"
+        }
+      ]
+    }
+  ],
+  "name": "Ana Paula Almirola",
+  "year_of_birth": null,
+  "gender": "F"
+}

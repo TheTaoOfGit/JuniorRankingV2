@@ -1,0 +1,62 @@
+{
+  "usab_id": "477390",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 338,
+      "rank": 217,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "236"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 162,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 357,
+      "rank": 50,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 189,
+      "rank": 151,
+      "tournaments": [
+        {
+          "tournament": "2024 DFW BADMINTON CENTER SOUTH OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Sarah Chandrasekar",
+  "year_of_birth": null,
+  "gender": "F"
+}

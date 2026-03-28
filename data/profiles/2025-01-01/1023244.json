@@ -1,0 +1,45 @@
+{
+  "usab_id": "1023244",
+  "date": "2025-01-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 1296,
+      "rank": 211,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 1458,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "1458"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1013,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Aditi Srinivasan",
+  "year_of_birth": null,
+  "gender": "F"
+}

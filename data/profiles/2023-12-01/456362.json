@@ -1,0 +1,33 @@
+{
+  "usab_id": "456362",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "BS U13",
+      "ranking_points": 472,
+      "rank": 116,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "33-48",
+          "points": "472"
+        }
+      ]
+    },
+    {
+      "category": "BD U13",
+      "ranking_points": 945,
+      "rank": 106,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "17-24",
+          "points": "945"
+        }
+      ]
+    }
+  ],
+  "name": "Julian Saldana Heraud",
+  "year_of_birth": null,
+  "gender": "M"
+}

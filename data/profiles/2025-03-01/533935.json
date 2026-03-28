@@ -1,0 +1,33 @@
+{
+  "usab_id": "533935",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 340,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 213,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Anika Gattoju",
+  "year_of_birth": null,
+  "gender": "F"
+}

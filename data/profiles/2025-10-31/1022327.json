@@ -1,0 +1,40 @@
+{
+  "usab_id": "1022327",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 1195,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        },
+        {
+          "tournament": "2024 MBC Midwest Open Local Championships",
+          "position": "5 to 8",
+          "points": "547"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1013,
+      "rank": 149,
+      "tournaments": [
+        {
+          "tournament": "2025 EGRET MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Emma Lu",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2010,
+  "year_of_birth_confidence": "confirmed"
+}

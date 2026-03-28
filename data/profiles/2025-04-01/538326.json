@@ -1,0 +1,33 @@
+{
+  "usab_id": "538326",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 64,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 64,
+      "rank": 152,
+      "tournaments": [
+        {
+          "tournament": "2025 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    }
+  ],
+  "name": "Vyan Bhandari",
+  "year_of_birth": null,
+  "gender": "M"
+}

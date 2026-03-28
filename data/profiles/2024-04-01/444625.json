@@ -1,0 +1,45 @@
+{
+  "usab_id": "444625",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 102,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 159,
+      "rank": 58,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 204,
+      "rank": 62,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX SGVBC SOCAL CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "204"
+        }
+      ]
+    }
+  ],
+  "name": "Nova Zhang",
+  "year_of_birth": null,
+  "gender": "F"
+}

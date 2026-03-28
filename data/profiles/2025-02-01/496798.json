@@ -1,0 +1,33 @@
+{
+  "usab_id": "496798",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 540,
+      "rank": 157,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 2160,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "9 to 16",
+          "points": "2160"
+        }
+      ]
+    }
+  ],
+  "name": "Diya Bhavsar",
+  "year_of_birth": null,
+  "gender": "F"
+}

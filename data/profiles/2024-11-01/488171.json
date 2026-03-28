@@ -1,0 +1,55 @@
+{
+  "usab_id": "488171",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 511,
+      "rank": 194,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "354"
+        },
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 1692,
+      "rank": 51,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "3",
+          "points": "1338"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "49-64",
+          "points": "354"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 984,
+      "rank": 111,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (NVBC U13 U15)",
+          "position": "5-8",
+          "points": "984"
+        }
+      ]
+    }
+  ],
+  "name": "Mizuki Ikeuchi",
+  "year_of_birth": null,
+  "gender": "F"
+}

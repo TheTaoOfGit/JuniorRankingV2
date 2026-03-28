@@ -1,0 +1,33 @@
+{
+  "usab_id": "1021572",
+  "date": "2025-06-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 3780,
+      "rank": 151,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "13-16",
+          "points": "3780"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 5940,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "5940"
+        }
+      ]
+    }
+  ],
+  "name": "Jaleesa Yu",
+  "year_of_birth": null,
+  "gender": "F"
+}

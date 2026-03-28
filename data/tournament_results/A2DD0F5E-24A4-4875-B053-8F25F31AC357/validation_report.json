@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "warnings": [
+    "Match 610 (BD U15 Round of 32): team2 size 1, expected 2",
+    "Match 931 (GS U19 Round of 16): team2 size 0, expected 1",
+    "Match 941 (GS U19 Quarter final): team2 size 0, expected 1",
+    "Match 953 (GS U19 Semi final): team2 size 0, expected 1",
+    "Match 959 (GS U19 3rd/4th place): team2 size 0, expected 1",
+    "Match 1023 (GD U19 Quarter final): team2 size 1, expected 2",
+    "Match 1031 (GD U19 Consolation semi final): team2 size 1, expected 2"
+  ]
+}

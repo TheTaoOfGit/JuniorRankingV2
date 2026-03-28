@@ -1,0 +1,33 @@
+{
+  "usab_id": "47827",
+  "date": "2024-12-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 10000,
+      "rank": 63,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "10000"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 4000,
+      "rank": 161,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Garret Tan",
+  "year_of_birth": null,
+  "gender": "M"
+}

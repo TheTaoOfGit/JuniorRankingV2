@@ -1,0 +1,38 @@
+{
+  "usab_id": "1020567",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 1350,
+      "rank": 121,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "65-96",
+          "points": "810"
+        },
+        {
+          "tournament": "2023 BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 2160,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "25-32",
+          "points": "2160"
+        }
+      ]
+    }
+  ],
+  "name": "Tyler Chen",
+  "year_of_birth": null,
+  "gender": "M"
+}

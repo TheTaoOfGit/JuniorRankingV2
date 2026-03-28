@@ -1,0 +1,33 @@
+{
+  "usab_id": "482363",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 648,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 1013,
+      "rank": 120,
+      "tournaments": [
+        {
+          "tournament": "2024 TBTT SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "1013"
+        }
+      ]
+    }
+  ],
+  "name": "Sahasra Mittapalli",
+  "year_of_birth": null,
+  "gender": "F"
+}

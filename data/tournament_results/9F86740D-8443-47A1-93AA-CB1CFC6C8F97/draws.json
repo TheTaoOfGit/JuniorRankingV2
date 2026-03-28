@@ -1,0 +1,54 @@
+[
+  {
+    "draw_id": "14",
+    "name": "BS U11"
+  },
+  {
+    "draw_id": "17",
+    "name": "GS U11"
+  },
+  {
+    "draw_id": "15",
+    "name": "GS U11 - Group A"
+  },
+  {
+    "draw_id": "16",
+    "name": "GS U11 - Group B"
+  },
+  {
+    "draw_id": "20",
+    "name": "XD U11"
+  },
+  {
+    "draw_id": "18",
+    "name": "XD U11 - Group A"
+  },
+  {
+    "draw_id": "19",
+    "name": "XD U11 - Group B"
+  },
+  {
+    "draw_id": "29",
+    "name": "BD U11"
+  },
+  {
+    "draw_id": "22",
+    "name": "BS U13"
+  },
+  {
+    "draw_id": "23",
+    "name": "GS U13"
+  },
+  {
+    "draw_id": "30",
+    "name": "XD U13"
+  },
+  {
+    "draw_id": "25",
+    "name": "BD U13"
+  },
+  {
+    "draw_id": "26",
+    "name": "GD U13"
+  }
+]

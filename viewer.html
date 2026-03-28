@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>USAB Junior Rankings Data Viewer</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #333; }
+header { background: #1a3a5c; color: white; padding: 16px 24px; display: flex; align-items: center; gap: 16px; }
+header h1 { font-size: 20px; font-weight: 600; }
+nav { display: flex; gap: 8px; margin-left: auto; }
+nav button { background: rgba(255,255,255,0.15); color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 14px; }
+nav button.active { background: rgba(255,255,255,0.35); }
+nav button:hover { background: rgba(255,255,255,0.25); }
+.container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+.search-bar { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+.search-bar input, .search-bar select { padding: 10px 14px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; }
+.search-bar input { flex: 1; min-width: 200px; }
+.card { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 16px; overflow: hidden; }
+.card-header { padding: 14px 18px; background: #f8f9fa; border-bottom: 1px solid #eee; font-weight: 600; display: flex; justify-content: space-between; align-items: center; cursor: pointer; }
+.card-header:hover { background: #eef1f4; }
+.card-body { padding: 16px 18px; }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th { text-align: left; padding: 8px 10px; background: #f8f9fa; border-bottom: 2px solid #dee2e6; font-weight: 600; position: sticky; top: 0; }
+td { padding: 7px 10px; border-bottom: 1px solid #eee; }
+tr:hover td { background: #f0f7ff; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; }
+.badge-confirmed { background: #d4edda; color: #155724; }
+.badge-estimated { background: #fff3cd; color: #856404; }
+.badge-likely { background: #cce5ff; color: #004085; }
+.rank { font-weight: 700; color: #1a3a5c; }
+.win { color: #28a745; font-weight: 600; }
+.loss { color: #dc3545; }
+.player-link { color: #0066cc; cursor: pointer; text-decoration: none; }
+.player-link:hover { text-decoration: underline; }
+.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin-bottom: 20px; }
+.stat-card { background: white; border-radius: 8px; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); text-align: center; }
+.stat-card .num { font-size: 28px; font-weight: 700; color: #1a3a5c; }
+.stat-card .label { font-size: 12px; color: #666; margin-top: 4px; }
+.hidden { display: none; }
+#loading { text-align: center; padding: 60px; color: #888; font-size: 16px; }
+.match-card { border: 1px solid #eee; border-radius: 6px; padding: 10px 14px; margin-bottom: 8px; font-size: 13px; }
+.match-card .event-round { color: #666; font-size: 11px; margin-bottom: 4px; }
+.match-card .teams { display: flex; align-items: center; gap: 12px; }
+.match-card .team { flex: 1; }
+.match-card .team.winner { font-weight: 600; }
+.match-card .vs { color: #999; font-size: 11px; }
+.match-card .scores { font-family: monospace; color: #555; }
+.progression-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 4px; font-size: 13px; }
+.progression-row .date { width: 90px; color: #666; font-weight: 600; }
+.progression-row .cats { display: flex; gap: 6px; flex-wrap: wrap; }
+.progression-row .cat-badge { padding: 2px 8px; border-radius: 4px; background: #e9ecef; font-size: 12px; }
+.tourn-selector { display: flex; gap: 8px; margin-bottom: 16px; flex-wrap: wrap; }
+.tourn-btn { padding: 10px 16px; border: 2px solid #1a3a5c; background: white; color: #1a3a5c; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: 600; transition: all 0.15s; }
+.tourn-btn.active { background: #1a3a5c; color: white; }
+.tourn-btn:hover:not(.active) { background: #e8f0f8; }
+.winner-table td:first-child { font-weight: 600; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>USAB Junior Rankings Viewer</h1>
+  <nav>
+    <button id="btn-rankings" class="active" onclick="showSection('rankings')">Rankings</button>
+    <button id="btn-players" onclick="showSection('players')">Players</button>
+    <button id="btn-tournament" onclick="showSection('tournament')">Tournaments</button>
+  </nav>
+</header>
+
+<div class="container">
+  <div id="sec-rankings">
+    <div class="search-bar">
+      <select id="rank-date" onchange="loadRankings()"></select>
+      <select id="rank-category" onchange="loadRankings()">
+        <option value="BS">BS - Boys Singles</option>
+        <option value="GS">GS - Girls Singles</option>
+        <option value="BD">BD - Boys Doubles</option>
+        <option value="GD">GD - Girls Doubles</option>
+        <option value="XD">XD - Mixed Doubles</option>
+      </select>
+      <select id="rank-age" onchange="loadRankings()">
+        <option value="U11">U11</option><option value="U13">U13</option>
+        <option value="U15">U15</option><option value="U17">U17</option>
+        <option value="U19">U19</option>
+      </select>
+    </div>
+    <div id="rankings-table"></div>
+  </div>
+
+  <div id="sec-players" class="hidden">
+    <div class="search-bar">
+      <input type="text" id="player-search" placeholder="Search by name or USAB ID..." oninput="searchPlayers()">
+    </div>
+    <div id="player-results"></div>
+    <div id="player-detail" class="hidden"></div>
+  </div>
+
+  <div id="sec-tournament" class="hidden">
+    <div class="tourn-selector" id="tourn-selector"></div>
+    <div id="tourn-content"></div>
+  </div>
+</div>
+
+<div id="loading">Loading data...</div>
+
+<script>
+let rankings = {};
+let birthYears = {};
+let tournaments = {};  // tid -> tournament data
+let currentTournament = null;
+const DATES = [];
+const DATA_PATH = 'data';
+
+const TOURNAMENTS = [
+  { tid: 'A2DD0F5E-24A4-4875-B053-8F25F31AC357', label: '2025 Junior Nationals' },
+  { tid: '5779DD58-5F08-4D64-A092-B41478B07A0A', label: 'Bintang NorCal OLC 2026' },
+  { tid: '4C4A21C2-E62B-4448-8B0D-12AEE6263B99', label: 'DFW South ORC 2026' },
+];
+
+async function loadJSON(path) {
+  const resp = await fetch(path);
+  if (!resp.ok) return null;
+  return resp.json();
+}
+
+async function init() {
+  birthYears = await loadJSON(`${DATA_PATH}/inferred_birth_years.json`) || {};
+
+  const knownDates = [
+    "2026-03-01","2026-02-01","2026-01-01","2025-12-01","2025-10-31","2025-10-01",
+    "2025-08-01","2025-06-01","2025-05-01","2025-04-01","2025-03-01","2025-02-01","2025-01-01",
+    "2024-12-01","2024-11-01","2024-09-02","2024-08-01","2024-05-01","2024-04-01",
+    "2024-03-01","2024-01-01","2023-12-31","2023-12-01"
+  ];
+  const dateSelect = document.getElementById('rank-date');
+  knownDates.forEach(d => {
+    DATES.push(d);
+    const opt = document.createElement('option');
+    opt.value = d; opt.textContent = d;
+    dateSelect.appendChild(opt);
+  });
+
+  // Build tournament selector
+  const sel = document.getElementById('tourn-selector');
+  TOURNAMENTS.forEach((t, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'tourn-btn' + (i === 0 ? ' active' : '');
+    btn.textContent = t.label;
+    btn.onclick = () => selectTournament(t.tid, btn);
+    sel.appendChild(btn);
+  });
+
+  // Load first tournament
+  await selectTournament(TOURNAMENTS[0].tid, sel.children[0]);
+
+  document.getElementById('loading').classList.add('hidden');
+  await loadRankings();
+}
+
+async function selectTournament(tid, btn) {
+  // Update button states
+  document.querySelectorAll('.tourn-btn').forEach(b => b.classList.remove('active'));
+  if (btn) btn.classList.add('active');
+
+  if (!tournaments[tid]) {
+    const data = await loadJSON(`${DATA_PATH}/tournament_results/${tid}/tournament.json`);
+    if (data) tournaments[tid] = data;
+  }
+  currentTournament = tournaments[tid];
+  if (currentTournament) populateTournament();
+}
+
+async function loadRankings() {
+  const date = document.getElementById('rank-date').value;
+  const cat = document.getElementById('rank-category').value;
+  const age = document.getElementById('rank-age').value;
+  const key = `${date}_${cat}_${age}`;
+  if (!rankings[key]) rankings[key] = await loadJSON(`${DATA_PATH}/rankings/${key}.json`);
+  const data = rankings[key];
+  if (!data || !data.rankings.length) {
+    document.getElementById('rankings-table').innerHTML = '<div class="card"><div class="card-body">No data for this selection.</div></div>';
+    return;
+  }
+  let html = `<div class="card"><div class="card-header">${cat} ${age} - ${date} (${data.rankings.length} players)</div>
+    <div class="card-body"><table><tr><th>Rank</th><th>USAB ID</th><th>Name</th><th>Points</th><th>Born</th></tr>`;
+  for (const r of data.rankings) {
+    const by = birthYears[r.usab_id];
+    const yob = by ? by.yob_inferred : '';
+    const conf = by ? by.confidence : '';
+    const bc = conf === 'confirmed' ? 'badge-confirmed' : conf === 'estimated_likely' ? 'badge-likely' : 'badge-estimated';
+    const badge = yob ? `<span class="badge ${bc}">~${yob}</span>` : '';
+    html += `<tr><td class="rank">${r.rank}</td><td>${r.usab_id}</td>
+      <td><a class="player-link" onclick="showPlayer('${r.usab_id}')">${r.name}</a></td>
+      <td>${r.ranking_points}</td><td>${badge}</td></tr>`;
+  }
+  html += '</table></div></div>';
+  document.getElementById('rankings-table').innerHTML = html;
+}
+
+async function showPlayer(usabId) {
+  showSection('players');
+  document.getElementById('player-search').value = usabId;
+  const profile = await loadJSON(`${DATA_PATH}/profiles/2026-03-01/${usabId}.json`);
+  if (!profile) {
+    document.getElementById('player-detail').innerHTML = '<div class="card"><div class="card-body">Profile not found.</div></div>';
+    document.getElementById('player-detail').classList.remove('hidden');
+    document.getElementById('player-results').classList.add('hidden');
+    return;
+  }
+  const by = birthYears[usabId];
+  const yob = by ? by.yob_inferred : 'Unknown';
+  const conf = by ? by.confidence : '';
+
+  let html = `<div class="card"><div class="card-header">
+    <span>${profile.name || 'Unknown'} (USAB# ${usabId})</span>
+    <span>Gender: ${profile.gender || '?'} | Born: ~${yob} (${conf})</span>
+  </div><div class="card-body">`;
+
+  if (profile.categories && profile.categories.length) {
+    for (const cat of profile.categories) {
+      html += `<h3 style="margin:16px 0 8px;color:#1a3a5c;">${cat.category} - Rank #${cat.rank} (${cat.ranking_points} pts)</h3>`;
+      html += '<table><tr><th>Tournament</th><th>Position</th><th>Points</th></tr>';
+      for (const t of cat.tournaments || []) {
+        html += `<tr><td>${t.tournament}</td><td>${t.position}</td><td>${t.points}</td></tr>`;
+      }
+      html += '</table>';
+    }
+  }
+
+  html += '<h3 style="margin:16px 0 8px;color:#1a3a5c;">Ranking Progression</h3>';
+  for (const date of DATES.slice().reverse()) {
+    const p = await loadJSON(`${DATA_PATH}/profiles/${date}/${usabId}.json`);
+    if (p && p.categories && p.categories.length) {
+      html += '<div class="progression-row"><span class="date">' + date + '</span><div class="cats">';
+      for (const c of p.categories.sort((a,b) => a.category.localeCompare(b.category))) {
+        html += `<span class="cat-badge">${c.category} #${c.rank} (${c.ranking_points})</span>`;
+      }
+      html += '</div></div>';
+    }
+  }
+
+  // Show matches from ALL loaded tournaments
+  for (const [tid, tourn] of Object.entries(tournaments)) {
+    const playerMatches = tourn.matches.filter(m =>
+      m.team1.some(p => p.usab_id === usabId) || m.team2.some(p => p.usab_id === usabId)
+    );
+    if (playerMatches.length) {
+      html += `<h3 style="margin:16px 0 8px;color:#1a3a5c;">${tourn.name} (${playerMatches.length} matches)</h3>`;
+      html += renderMatches(playerMatches, usabId);
+    }
+  }
+
+  html += '</div></div>';
+  html += `<button style="margin:12px 0;padding:8px 16px;cursor:pointer;" onclick="document.getElementById('player-detail').classList.add('hidden');document.getElementById('player-results').classList.remove('hidden');">Back to search</button>`;
+  document.getElementById('player-detail').innerHTML = html;
+  document.getElementById('player-detail').classList.remove('hidden');
+  document.getElementById('player-results').classList.add('hidden');
+}
+
+function renderMatches(matches, highlightUsabId) {
+  let html = '';
+  for (const m of matches) {
+    const onTeam1 = highlightUsabId && m.team1.some(p => p.usab_id === highlightUsabId);
+    const won = highlightUsabId && ((onTeam1 && m.winner === 1) || (!onTeam1 && m.winner === 2));
+    const t1 = m.team1.map(p => `<a class="player-link" onclick="showPlayer('${p.usab_id}')">${p.name}</a>`).join(' + ');
+    const t2 = m.team2.length ? m.team2.map(p => `<a class="player-link" onclick="showPlayer('${p.usab_id}')">${p.name}</a>`).join(' + ') : 'Bye';
+    const scores = m.scores.map(s => s.join('-')).join(', ');
+    const wl = highlightUsabId ? `<div class="${won?'win':'loss'}" style="min-width:20px;text-align:center;">${won?'W':'L'}</div>` : '';
+    html += `<div class="match-card">
+      <div class="event-round">${m.event} - ${m.round || ''} ${m.time || ''}</div>
+      <div class="teams">
+        <div class="team ${m.winner===1?'winner':''}">${t1}</div>
+        <div class="vs">vs</div>
+        <div class="team ${m.winner===2?'winner':''}">${t2}</div>
+        <div class="scores">${scores}${m.walkover?' (WO)':''}</div>
+        ${wl}
+      </div>
+    </div>`;
+  }
+  return html;
+}
+
+async function searchPlayers() {
+  const q = document.getElementById('player-search').value.trim().toLowerCase();
+  if (q.length < 2) { document.getElementById('player-results').innerHTML = ''; return; }
+  const results = [];
+  for (const [uid, info] of Object.entries(birthYears)) {
+    if ((info.name || '').toLowerCase().includes(q) || uid.includes(q)) {
+      results.push({ usab_id: uid, ...info });
+    }
+    if (results.length >= 50) break;
+  }
+  let html = `<div class="card"><div class="card-header">Found ${results.length} players</div><div class="card-body">
+    <table><tr><th>USAB ID</th><th>Name</th><th>Gender</th><th>Born</th><th>Confidence</th></tr>`;
+  for (const r of results) {
+    const bc = r.confidence === 'confirmed' ? 'badge-confirmed' : r.confidence === 'estimated_likely' ? 'badge-likely' : 'badge-estimated';
+    html += `<tr><td>${r.usab_id}</td>
+      <td><a class="player-link" onclick="showPlayer('${r.usab_id}')">${r.name || 'Unknown'}</a></td>
+      <td>${r.gender || '?'}</td><td>~${r.yob_inferred || '?'}</td>
+      <td><span class="badge ${bc}">${r.confidence}</span></td></tr>`;
+  }
+  html += '</table></div></div>';
+  document.getElementById('player-results').innerHTML = html;
+  document.getElementById('player-detail').classList.add('hidden');
+  document.getElementById('player-results').classList.remove('hidden');
+}
+
+function populateTournament() {
+  const t = currentTournament;
+  if (!t) return;
+
+  const events = [...new Set(t.matches.map(m => m.event))].sort();
+  const playerCount = t.players ? Object.keys(t.players).length : 0;
+
+  let html = `<div class="card"><div class="card-header">${t.name} | ${t.dates} | ${t.venue || ''}</div></div>`;
+
+  html += `<div class="stats-grid">
+    <div class="stat-card"><div class="num">${playerCount}</div><div class="label">Players</div></div>
+    <div class="stat-card"><div class="num">${t.matches.length}</div><div class="label">Matches</div></div>
+    <div class="stat-card"><div class="num">${events.length}</div><div class="label">Events</div></div>
+    <div class="stat-card"><div class="num">${t.draws ? t.draws.length : 0}</div><div class="label">Draws</div></div>
+  </div>`;
+
+  // Event winners
+  if (t.bracket_winners && Object.keys(t.bracket_winners).length) {
+    html += `<div class="card"><div class="card-header">Event Winners</div><div class="card-body">
+      <table class="winner-table"><tr><th>Event</th><th>Winner</th></tr>`;
+    for (const [ev, w] of Object.entries(t.bracket_winners).sort()) {
+      const name = Array.isArray(w) ? w.map(p=>p.name).join(' + ') : w.name;
+      const uid = Array.isArray(w) ? w[0].usab_id : w.usab_id;
+      html += `<tr><td>${ev}</td><td><a class="player-link" onclick="showPlayer('${uid}')">${name}</a></td></tr>`;
+    }
+    html += '</table></div></div>';
+  }
+
+  // Match browser
+  html += `<div class="card"><div class="card-header">Match Browser</div><div class="card-body">
+    <div class="search-bar">
+      <input type="text" id="tourn-search" placeholder="Search by player name..." oninput="filterTournamentMatches()">
+      <select id="tourn-event" onchange="filterTournamentMatches()">
+        <option value="">All Events</option>
+        ${events.map(e => `<option value="${e}">${e}</option>`).join('')}
+      </select>
+      <select id="tourn-round" onchange="filterTournamentMatches()">
+        <option value="">All Rounds</option>
+        <option value="Final">Finals</option>
+        <option value="Semi final">Semi Finals</option>
+        <option value="Quarter final">Quarter Finals</option>
+        <option value="3rd/4th place">3rd/4th Place</option>
+      </select>
+    </div>
+    <div id="tourn-matches"></div>
+  </div></div>`;
+
+  document.getElementById('tourn-content').innerHTML = html;
+  filterTournamentMatches();
+}
+
+function buildRoundRobinStandings(matches) {
+  // Check if these matches look like round robin (Round 1, Round 2, etc. and no elimination rounds)
+  const hasRounds = matches.some(m => m.round && /^Round \d+$/.test(m.round));
+  const hasElim = matches.some(m => m.round && /Quarter|Semi|Final/.test(m.round));
+  if (!hasRounds || matches.length < 3) return '';
+
+  const rrMatches = matches.filter(m => m.round && /^Round \d+$/.test(m.round));
+  const isDbl = matches[0]?.event?.match(/^(BD|GD|XD|Doubles)/);
+
+  // Build standings
+  const stats = {}; // name -> {w, l, gw, gl, matches}
+  for (const m of rrMatches) {
+    const t1name = m.team1.map(p => p.name).join(' + ') || '?';
+    const t2name = m.team2.map(p => p.name).join(' + ') || '?';
+    for (const n of [t1name, t2name]) {
+      if (!stats[n] || n === '?') continue;
+      // init below
+    }
+    if (!stats[t1name]) stats[t1name] = {w:0, l:0, gw:0, gl:0, uid: m.team1[0]?.usab_id};
+    if (t2name !== '?' && !stats[t2name]) stats[t2name] = {w:0, l:0, gw:0, gl:0, uid: m.team2[0]?.usab_id};
+
+    if (m.winner === 1) { stats[t1name].w++; if (t2name !== '?') stats[t2name].l++; }
+    else if (m.winner === 2) { if (t2name !== '?') stats[t2name].w++; stats[t1name].l++; }
+
+    for (const s of m.scores || []) {
+      stats[t1name].gw += s[0]; stats[t1name].gl += s[1];
+      if (t2name !== '?') { stats[t2name].gw += s[1]; stats[t2name].gl += s[0]; }
+    }
+  }
+
+  const sorted = Object.entries(stats).sort((a,b) => b[1].w - a[1].w || (a[1].gl - a[1].gw) - (b[1].gl - b[1].gw));
+
+  let html = '<div class="card" style="margin-bottom:12px;"><div class="card-header">Round Robin Standings</div><div class="card-body">';
+  html += '<table><tr><th>#</th><th>Player</th><th>W</th><th>L</th><th>Games</th><th>Pts</th></tr>';
+  sorted.forEach(([name, s], i) => {
+    const pts = s.w * 2;
+    html += `<tr><td class="rank">${i+1}</td>
+      <td><a class="player-link" onclick="showPlayer('${s.uid}')">${name}</a></td>
+      <td class="win">${s.w}</td><td class="loss">${s.l}</td>
+      <td>${s.gw}-${s.gl}</td><td><strong>${pts}</strong></td></tr>`;
+  });
+  html += '</table></div></div>';
+  return html;
+}
+
+function filterTournamentMatches() {
+  const t = currentTournament;
+  if (!t) return;
+
+  const q = (document.getElementById('tourn-search')?.value || '').trim().toLowerCase();
+  const event = document.getElementById('tourn-event')?.value || '';
+  const round = document.getElementById('tourn-round')?.value || '';
+
+  let matches = t.matches;
+  if (event) matches = matches.filter(m => m.event === event);
+  if (round) matches = matches.filter(m => (m.round || '').includes(round));
+  if (q) matches = matches.filter(m =>
+    m.team1.some(p => (p.name||'').toLowerCase().includes(q)) ||
+    m.team2.some(p => (p.name||'').toLowerCase().includes(q))
+  );
+
+  const total = matches.length;
+
+  // Show round robin standings if applicable
+  let html = '';
+  if (event && !round && !q) {
+    // Check if this event has round robin matches
+    const rrStandings = buildRoundRobinStandings(matches);
+    if (rrStandings) html += rrStandings;
+
+    // Also check for group stages
+    const groups = [...new Set(matches.map(m => m.draw).filter(d => d && d.includes('Group')))];
+    for (const g of groups.sort()) {
+      const groupMatches = matches.filter(m => m.draw === g);
+      const gs = buildRoundRobinStandings(groupMatches);
+      if (gs) html += gs.replace('Round Robin Standings', g + ' Standings');
+    }
+  }
+
+  const displayMatches = matches.slice(0, 100);
+  html += `<div style="font-size:12px;color:#666;margin-bottom:8px;">Showing ${displayMatches.length} of ${total} matches</div>`;
+  html += renderMatches(displayMatches);
+  if (!displayMatches.length && !html.includes('Standings')) html = '<div style="padding:20px;color:#888;">No matches found.</div>';
+  document.getElementById('tourn-matches').innerHTML = html;
+}
+
+function showSection(name) {
+  ['rankings','players','tournament'].forEach(s => {
+    document.getElementById('sec-' + s).classList.toggle('hidden', s !== name);
+    document.getElementById('btn-' + s).classList.toggle('active', s === name);
+  });
+  // Load all tournaments when switching to tournament tab
+  if (name === 'tournament') {
+    TOURNAMENTS.forEach(t => {
+      if (!tournaments[t.tid]) selectTournament(t.tid);
+    });
+  }
+}
+
+init();
+</script>
+</body>
+</html>

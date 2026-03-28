@@ -1,0 +1,8421 @@
+[
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ananya Muthiah",
+        "usab_id": "1023204"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aashi Gupta [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        4
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aashi Gupta [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aadya Pitani",
+        "usab_id": "1020191"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:55 AM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Varin Karri",
+        "usab_id": "1021682"
+      },
+      {
+        "name": "Aashi Gupta",
+        "usab_id": "1021080"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nithesh Haribabu",
+        "usab_id": "1023035"
+      },
+      {
+        "name": "Radhika Birur",
+        "usab_id": "1020887"
+      }
+    ],
+    "scores": [
+      [
+        24,
+        22
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:20 PM"
+  },
+  {
+    "event": "GS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        4
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GD U11",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      },
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      },
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:00 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      },
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      },
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 4:30 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      },
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      },
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:00 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihal Reddy Gajjala",
+        "usab_id": "1022980"
+      },
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      },
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:50 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 4",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      },
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "GS U11",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        4
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "GS U11",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 12:00 PM"
+  },
+  {
+    "event": "GD U11",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      },
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Joanne Li",
+        "usab_id": "1022554"
+      },
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 1:30 PM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Mithun Gopinath [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vineet Mahadevan",
+        "usab_id": "1022347"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:00 AM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:05 AM"
+  },
+  {
+    "event": "BD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Isaiah Melwyn Alleluia",
+        "usab_id": "1023205"
+      },
+      {
+        "name": "Arjun Ramakrishn Hariharan",
+        "usab_id": "1022630"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eshan Neog [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Aarya Vijay",
+        "usab_id": "1020889"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:25 PM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      },
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Brendan E Chen",
+        "usab_id": "1020365"
+      },
+      {
+        "name": "Clarinda Jin",
+        "usab_id": "1022685"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:10 PM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      },
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aarya Vijay",
+        "usab_id": "1020889"
+      },
+      {
+        "name": "Hasini Gajjala",
+        "usab_id": "1020871"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:00 PM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      },
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:15 PM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nithesh Haribabu",
+        "usab_id": "1023035"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      }
+    ],
+    "scores": [
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eshan Neog",
+        "usab_id": "1021962"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:30 AM"
+  },
+  {
+    "event": "BD U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eshan Neog [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Aarya Vijay",
+        "usab_id": "1020889"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ish Modi",
+        "usab_id": "1021926"
+      },
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      }
+    ],
+    "scores": [
+      [
+        23,
+        21
+      ],
+      [
+        16,
+        21
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 12:00 PM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Siva Rajesh [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varish Reddy Varakantam",
+        "usab_id": "1023175"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        0
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Abel Daniel Koshy",
+        "usab_id": "1022847"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Siva Rajesh [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:15 AM"
+  },
+  {
+    "event": "XD U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Abel Daniel Koshy",
+        "usab_id": "1022847"
+      },
+      {
+        "name": "Yiyun Lu",
+        "usab_id": "1020221"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Siva Rajesh",
+        "usab_id": "1020946"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:45 PM"
+  },
+  {
+    "event": "XD U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Siva Rajesh",
+        "usab_id": "1020946"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shaunak Misra [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Veda Gayatri Mullangi",
+        "usab_id": "1019533"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:25 PM"
+  },
+  {
+    "event": "XD U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Siva Rajesh",
+        "usab_id": "1020946"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saujas Patil",
+        "usab_id": "47710"
+      },
+      {
+        "name": "Kanyanat Vajworarat",
+        "usab_id": "1018664"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:15 PM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Siva Rajesh [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      }
+    ],
+    "scores": [
+      [
+        24,
+        22
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "BD U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Alvin Ng",
+        "usab_id": "2035264"
+      },
+      {
+        "name": "Saujas Patil",
+        "usab_id": "47710"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Abel Daniel Koshy",
+        "usab_id": "1022847"
+      },
+      {
+        "name": "Siva Rajesh",
+        "usab_id": "1020946"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:00 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vishwa Rajan",
+        "usab_id": "1021604"
+      }
+    ],
+    "team2": [
+      {
+        "name": "James Xu",
+        "usab_id": "1021780"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ian Adrian Ahmed",
+        "usab_id": "1020534"
+      },
+      {
+        "name": "James Xu",
+        "usab_id": "1021780"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hudson Abidin [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Eric Jon",
+        "usab_id": "1020209"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:50 AM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vishwa Rajan",
+        "usab_id": "1021604"
+      },
+      {
+        "name": "Michelle Rajkumar",
+        "usab_id": "1023192"
+      }
+    ],
+    "team2": [
+      {
+        "name": "James Xu",
+        "usab_id": "1021780"
+      },
+      {
+        "name": "Namra Sharath",
+        "usab_id": "1023156"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:35 PM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hasini Gajjala [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ritika Balwalli",
+        "usab_id": "1022885"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hasini Gajjala [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:30 AM"
+  },
+  {
+    "event": "GD U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      },
+      {
+        "name": "Sanjanaa Shyam",
+        "usab_id": "1021343"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Radhika Birur",
+        "usab_id": "1020887"
+      },
+      {
+        "name": "Hasini Gajjala",
+        "usab_id": "1020871"
+      }
+    ],
+    "scores": [
+      [
+        16,
+        21
+      ],
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:15 PM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:00 PM"
+  },
+  {
+    "event": "BD U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Srineet Atluri",
+        "usab_id": "1022900"
+      },
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 3:40 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      },
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      },
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:00 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 4",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihal Reddy Gajjala",
+        "usab_id": "1022980"
+      },
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      },
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 5",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      },
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ian Darmawan",
+        "usab_id": "1021136"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:00 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish Sai Gunupudi",
+        "usab_id": "1023052"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:30 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Naveen Indraj",
+        "usab_id": "1019505"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vignesh Sivasankar",
+        "usab_id": "1021603"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        1
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Naveen Indraj",
+        "usab_id": "1019505"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adarsh Marinedrive",
+        "usab_id": "1023200"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        19
+      ],
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:55 AM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Naveen Indraj",
+        "usab_id": "1019505"
+      },
+      {
+        "name": "Aditya Kotaru",
+        "usab_id": "1020886"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Prateek Hanumappanahalli",
+        "usab_id": "1021563"
+      },
+      {
+        "name": "Ahwan Mishra",
+        "usab_id": "1021496"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:50 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Naveen Indraj",
+        "usab_id": "1019505"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        29,
+        30
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:35 PM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Naveen Indraj",
+        "usab_id": "1019505"
+      },
+      {
+        "name": "Aditya Kotaru",
+        "usab_id": "1020886"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hudson Abidin [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Eric Jon",
+        "usab_id": "1020209"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:30 AM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Naveen Indraj",
+        "usab_id": "1019505"
+      },
+      {
+        "name": "Aditya Kotaru",
+        "usab_id": "1020886"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      },
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 1:00 PM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Veda Gayatri Mullangi [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Veda Gayatri Mullangi",
+        "usab_id": "1019533"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      },
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:15 AM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Veda Gayatri Mullangi",
+        "usab_id": "1019533"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sammi Pan",
+        "usab_id": "47447"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 3:40 PM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ananya Nekkalapudi",
+        "usab_id": "1023037"
+      },
+      {
+        "name": "Sharvi Sharma",
+        "usab_id": "1021390"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Veda Gayatri Mullangi",
+        "usab_id": "1019533"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "scores": [],
+    "winner": 2,
+    "walkover": true,
+    "time": "Sat 8/7/2021 4:30 PM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 4",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      },
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Veda Gayatri Mullangi",
+        "usab_id": "1019533"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:15 PM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Taneesh Musunuru",
+        "usab_id": "1023042"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditya Ramakrishn Hariharan",
+        "usab_id": "1022634"
+      },
+      {
+        "name": "Arjun Aditya Hariharan",
+        "usab_id": "1023222"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bivab Chandra",
+        "usab_id": "1023167"
+      },
+      {
+        "name": "Taneesh Musunuru",
+        "usab_id": "1023042"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:00 PM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Srika Kambhampati",
+        "usab_id": "1023242"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        2
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sanjanaa Shyam [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:30 AM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Isaiah Melwyn Alleluia",
+        "usab_id": "1023205"
+      },
+      {
+        "name": "Preetika Malluru",
+        "usab_id": "1023173"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:10 PM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ish Modi",
+        "usab_id": "1021926"
+      },
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        19
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:25 PM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      },
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Darsh Jain [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "scores": [
+      [
+        24,
+        22
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:30 AM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aadya Pitani",
+        "usab_id": "1020191"
+      }
+    ],
+    "scores": [
+      [
+        19,
+        21
+      ],
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:30 AM"
+  },
+  {
+    "event": "GD U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      },
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aditi Gummadi",
+        "usab_id": "1020427"
+      },
+      {
+        "name": "Aadya Pitani",
+        "usab_id": "1020191"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 12:00 PM"
+  },
+  {
+    "event": "GD U13",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya Shetty",
+        "usab_id": "1020832"
+      },
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      },
+      {
+        "name": "Sanjanaa Shyam",
+        "usab_id": "1021343"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 1:30 PM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yiyun Lu",
+        "usab_id": "1020221"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:15 AM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      },
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sammi Pan",
+        "usab_id": "47447"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 3:40 PM"
+  },
+  {
+    "event": "XD U19",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nicholas W Lai",
+        "usab_id": null
+      },
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alvin Ng",
+        "usab_id": "2035264"
+      },
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        19
+      ],
+      [
+        23,
+        21
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:00 PM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 5",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      },
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      },
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 4",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ananya Nekkalapudi",
+        "usab_id": "1023037"
+      },
+      {
+        "name": "Sharvi Sharma",
+        "usab_id": "1021390"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      },
+      {
+        "name": "Rishita Tubati",
+        "usab_id": "1020941"
+      }
+    ],
+    "scores": [],
+    "winner": 2,
+    "walkover": true,
+    "time": "Sun 8/8/2021 3:30 PM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aarya Vijay",
+        "usab_id": "1020889"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish K Swamy",
+        "usab_id": "1023131"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        1
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aarya Vijay",
+        "usab_id": "1020889"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nithesh Haribabu",
+        "usab_id": "1023035"
+      }
+    ],
+    "scores": [
+      [
+        7,
+        21
+      ],
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:05 AM"
+  },
+  {
+    "event": "BD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Mithun Gopinath",
+        "usab_id": "1020104"
+      },
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adithya Tadinada",
+        "usab_id": "1023218"
+      },
+      {
+        "name": "Hanyi Zhang",
+        "usab_id": "1021224"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:00 AM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Mithun Gopinath [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Aditi Gummadi",
+        "usab_id": "1020427"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      },
+      {
+        "name": "Tatthva Sharma",
+        "usab_id": "1022432"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:45 PM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      },
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Mithun Gopinath [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Aditi Gummadi",
+        "usab_id": "1020427"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:15 PM"
+  },
+  {
+    "event": "BD U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Mithun Gopinath",
+        "usab_id": "1020104"
+      },
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vineet Mahadevan",
+        "usab_id": "1022347"
+      },
+      {
+        "name": "Shaan Vishwanathan",
+        "usab_id": "1023176"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "BD U13",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Mithun Gopinath",
+        "usab_id": "1020104"
+      },
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ish Modi",
+        "usab_id": "1021926"
+      },
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 1:30 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vishwa Rajan",
+        "usab_id": "1021604"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arnav Tiwari [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihanth Kadikatla",
+        "usab_id": "1023087"
+      },
+      {
+        "name": "Pradyun Rasamsetti",
+        "usab_id": "1022128"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      },
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:50 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      },
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vishwa Rajan",
+        "usab_id": "1021604"
+      },
+      {
+        "name": "Michelle Rajkumar",
+        "usab_id": "1023192"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:35 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      },
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eric Jon",
+        "usab_id": "1020209"
+      },
+      {
+        "name": "Aagarshna Selvaraju",
+        "usab_id": "1022123"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      },
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Geoffray Lee",
+        "usab_id": "1023150"
+      },
+      {
+        "name": "Serena Yang",
+        "usab_id": "1022295"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:30 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        16,
+        21
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:30 AM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      },
+      {
+        "name": "Zhengyue Xiong",
+        "usab_id": "1021029"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alex He",
+        "usab_id": "1021976"
+      },
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 12:00 PM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aagarshna Selvaraju [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anvitha B Ranganna",
+        "usab_id": "1022577"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Serena Yang",
+        "usab_id": "1022295"
+      },
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anusri Poreddy",
+        "usab_id": "1022122"
+      },
+      {
+        "name": "Aagarshna Selvaraju",
+        "usab_id": "1022123"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Chiranjeev Chinnasamy",
+        "usab_id": "1023168"
+      },
+      {
+        "name": "Diya J Reddy",
+        "usab_id": "1022419"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eric Jon",
+        "usab_id": "1020209"
+      },
+      {
+        "name": "Aagarshna Selvaraju",
+        "usab_id": "1022123"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 4:55 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eric Jon",
+        "usab_id": "1020209"
+      },
+      {
+        "name": "Aagarshna Selvaraju",
+        "usab_id": "1022123"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Zhengyue Xiong [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Sanjanaa Shyam",
+        "usab_id": "1021343"
+      }
+    ],
+    "scores": [
+      [
+        11,
+        21
+      ],
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:25 PM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sanjanaa Shyam [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Tatthva Sharma",
+        "usab_id": "1022432"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Saatvik B. Sunilraj",
+        "usab_id": "1021053"
+      },
+      {
+        "name": "Arushi Raghavendra",
+        "usab_id": "1021272"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Zhengyue Xiong [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Sanjanaa Shyam",
+        "usab_id": "1021343"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:10 PM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vishnu Pilla",
+        "usab_id": "1021596"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish Punati",
+        "usab_id": "1023146"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Adithya Tadinada",
+        "usab_id": "1023218"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        4
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Varin Karri [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:05 AM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      },
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nithesh Haribabu",
+        "usab_id": "1023035"
+      },
+      {
+        "name": "Radhika Birur",
+        "usab_id": "1020887"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:45 PM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vigneswar Vadivelan",
+        "usab_id": "1021588"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ish Modi [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        16,
+        21
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:30 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Chiranjeev Chinnasamy",
+        "usab_id": "1023168"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Geoffray Lee",
+        "usab_id": "1023150"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        23
+      ],
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:00 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:55 AM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vishwa Rajan [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      },
+      {
+        "name": "Zhengyue Xiong",
+        "usab_id": "1021029"
+      }
+    ],
+    "scores": [
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:50 PM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Darsh Jain",
+        "usab_id": "1021973"
+      },
+      {
+        "name": "Zhengyue Xiong",
+        "usab_id": "1021029"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Manuel Melwyn Alleluia",
+        "usab_id": "1023206"
+      },
+      {
+        "name": "Afraz Muhammed Baig",
+        "usab_id": "1023198"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 4:05 PM"
+  },
+  {
+    "event": "BS U19",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Namith Nishal Raphael [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ryan Zhang",
+        "usab_id": "1023053"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U19",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      },
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Namith Nishal Raphael",
+        "usab_id": "1021043"
+      },
+      {
+        "name": "Ria Balwalli",
+        "usab_id": "47948"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:15 PM"
+  },
+  {
+    "event": "BD U19",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Namith Nishal Raphael",
+        "usab_id": "1021043"
+      },
+      {
+        "name": "Ryan Zhang",
+        "usab_id": "1023053"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nicholas W Lai",
+        "usab_id": null
+      },
+      {
+        "name": "Hanson Borui Zhang",
+        "usab_id": "1019753"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "BD U19",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Namith Nishal Raphael",
+        "usab_id": "1021043"
+      },
+      {
+        "name": "Ryan Zhang",
+        "usab_id": "1023053"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Zane Benjamin Reid",
+        "usab_id": "1020535"
+      },
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 2:30 PM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Namratha Nishal",
+        "usab_id": "1022988"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Radhika Birur [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ish Modi",
+        "usab_id": "1021926"
+      },
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shaan Vishwanathan",
+        "usab_id": "1023176"
+      },
+      {
+        "name": "Namratha Nishal",
+        "usab_id": "1022988"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:10 PM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sri Ananya Kolipaka",
+        "usab_id": "1022831"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aditi Gummadi",
+        "usab_id": "1020427"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Radhika Birur [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aditi Gummadi",
+        "usab_id": "1020427"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:30 AM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditi Gummadi",
+        "usab_id": "1020427"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aadya Pitani",
+        "usab_id": "1020191"
+      }
+    ],
+    "scores": [
+      [
+        19,
+        21
+      ],
+      [
+        22,
+        20
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diyaa Sarath",
+        "usab_id": "1021262"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Clarinda Jin",
+        "usab_id": "1022685"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Virthiha Selvamuthukumaran",
+        "usab_id": "1023046"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Michelle Rajkumar",
+        "usab_id": "1023192"
+      },
+      {
+        "name": "Virthiha Selvamuthukumaran",
+        "usab_id": "1023046"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yoning Liu [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Anvitha B Ranganna",
+        "usab_id": "1022577"
+      }
+    ],
+    "scores": [
+      [
+        19,
+        21
+      ],
+      [
+        21,
+        18
+      ],
+      [
+        24,
+        22
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      },
+      {
+        "name": "Virthiha Selvamuthukumaran",
+        "usab_id": "1023046"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nihanth Kadikatla",
+        "usab_id": "1023087"
+      },
+      {
+        "name": "Aditi Srinivasan",
+        "usab_id": "1023244"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 4:55 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Pradyun Rasamsetti [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      },
+      {
+        "name": "Virthiha Selvamuthukumaran",
+        "usab_id": "1023046"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        9,
+        21
+      ],
+      [
+        22,
+        20
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:25 PM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      },
+      {
+        "name": "Virthiha Selvamuthukumaran",
+        "usab_id": "1023046"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Geoffray Lee",
+        "usab_id": "1023150"
+      },
+      {
+        "name": "Serena Yang",
+        "usab_id": "1022295"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aaron Jin",
+        "usab_id": "1023180"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hitansh Shah",
+        "usab_id": "1022280"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Eric Jon [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        19
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:25 AM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      },
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sammi Pan",
+        "usab_id": "47447"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 5",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ananya Nekkalapudi",
+        "usab_id": "1023037"
+      },
+      {
+        "name": "Sharvi Sharma",
+        "usab_id": "1021390"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sammi Pan",
+        "usab_id": "47447"
+      },
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [],
+    "winner": 2,
+    "walkover": true,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sharvi Sharma",
+        "usab_id": "1021390"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Serena Yang [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        4
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:15 AM"
+  },
+  {
+    "event": "XD U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      },
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saujas Patil",
+        "usab_id": "47710"
+      },
+      {
+        "name": "Kanyanat Vajworarat",
+        "usab_id": "1018664"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        10,
+        21
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:20 PM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:50 PM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Stella Pan",
+        "usab_id": "47455"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:00 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Adarsh Marinedrive",
+        "usab_id": "1023200"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saatvik B. Sunilraj",
+        "usab_id": "1021053"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        22,
+        20
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditya Kotaru [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adarsh Marinedrive",
+        "usab_id": "1023200"
+      }
+    ],
+    "scores": [
+      [
+        11,
+        21
+      ],
+      [
+        23,
+        21
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:00 AM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Manuel Melwyn Alleluia",
+        "usab_id": "1023206"
+      },
+      {
+        "name": "Aashreeti Deo",
+        "usab_id": "1023191"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adarsh Marinedrive",
+        "usab_id": "1023200"
+      },
+      {
+        "name": "Anusri Poreddy",
+        "usab_id": "1022122"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        16,
+        21
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:45 PM"
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ema Akutsu",
+        "usab_id": "1022510"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:40 AM"
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      }
+    ],
+    "scores": [
+      [
+        8,
+        21
+      ],
+      [
+        21,
+        8
+      ],
+      [
+        22,
+        20
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 1:35 PM"
+  },
+  {
+    "event": "XD U19",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      },
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alvin Ng",
+        "usab_id": "2035264"
+      },
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      }
+    ],
+    "scores": [
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        19
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 5",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ria Balwalli",
+        "usab_id": "47948"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:00 AM"
+  },
+  {
+    "event": "GD U19",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ema Akutsu",
+        "usab_id": "1022510"
+      },
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Amanda Ng",
+        "usab_id": "2035263"
+      },
+      {
+        "name": "Kanyanat Vajworarat",
+        "usab_id": "1018664"
+      }
+    ],
+    "scores": [
+      [
+        11,
+        21
+      ],
+      [
+        21,
+        19
+      ],
+      [
+        24,
+        22
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 1:00 PM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Saujas Patil [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vishnu Pilla",
+        "usab_id": "1021596"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U17",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arjun K George",
+        "usab_id": "1020891"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saujas Patil",
+        "usab_id": "47710"
+      },
+      {
+        "name": "Kanyanat Vajworarat",
+        "usab_id": "1018664"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 8:30 AM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Matthew Z Jing",
+        "usab_id": "1019423"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saujas Patil [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        15,
+        21
+      ],
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:30 AM"
+  },
+  {
+    "event": "BD U17",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Alvin Ng",
+        "usab_id": "2035264"
+      },
+      {
+        "name": "Saujas Patil",
+        "usab_id": "47710"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      },
+      {
+        "name": "Arjun K George",
+        "usab_id": "1020891"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 2:00 PM"
+  },
+  {
+    "event": "GS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GD U11",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      },
+      {
+        "name": "Dhvani Shankar",
+        "usab_id": "1022766"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      },
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "scores": [
+      [
+        24,
+        22
+      ],
+      [
+        15,
+        21
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:00 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eric Jon [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yaduraj Sunderraj",
+        "usab_id": "1023236"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihanth Kadikatla",
+        "usab_id": "1023087"
+      },
+      {
+        "name": "Pradyun Rasamsetti",
+        "usab_id": "1022128"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yaduraj Sunderraj",
+        "usab_id": "1023236"
+      },
+      {
+        "name": "Arnav Tiwari",
+        "usab_id": "1022410"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:25 AM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anvitha B Ranganna",
+        "usab_id": "1022577"
+      }
+    ],
+    "scores": [
+      [
+        19,
+        21
+      ],
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arushi Raghavendra",
+        "usab_id": "1021272"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:30 AM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:00 AM"
+  },
+  {
+    "event": "GD U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Serena Yang",
+        "usab_id": "1022295"
+      },
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yoning Liu [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Anvitha B Ranganna",
+        "usab_id": "1022577"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 12:30 PM"
+  },
+  {
+    "event": "GD U15",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Serena Yang",
+        "usab_id": "1022295"
+      },
+      {
+        "name": "Scarlett Yu",
+        "usab_id": "1020178"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arushi Raghavendra [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        20,
+        22
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 2:00 PM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Prateek Hanumappanahalli",
+        "usab_id": "1021563"
+      },
+      {
+        "name": "Ahwan Mishra",
+        "usab_id": "1021496"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sarvesh Selvam",
+        "usab_id": "1023240"
+      },
+      {
+        "name": "Saatvik B. Sunilraj",
+        "usab_id": "1021053"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:00 AM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sreeja L Sappati",
+        "usab_id": "1023224"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Serena Yang [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        1
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Manuel Melwyn Alleluia",
+        "usab_id": "1023206"
+      },
+      {
+        "name": "Aashreeti Deo",
+        "usab_id": "1023191"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Geoffray Lee",
+        "usab_id": "1023150"
+      },
+      {
+        "name": "Serena Yang",
+        "usab_id": "1022295"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 4:55 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vinson Yeh",
+        "usab_id": "1023000"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sarvesh Selvam",
+        "usab_id": "1023240"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        2
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vinson Yeh",
+        "usab_id": "1023000"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:25 AM"
+  },
+  {
+    "event": "XD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vinson Yeh",
+        "usab_id": "1023000"
+      },
+      {
+        "name": "Grace Hu",
+        "usab_id": "1022401"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Pradyun Rasamsetti [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Matthew Z Jing",
+        "usab_id": "1019423"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adi Adam Ahmed",
+        "usab_id": "1020532"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Matthew Z Jing [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Sreeja L Sappati",
+        "usab_id": "1023224"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Abhinav Malluru",
+        "usab_id": "1023172"
+      },
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      }
+    ],
+    "scores": [],
+    "winner": 2,
+    "walkover": true,
+    "time": "Sat 8/7/2021 5:45 PM"
+  },
+  {
+    "event": "BS U17",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Matthew Z Jing",
+        "usab_id": "1019423"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      }
+    ],
+    "scores": [
+      [
+        22,
+        20
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:00 AM"
+  },
+  {
+    "event": "BD U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Matthew Z Jing",
+        "usab_id": "1019423"
+      },
+      {
+        "name": "Geoffray Lee",
+        "usab_id": "1023150"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      },
+      {
+        "name": "Arjun K George",
+        "usab_id": "1020891"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 12:30 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Shreys Kambhampati",
+        "usab_id": "1023241"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Geoffray Lee",
+        "usab_id": "1023150"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Kanyanat Vajworarat",
+        "usab_id": "1018664"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ananya Nekkalapudi",
+        "usab_id": "1023037"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Kanyanat Vajworarat",
+        "usab_id": "1018664"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Krisha Tyagi",
+        "usab_id": "1023152"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:30 AM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditi Srinivasan",
+        "usab_id": "1023244"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ananya Koushik",
+        "usab_id": "1023054"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditi Srinivasan",
+        "usab_id": "1023244"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yoning Liu [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        15,
+        21
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:50 AM"
+  },
+  {
+    "event": "GD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Namra Sharath",
+        "usab_id": "1023156"
+      },
+      {
+        "name": "Aditi Srinivasan",
+        "usab_id": "1023244"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Grace Hu",
+        "usab_id": "1022401"
+      },
+      {
+        "name": "Diya J Reddy",
+        "usab_id": "1022419"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:45 PM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Brendan E Chen [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nithesh Haribabu",
+        "usab_id": "1023035"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vineet Mahadevan",
+        "usab_id": "1022347"
+      },
+      {
+        "name": "Shaan Vishwanathan",
+        "usab_id": "1023176"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Brendan E Chen [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Suryansh Gupta",
+        "usab_id": "1021346"
+      }
+    ],
+    "scores": [
+      [
+        15,
+        21
+      ],
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:05 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sai Ratan Shankar",
+        "usab_id": "1023177"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Krishiv Devgun",
+        "usab_id": "1023179"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vihaan Darbha",
+        "usab_id": "1023022"
+      },
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Krishiv Devgun",
+        "usab_id": "1023179"
+      },
+      {
+        "name": "Nihal Reddy Gajjala",
+        "usab_id": "1022980"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        20,
+        22
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:40 AM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ish Modi [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Suryansh Gupta",
+        "usab_id": "1021346"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sanvi Ketha",
+        "usab_id": "1023186"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Adi Adam Ahmed",
+        "usab_id": "1020532"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Abhinav Malluru",
+        "usab_id": "1023172"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "XD U17",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arjun K George",
+        "usab_id": "1020891"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Abhinav Malluru",
+        "usab_id": "1023172"
+      },
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:50 PM"
+  },
+  {
+    "event": "GS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Preetika Malluru",
+        "usab_id": "1023173"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aadya Pitani",
+        "usab_id": "1020191"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        2
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U19",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nicholas W Lai",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Alvin Ng [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Meghana Pandiri",
+        "usab_id": "1023185"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      }
+    ],
+    "scores": [
+      [
+        14,
+        21
+      ],
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arushi Raghavendra",
+        "usab_id": "1021272"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Apurva Nekkalapudi",
+        "usab_id": "1023036"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anusri Poreddy",
+        "usab_id": "1022122"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arushi Raghavendra",
+        "usab_id": "1021272"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "GD U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arushi Raghavendra [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aashreeti Deo",
+        "usab_id": "1023191"
+      },
+      {
+        "name": "Ashrita Sunkara",
+        "usab_id": "1023216"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        4
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 3:15 PM"
+  },
+  {
+    "event": "GD U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arushi Raghavendra [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Grace Hu",
+        "usab_id": "1022401"
+      },
+      {
+        "name": "Diya J Reddy",
+        "usab_id": "1022419"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:00 AM"
+  },
+  {
+    "event": "XD U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      },
+      {
+        "name": "Tatthva Sharma",
+        "usab_id": "1022432"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adithya Tadinada",
+        "usab_id": "1023218"
+      },
+      {
+        "name": "Sri Ananya Kolipaka",
+        "usab_id": "1022831"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        8
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:10 PM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aashreeti Deo",
+        "usab_id": "1023191"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Yoning Liu [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:45 PM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Tanushri Lakshmi Thokala",
+        "usab_id": "1021266"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Afraz Muhammed Baig",
+        "usab_id": "1023198"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Zhengyue Xiong",
+        "usab_id": "1021029"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Zhengyue Xiong",
+        "usab_id": "1021029"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ahwan Mishra [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:25 AM"
+  },
+  {
+    "event": "BD U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hudson Abidin [WC]",
+        "usab_id": null
+      },
+      {
+        "name": "Eric Jon",
+        "usab_id": "1020209"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vignesh Sivasankar",
+        "usab_id": "1021603"
+      },
+      {
+        "name": "Rohan Vydana",
+        "usab_id": "1023157"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:55 AM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ashrita Sunkara",
+        "usab_id": "1023216"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        1
+      ],
+      [
+        21,
+        1
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Grace Hu [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Sasha Suman",
+        "usab_id": "1020911"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        22,
+        20
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:45 PM"
+  },
+  {
+    "event": "BD U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Isaiah Melwyn Alleluia",
+        "usab_id": "1023205"
+      },
+      {
+        "name": "Arjun Ramakrishn Hariharan",
+        "usab_id": "1022630"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Anish K Swamy",
+        "usab_id": "1023131"
+      },
+      {
+        "name": "Varun Vydana",
+        "usab_id": "1023158"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:05 AM"
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Pamela Annaliese Matias Maturan",
+        "usab_id": "1022592"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        5
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:40 AM"
+  },
+  {
+    "event": "GD U17",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ananya Nekkalapudi",
+        "usab_id": "1023037"
+      },
+      {
+        "name": "Sharvi Sharma",
+        "usab_id": "1021390"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      },
+      {
+        "name": "Saisha Pitani",
+        "usab_id": "1020149"
+      }
+    ],
+    "scores": [],
+    "winner": 2,
+    "walkover": true,
+    "time": "Sat 8/7/2021 3:40 PM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shaan Vishwanathan",
+        "usab_id": "1023176"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U19",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hanson Borui Zhang",
+        "usab_id": "1019753"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Prashant Harish",
+        "usab_id": "1019929"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U19",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nicholas W Lai",
+        "usab_id": null
+      },
+      {
+        "name": "Hanson Borui Zhang",
+        "usab_id": "1019753"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Zane Benjamin Reid",
+        "usab_id": "1020535"
+      },
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 1:10 PM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Eli Darmawan [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Srineet Atluri",
+        "usab_id": "1022900"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        2
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arjun Aditya Hariharan",
+        "usab_id": "1023222"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Srineet Atluri",
+        "usab_id": "1022900"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:40 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Srineet Atluri",
+        "usab_id": "1022900"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:00 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditya Kotaru [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Pradyun Rasamsetti",
+        "usab_id": "1022128"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        16,
+        21
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U11",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Neel J Reddy",
+        "usab_id": "1022420"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        6
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "BD U11",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vihaan Darbha",
+        "usab_id": "1023022"
+      },
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 1:00 PM"
+  },
+  {
+    "event": "BD U11",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditya Ramakrishn Hariharan",
+        "usab_id": "1022634"
+      },
+      {
+        "name": "Arjun Aditya Hariharan",
+        "usab_id": "1023222"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Rithik Rasamsetti",
+        "usab_id": "1022129"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        7
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 2:30 PM"
+  },
+  {
+    "event": "XD U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arjun K George",
+        "usab_id": "1020891"
+      },
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adi Adam Ahmed",
+        "usab_id": "1020532"
+      },
+      {
+        "name": "Pamela Annaliese Matias Maturan",
+        "usab_id": "1022592"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        9
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 5:45 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vignesh Sivasankar",
+        "usab_id": "1021603"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ian Adrian Ahmed",
+        "usab_id": "1020534"
+      }
+    ],
+    "scores": [
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        11
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Kunal Toomu",
+        "usab_id": "1023024"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U17",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Andrew Kang Qi Cheng",
+        "usab_id": "1022943"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arjun K George",
+        "usab_id": "1020891"
+      }
+    ],
+    "scores": [
+      [
+        18,
+        21
+      ],
+      [
+        22,
+        20
+      ],
+      [
+        21,
+        13
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 10:15 AM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      },
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 1:35 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 5",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihal Reddy Gajjala",
+        "usab_id": "1022980"
+      },
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      },
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        20,
+        22
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 8:40 PM"
+  },
+  {
+    "event": "GS U11",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Tvisha Modi",
+        "usab_id": "1022402"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Emilyn Lizbeth Joseph",
+        "usab_id": "1023159"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        5
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:00 AM"
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Arjun Ramakrishn Hariharan",
+        "usab_id": "1022630"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varin Karri [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nithesh Haribabu",
+        "usab_id": "1023035"
+      },
+      {
+        "name": "Varin Karri",
+        "usab_id": "1021682"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ish Modi",
+        "usab_id": "1021926"
+      },
+      {
+        "name": "Anirud Veldanda",
+        "usab_id": "1022114"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        7
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:25 PM"
+  },
+  {
+    "event": "XD U11",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihal Reddy Gajjala",
+        "usab_id": "1022980"
+      },
+      {
+        "name": "Shraddha Prakash",
+        "usab_id": "1023209"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Varish Karri",
+        "usab_id": "1022417"
+      },
+      {
+        "name": "Mithra Sellammal",
+        "usab_id": "1022454"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 7:00 PM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Yuancheng Li",
+        "usab_id": "1023239"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ian Darmawan",
+        "usab_id": "1021136"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        23
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BD U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Vihaan Darbha",
+        "usab_id": "1023022"
+      },
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Yuancheng Li",
+        "usab_id": "1023239"
+      },
+      {
+        "name": "Adhip Sundar",
+        "usab_id": "1023223"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        18
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:25 PM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Diya J Reddy [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Apurva Nekkalapudi",
+        "usab_id": "1023036"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Neel J Reddy",
+        "usab_id": "1022420"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vihaan Darbha",
+        "usab_id": "1023022"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Neel J Reddy",
+        "usab_id": "1022420"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adhip Sundar",
+        "usab_id": "1023223"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        4
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:00 PM"
+  },
+  {
+    "event": "BD U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ian Darmawan",
+        "usab_id": "1021136"
+      },
+      {
+        "name": "Neel J Reddy",
+        "usab_id": "1022420"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ayaaz Muhammed Baig",
+        "usab_id": "1023199"
+      },
+      {
+        "name": "Sai Ratan Shankar",
+        "usab_id": "1023177"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        26,
+        24
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 3:15 PM"
+  },
+  {
+    "event": "BD U11",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ian Darmawan",
+        "usab_id": "1021136"
+      },
+      {
+        "name": "Neel J Reddy",
+        "usab_id": "1022420"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aditya Ramakrishn Hariharan",
+        "usab_id": "1022634"
+      },
+      {
+        "name": "Arjun Aditya Hariharan",
+        "usab_id": "1023222"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:30 AM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hudson Abidin",
+        "usab_id": "1020205"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nihanth Kadikatla",
+        "usab_id": "1023087"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        18
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Hudson Abidin",
+        "usab_id": "1020205"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arnav Tiwari [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 9:25 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ayaaz Muhammed Baig",
+        "usab_id": "1023199"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Adhip Sundar",
+        "usab_id": "1023223"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U11",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditya Ramakrishn Hariharan",
+        "usab_id": "1022634"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ian Darmawan",
+        "usab_id": "1021136"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        22,
+        20
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 2:25 PM"
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Rohan Vydana",
+        "usab_id": "1023157"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        6
+      ],
+      [
+        21,
+        0
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ahwan Mishra [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Shaunak Misra",
+        "usab_id": "1020203"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sat 8/7/2021 12:20 PM"
+  },
+  {
+    "event": "BS U19",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Zane Benjamin Reid",
+        "usab_id": "1020535"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U19",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nicholas W Lai",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 10:00 AM"
+  },
+  {
+    "event": "BS U19",
+    "round": "Final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Prashant Harish",
+        "usab_id": "1019929"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Nikhil Vasudeva",
+        "usab_id": "2032669"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:30 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nihal Reddy Gajjala",
+        "usab_id": "1022980"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Aditya Ramakrishn Hariharan",
+        "usab_id": "1022634"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Nithya Ravula",
+        "usab_id": "1023248"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Surya Ajith",
+        "usab_id": "1023169"
+      }
+    ],
+    "scores": [],
+    "winner": 2,
+    "walkover": true,
+    "time": null
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 1",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ema Akutsu",
+        "usab_id": "1022510"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 3",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ria Balwalli",
+        "usab_id": "47948"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ema Akutsu",
+        "usab_id": "1022510"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 1:35 PM"
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 4",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ema Akutsu",
+        "usab_id": "1022510"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        22,
+        20
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:35 PM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Aditya Ramakrishn Hariharan",
+        "usab_id": "1022634"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bivab Chandra",
+        "usab_id": "1023167"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        15
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U19",
+    "round": "Semi final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Prashant Harish",
+        "usab_id": "1019929"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ryan Zhang",
+        "usab_id": "1023053"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 6:35 PM"
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Grace Hu [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Namra Sharath",
+        "usab_id": "1023156"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        12
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Manuel Melwyn Alleluia",
+        "usab_id": "1023206"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ahwan Mishra [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        13
+      ],
+      [
+        17,
+        21
+      ],
+      [
+        21,
+        10
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ria Penumetcha",
+        "usab_id": "1023227"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Ananya Nekkalapudi",
+        "usab_id": "1023037"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        2
+      ],
+      [
+        21,
+        2
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Isaiah Melwyn Alleluia",
+        "usab_id": "1023205"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arjun Ramakrishn Hariharan",
+        "usab_id": "1022630"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        2
+      ],
+      [
+        21,
+        14
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U15",
+    "round": "Round of 32",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Prateek Hanumappanahalli",
+        "usab_id": "1021563"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Arnav Tiwari [WC]",
+        "usab_id": null
+      }
+    ],
+    "scores": [
+      [
+        21,
+        16
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U15",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Anusri Poreddy",
+        "usab_id": "1022122"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Neha Ravula",
+        "usab_id": "1023249"
+      }
+    ],
+    "scores": [],
+    "winner": 1,
+    "walkover": true,
+    "time": null
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 2",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ria Balwalli",
+        "usab_id": "47948"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "scores": [
+      [
+        18,
+        21
+      ],
+      [
+        21,
+        17
+      ],
+      [
+        21,
+        11
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 4",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ria Balwalli",
+        "usab_id": "47948"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        15
+      ],
+      [
+        21,
+        12
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 9:00 AM"
+  },
+  {
+    "event": "BS U11",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Sai Ratan Shankar",
+        "usab_id": "1023177"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Bhavesh SAI VARMA Tammu",
+        "usab_id": "1023181"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        19
+      ],
+      [
+        19,
+        21
+      ],
+      [
+        21,
+        16
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U17",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Abel Daniel Koshy",
+        "usab_id": "1022847"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Vikash Kumaran",
+        "usab_id": "1022596"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        8
+      ],
+      [
+        21,
+        9
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Round of 16",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Varun Vydana",
+        "usab_id": "1023158"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hanyi Zhang",
+        "usab_id": "1021224"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        3
+      ],
+      [
+        21,
+        3
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": null
+  },
+  {
+    "event": "BS U13",
+    "round": "Quarter final",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Ish Modi [WC]",
+        "usab_id": null
+      }
+    ],
+    "team2": [
+      {
+        "name": "Hanyi Zhang",
+        "usab_id": "1021224"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        10
+      ],
+      [
+        21,
+        17
+      ]
+    ],
+    "winner": 1,
+    "walkover": false,
+    "time": "Sat 8/7/2021 11:30 AM"
+  },
+  {
+    "event": "GS U19",
+    "round": "Round 5",
+    "bracket": "main",
+    "team1": [
+      {
+        "name": "Latika Sreenath",
+        "usab_id": "47995"
+      }
+    ],
+    "team2": [
+      {
+        "name": "Rachel Ye",
+        "usab_id": "1017369"
+      }
+    ],
+    "scores": [
+      [
+        21,
+        14
+      ],
+      [
+        21,
+        19
+      ]
+    ],
+    "winner": 2,
+    "walkover": false,
+    "time": "Sun 8/8/2021 11:30 AM"
+  }
+]

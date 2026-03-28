@@ -1,0 +1,33 @@
+{
+  "usab_id": "471758",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 102,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 217,
+      "rank": 56,
+      "tournaments": [
+        {
+          "tournament": "2023 EGRET MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    }
+  ],
+  "name": "Sophie Che",
+  "year_of_birth": null,
+  "gender": "F"
+}

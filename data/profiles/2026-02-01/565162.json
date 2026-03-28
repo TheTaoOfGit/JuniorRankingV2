@@ -1,0 +1,47 @@
+{
+  "usab_id": "565162",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 213,
+      "rank": 80,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 340,
+      "rank": 29,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 531,
+      "rank": 28,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Meera Patel",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

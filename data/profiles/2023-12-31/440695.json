@@ -1,0 +1,33 @@
+{
+  "usab_id": "440695",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 340,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "340"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 531,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH FRISCO OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "531"
+        }
+      ]
+    }
+  ],
+  "name": "Kavin Nagwekar",
+  "year_of_birth": null,
+  "gender": "M"
+}

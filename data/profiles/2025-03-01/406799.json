@@ -1,0 +1,33 @@
+{
+  "usab_id": "406799",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 2400,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "4",
+          "points": "2400"
+        }
+      ]
+    },
+    {
+      "category": "BD U19",
+      "ranking_points": 2700,
+      "rank": 150,
+      "tournaments": [
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "2",
+          "points": "2700"
+        }
+      ]
+    }
+  ],
+  "name": "Yves Homayoon",
+  "year_of_birth": null,
+  "gender": "M"
+}

@@ -1,0 +1,55 @@
+{
+  "usab_id": "474700",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 357,
+      "rank": 65,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "255"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 442,
+      "rank": 27,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "25-32",
+          "points": "340"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 595,
+      "rank": 30,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "13-16",
+          "points": "595"
+        }
+      ]
+    }
+  ],
+  "name": "Kayal Selvamanickam",
+  "year_of_birth": null,
+  "gender": "F"
+}

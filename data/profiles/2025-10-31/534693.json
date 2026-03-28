@@ -1,0 +1,35 @@
+{
+  "usab_id": "534693",
+  "date": "2025-10-31",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 102,
+      "rank": 130,
+      "tournaments": [
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "102"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 159,
+      "rank": 128,
+      "tournaments": [
+        {
+          "tournament": "2025 OBA NORTHWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    }
+  ],
+  "name": "Sufiyaan Mohammed",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2016,
+  "year_of_birth_confidence": "estimated_likely"
+}

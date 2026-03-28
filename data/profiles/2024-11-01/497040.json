@@ -1,0 +1,33 @@
+{
+  "usab_id": "497040",
+  "date": "2024-11-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 213,
+      "rank": 140,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 213,
+      "rank": 69,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX NORTHEAST OPEN REGIONAL CHAMPIONSHIPS (Capital Badminton U11 U17 U19)",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    }
+  ],
+  "name": "Akshara Iyer",
+  "year_of_birth": null,
+  "gender": "F"
+}

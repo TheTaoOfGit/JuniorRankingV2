@@ -1,0 +1,33 @@
+{
+  "usab_id": "472834",
+  "date": "2025-05-01",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 270,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 6250,
+      "rank": 82,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "5-8",
+          "points": "6250"
+        }
+      ]
+    }
+  ],
+  "name": "Olympia Yan",
+  "year_of_birth": null,
+  "gender": "GS"
+}

@@ -1,0 +1,75 @@
+{
+  "usab_id": "410584",
+  "date": "2025-04-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 1496,
+      "rank": 84,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "935"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 1212,
+      "rank": 49,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "9 to 12",
+          "points": "765"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "2",
+          "points": "230"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 1592,
+      "rank": 69,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "7 to 8",
+          "points": "935"
+        },
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "3",
+          "points": "402"
+        },
+        {
+          "tournament": "2024 YONEX DAVE FREEMAN JR. OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "255"
+        }
+      ]
+    }
+  ],
+  "name": "Ana Paula Almirola",
+  "year_of_birth": null,
+  "gender": "F"
+}

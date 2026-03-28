@@ -1,0 +1,90 @@
+{
+  "usab_id": "453606",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 336,
+      "rank": 79,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U11",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "85"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 860,
+      "rank": 62,
+      "tournaments": [
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U11",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "XD U11",
+      "ranking_points": 617,
+      "rank": 74,
+      "tournaments": [
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "3",
+          "points": "217"
+        },
+        {
+          "tournament": "2023 YONEX LONG ISLAND CENTER NORTHEAST OPEN REGIONAL CHAMPIONSHIPS U11",
+          "position": "17-32",
+          "points": "213"
+        },
+        {
+          "tournament": "2024 NJBC NE CRC",
+          "position": "9-16",
+          "points": "102"
+        },
+        {
+          "tournament": "2024 YONEX SPBA MIDWEST ORC",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    }
+  ],
+  "name": "Shaurya Batra",
+  "year_of_birth": null,
+  "gender": "M"
+}

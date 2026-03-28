@@ -1,0 +1,52 @@
+{
+  "usab_id": "555852",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "XD U11",
+      "ranking_points": 85,
+      "rank": 124,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GS U11",
+      "ranking_points": 244,
+      "rank": 48,
+      "tournaments": [
+        {
+          "tournament": "2026 DAVE FREEMAN JR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        },
+        {
+          "tournament": "2025 YONEX SYNERGY NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "85"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 217,
+      "rank": 55,
+      "tournaments": [
+        {
+          "tournament": "2026 DAVE FREEMAN JR OPEN LOCAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    }
+  ],
+  "name": "Meera Vinodh",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

@@ -1,0 +1,33 @@
+{
+  "usab_id": "480010",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 189,
+      "rank": 229,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 189,
+      "rank": 118,
+      "tournaments": [
+        {
+          "tournament": "2024 MBC MIDWEST CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Chloe Wu",
+  "year_of_birth": null,
+  "gender": "F"
+}

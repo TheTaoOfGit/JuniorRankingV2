@@ -1,0 +1,35 @@
+{
+  "usab_id": "565140",
+  "date": "2026-02-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 213,
+      "rank": 49,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "213"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 340,
+      "rank": 44,
+      "tournaments": [
+        {
+          "tournament": "2026 YONEX ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "340"
+        }
+      ]
+    }
+  ],
+  "name": "Aradhya Mohan",
+  "year_of_birth": null,
+  "gender": "F",
+  "year_of_birth_inferred": 2017,
+  "year_of_birth_confidence": "estimated_likely"
+}

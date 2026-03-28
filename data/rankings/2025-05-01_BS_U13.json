@@ -1,0 +1,903 @@
+{
+  "date": "2025-05-01",
+  "category": "BS",
+  "age_group": "U13",
+  "rankings": [
+    {
+      "rank": "1",
+      "usab_id": "403350",
+      "name": "Yian Yang",
+      "ranking_points": "7086",
+      "profile_url": "/403350/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "2",
+      "usab_id": "1022417",
+      "name": "Varish Karri",
+      "ranking_points": "6298",
+      "profile_url": "/1022417/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "3",
+      "usab_id": "408717",
+      "name": "Michael Sun",
+      "ranking_points": "6110",
+      "profile_url": "/408717/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "4",
+      "usab_id": "1023257",
+      "name": "Aditya Namboodiripad",
+      "ranking_points": "5195",
+      "profile_url": "/1023257/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "5",
+      "usab_id": "397901",
+      "name": "Kevin Xie",
+      "ranking_points": "4398",
+      "profile_url": "/397901/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "6",
+      "usab_id": "423963",
+      "name": "Chiranjeev Deepak",
+      "ranking_points": "4330",
+      "profile_url": "/423963/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "7",
+      "usab_id": "400916",
+      "name": "Anirudh Rudharraju",
+      "ranking_points": "4271",
+      "profile_url": "/400916/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "8",
+      "usab_id": "399249",
+      "name": "Melvin Cui",
+      "ranking_points": "3937",
+      "profile_url": "/399249/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "9",
+      "usab_id": "1023045",
+      "name": "Ethan Qiu",
+      "ranking_points": "3897",
+      "profile_url": "/1023045/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "10",
+      "usab_id": "1023042",
+      "name": "Taneesh Musunuru",
+      "ranking_points": "3700",
+      "profile_url": "/1023042/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "11",
+      "usab_id": "415387",
+      "name": "Aayush Jaladurgam",
+      "ranking_points": "3698",
+      "profile_url": "/415387/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "12",
+      "usab_id": "442094",
+      "name": "Eli You",
+      "ranking_points": "3058",
+      "profile_url": "/442094/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "13",
+      "usab_id": "403661",
+      "name": "Reyansh Chalamalasetti",
+      "ranking_points": "2894",
+      "profile_url": "/403661/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "14",
+      "usab_id": "406502",
+      "name": "Leon Luo",
+      "ranking_points": "2835",
+      "profile_url": "/406502/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "15",
+      "usab_id": "437369",
+      "name": "Leslie Wang",
+      "ranking_points": "2726",
+      "profile_url": "/437369/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "16",
+      "usab_id": "440222",
+      "name": "Leo Ye",
+      "ranking_points": "2689",
+      "profile_url": "/440222/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "17",
+      "usab_id": "449877",
+      "name": "Virat Satish",
+      "ranking_points": "2656",
+      "profile_url": "/449877/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "18",
+      "usab_id": "398159",
+      "name": "Vignan Chandrasekaran",
+      "ranking_points": "2582",
+      "profile_url": "/398159/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "19",
+      "usab_id": "472535",
+      "name": "Velu Magadheesan",
+      "ranking_points": "2570",
+      "profile_url": "/472535/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "20",
+      "usab_id": "416869",
+      "name": "Ryan Chu",
+      "ranking_points": "2449",
+      "profile_url": "/416869/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "21",
+      "usab_id": "1023177",
+      "name": "Sai Ratan Shankar",
+      "ranking_points": "2401",
+      "profile_url": "/1023177/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "22",
+      "usab_id": "436411",
+      "name": "Joey Wang",
+      "ranking_points": "2322",
+      "profile_url": "/436411/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "23",
+      "usab_id": "430148",
+      "name": "Zechariah Wang",
+      "ranking_points": "2221",
+      "profile_url": "/430148/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "24",
+      "usab_id": "433118",
+      "name": "Jonathan Zhang",
+      "ranking_points": "2197",
+      "profile_url": "/433118/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "25",
+      "usab_id": "433241",
+      "name": "Daiwik Reddy",
+      "ranking_points": "2185",
+      "profile_url": "/433241/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "26",
+      "usab_id": "474410",
+      "name": "Satvikram Parvathaneni",
+      "ranking_points": "2165",
+      "profile_url": "/474410/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "27",
+      "usab_id": "448038",
+      "name": "Surya Peechara",
+      "ranking_points": "2145",
+      "profile_url": "/448038/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "28",
+      "usab_id": "424083",
+      "name": "Anshu Gowda",
+      "ranking_points": "2126",
+      "profile_url": "/424083/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "29",
+      "usab_id": "1022980",
+      "name": "Nihal Reddy Gajjala",
+      "ranking_points": "2048",
+      "profile_url": "/1022980/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "30",
+      "usab_id": "449335",
+      "name": "Matthew Zhang",
+      "ranking_points": "2017",
+      "profile_url": "/449335/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "31",
+      "usab_id": "444913",
+      "name": "Bryce Xie",
+      "ranking_points": "1953",
+      "profile_url": "/444913/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "32",
+      "usab_id": "470233",
+      "name": "Boqian Zheng",
+      "ranking_points": "1934",
+      "profile_url": "/470233/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "33",
+      "usab_id": "408552",
+      "name": "Harrison Zhang",
+      "ranking_points": "1921",
+      "profile_url": "/408552/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "34",
+      "usab_id": "451709",
+      "name": "Derek Huang",
+      "ranking_points": "1912",
+      "profile_url": "/451709/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "35",
+      "usab_id": "475403",
+      "name": "Mokshagna Surpur",
+      "ranking_points": "1830",
+      "profile_url": "/475403/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "36",
+      "usab_id": "440357",
+      "name": "Adithya Yeluguri",
+      "ranking_points": "1815",
+      "profile_url": "/440357/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "37",
+      "usab_id": "440812",
+      "name": "Amogh Lanka",
+      "ranking_points": "1813",
+      "profile_url": "/440812/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "38",
+      "usab_id": "439884",
+      "name": "Yashas Cheerlavancha",
+      "ranking_points": "1692",
+      "profile_url": "/439884/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "39",
+      "usab_id": "444741",
+      "name": "Arnav Satish",
+      "ranking_points": "1662",
+      "profile_url": "/444741/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "40",
+      "usab_id": "470241",
+      "name": "Mingyuan Zang",
+      "ranking_points": "1657",
+      "profile_url": "/470241/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "41",
+      "usab_id": "446187",
+      "name": "Iniyan Arun",
+      "ranking_points": "1644",
+      "profile_url": "/446187/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "42",
+      "usab_id": "474415",
+      "name": "Ritvik Singh",
+      "ranking_points": "1615",
+      "profile_url": "/474415/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "43",
+      "usab_id": "407023",
+      "name": "Liam Xiao",
+      "ranking_points": "1607",
+      "profile_url": "/407023/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "44",
+      "usab_id": "432909",
+      "name": "Jonathan Loh",
+      "ranking_points": "1555",
+      "profile_url": "/432909/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "45",
+      "usab_id": "471602",
+      "name": "Jida Wu",
+      "ranking_points": "1551",
+      "profile_url": "/471602/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "46",
+      "usab_id": "421307",
+      "name": "Aiden Xu",
+      "ranking_points": "1536",
+      "profile_url": "/421307/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "47",
+      "usab_id": "432959",
+      "name": "Shravan Chockalingam",
+      "ranking_points": "1514",
+      "profile_url": "/432959/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "48",
+      "usab_id": "453649",
+      "name": "Marcus Chua",
+      "ranking_points": "1504",
+      "profile_url": "/453649/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "49",
+      "usab_id": "445637",
+      "name": "Sreeskandan Saravanan",
+      "ranking_points": "1488",
+      "profile_url": "/445637/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "50",
+      "usab_id": "467202",
+      "name": "Michael Chen",
+      "ranking_points": "1431",
+      "profile_url": "/467202/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "51",
+      "usab_id": "400395",
+      "name": "Pranav Vijay",
+      "ranking_points": "1422",
+      "profile_url": "/400395/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "52",
+      "usab_id": "444619",
+      "name": "Adrian Zhang",
+      "ranking_points": "1422",
+      "profile_url": "/444619/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "53",
+      "usab_id": "425574",
+      "name": "Kennedy Wu",
+      "ranking_points": "1365",
+      "profile_url": "/425574/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "54",
+      "usab_id": "471141",
+      "name": "Lohith Reddy Arava",
+      "ranking_points": "1362",
+      "profile_url": "/471141/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "55",
+      "usab_id": "444406",
+      "name": "Kevin Yu",
+      "ranking_points": "1349",
+      "profile_url": "/444406/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "56",
+      "usab_id": "478381",
+      "name": "Stephen Huang",
+      "ranking_points": "1338",
+      "profile_url": "/478381/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "57",
+      "usab_id": "440826",
+      "name": "David Zhang",
+      "ranking_points": "1276",
+      "profile_url": "/440826/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "58",
+      "usab_id": "436792",
+      "name": "Tovi Tan",
+      "ranking_points": "1276",
+      "profile_url": "/436792/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "59",
+      "usab_id": "437091",
+      "name": "Arjun Rajkumar",
+      "ranking_points": "1240",
+      "profile_url": "/437091/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "60",
+      "usab_id": "412317",
+      "name": "Srihari Shyam",
+      "ranking_points": "1230",
+      "profile_url": "/412317/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "61",
+      "usab_id": "432713",
+      "name": "Jason Zhu",
+      "ranking_points": "1203",
+      "profile_url": "/432713/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "62",
+      "usab_id": "437541",
+      "name": "Ryan Li",
+      "ranking_points": "1200",
+      "profile_url": "/437541/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "63",
+      "usab_id": "460927",
+      "name": "Kyle Chen",
+      "ranking_points": "1185",
+      "profile_url": "/460927/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "64",
+      "usab_id": "453672",
+      "name": "Leonardo Hung",
+      "ranking_points": "1184",
+      "profile_url": "/453672/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "65",
+      "usab_id": "438654",
+      "name": "Zmy Gao",
+      "ranking_points": "1181",
+      "profile_url": "/438654/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "66",
+      "usab_id": "440568",
+      "name": "Ethan Yin",
+      "ranking_points": "1156",
+      "profile_url": "/440568/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "67",
+      "usab_id": "460793",
+      "name": "Jeremy Wang",
+      "ranking_points": "1136",
+      "profile_url": "/460793/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "68",
+      "usab_id": "436889",
+      "name": "Evan Lu",
+      "ranking_points": "1126",
+      "profile_url": "/436889/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "69",
+      "usab_id": "445058",
+      "name": "Aiden Wu",
+      "ranking_points": "1120",
+      "profile_url": "/445058/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "70",
+      "usab_id": "410636",
+      "name": "Aarav Mukkamala",
+      "ranking_points": "1114",
+      "profile_url": "/410636/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "71",
+      "usab_id": "488210",
+      "name": "Kesan Murthysundar",
+      "ranking_points": "1102",
+      "profile_url": "/488210/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "72",
+      "usab_id": "453229",
+      "name": "Aadiv Raj",
+      "ranking_points": "1094",
+      "profile_url": "/453229/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "73",
+      "usab_id": "432995",
+      "name": "Ethan Yang",
+      "ranking_points": "1094",
+      "profile_url": "/432995/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "74",
+      "usab_id": "455794",
+      "name": "Andy Starostin",
+      "ranking_points": "1090",
+      "profile_url": "/455794/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "75",
+      "usab_id": "440458",
+      "name": "Roger Kung",
+      "ranking_points": "1078",
+      "profile_url": "/440458/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "76",
+      "usab_id": "446318",
+      "name": "Krish Ramachandran",
+      "ranking_points": "1076",
+      "profile_url": "/446318/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "77",
+      "usab_id": "411637",
+      "name": "Weston Lee",
+      "ranking_points": "1064",
+      "profile_url": "/411637/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "78",
+      "usab_id": "461147",
+      "name": "Tamoghna Aniket Sivadanam",
+      "ranking_points": "995",
+      "profile_url": "/461147/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "79",
+      "usab_id": "449580",
+      "name": "Felix Liu",
+      "ranking_points": "995",
+      "profile_url": "/449580/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "80",
+      "usab_id": "446851",
+      "name": "Tailong Cheng",
+      "ranking_points": "987",
+      "profile_url": "/446851/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "81",
+      "usab_id": "444891",
+      "name": "Lukas Gabriel Bayani",
+      "ranking_points": "972",
+      "profile_url": "/444891/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "82",
+      "usab_id": "1023255",
+      "name": "Wilson Liao",
+      "ranking_points": "906",
+      "profile_url": "/1023255/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "83",
+      "usab_id": "444706",
+      "name": "Nithesh Madishetti",
+      "ranking_points": "897",
+      "profile_url": "/444706/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "84",
+      "usab_id": "467298",
+      "name": "Daniel Li",
+      "ranking_points": "883",
+      "profile_url": "/467298/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "85",
+      "usab_id": "460867",
+      "name": "Brayden Liu",
+      "ranking_points": "879",
+      "profile_url": "/460867/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "86",
+      "usab_id": "440737",
+      "name": "Sahas Arunkumar",
+      "ranking_points": "863",
+      "profile_url": "/440737/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "87",
+      "usab_id": "480070",
+      "name": "Siddharth Kuchi",
+      "ranking_points": "860",
+      "profile_url": "/480070/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "88",
+      "usab_id": "445203",
+      "name": "Siming(Alan) Qu",
+      "ranking_points": "811",
+      "profile_url": "/445203/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "89",
+      "usab_id": "444786",
+      "name": "Kartik Kanchi",
+      "ranking_points": "799",
+      "profile_url": "/444786/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "90",
+      "usab_id": "474401",
+      "name": "Allen Wang",
+      "ranking_points": "761",
+      "profile_url": "/474401/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "91",
+      "usab_id": "462027",
+      "name": "Vidruth Arun",
+      "ranking_points": "759",
+      "profile_url": "/462027/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "92",
+      "usab_id": "461834",
+      "name": "Emmanuel Joseph",
+      "ranking_points": "748",
+      "profile_url": "/461834/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "93",
+      "usab_id": "1023167",
+      "name": "Bivab Chandra",
+      "ranking_points": "740",
+      "profile_url": "/1023167/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "94",
+      "usab_id": "440851",
+      "name": "Vedhanth Kanthala",
+      "ranking_points": "668",
+      "profile_url": "/440851/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "95",
+      "usab_id": "479072",
+      "name": "Carlo Feng",
+      "ranking_points": "665",
+      "profile_url": "/479072/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "96",
+      "usab_id": "441212",
+      "name": "Darmikh Pallabothula",
+      "ranking_points": "657",
+      "profile_url": "/441212/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "97",
+      "usab_id": "446575",
+      "name": "Morgan Lu",
+      "ranking_points": "654",
+      "profile_url": "/446575/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "98",
+      "usab_id": "478696",
+      "name": "Vidhu Keesara",
+      "ranking_points": "642",
+      "profile_url": "/478696/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "99",
+      "usab_id": "467829",
+      "name": "Atharva Abhijith",
+      "ranking_points": "632",
+      "profile_url": "/467829/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "100",
+      "usab_id": "467756",
+      "name": "Nathan Santoso",
+      "ranking_points": "632",
+      "profile_url": "/467756/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "101",
+      "usab_id": "476045",
+      "name": "Saipranav Kalla",
+      "ranking_points": "622",
+      "profile_url": "/476045/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "102",
+      "usab_id": "461025",
+      "name": "Raymond Wang",
+      "ranking_points": "593",
+      "profile_url": "/461025/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "103",
+      "usab_id": "489877",
+      "name": "Imon Sahu",
+      "ranking_points": "576",
+      "profile_url": "/489877/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "104",
+      "usab_id": "456975",
+      "name": "Luke Ai",
+      "ranking_points": "570",
+      "profile_url": "/456975/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "105",
+      "usab_id": "409150",
+      "name": "Lucas Lu",
+      "ranking_points": "563",
+      "profile_url": "/409150/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "106",
+      "usab_id": "465449",
+      "name": "Nevaan Bhanot",
+      "ranking_points": "551",
+      "profile_url": "/465449/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "107",
+      "usab_id": "472696",
+      "name": "Jonathan Wang",
+      "ranking_points": "543",
+      "profile_url": "/472696/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "108",
+      "usab_id": "485257",
+      "name": "Andrew Sinyushkin",
+      "ranking_points": "518",
+      "profile_url": "/485257/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "109",
+      "usab_id": "481474",
+      "name": "Tapaswin Gandhavalla",
+      "ranking_points": "511",
+      "profile_url": "/481474/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "110",
+      "usab_id": "437047",
+      "name": "Lukas Ye",
+      "ranking_points": "504",
+      "profile_url": "/437047/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "111",
+      "usab_id": "467534",
+      "name": "Aarav Biyani",
+      "ranking_points": "489",
+      "profile_url": "/467534/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "112",
+      "usab_id": "475468",
+      "name": "Aaron Ge",
+      "ranking_points": "482",
+      "profile_url": "/475468/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "113",
+      "usab_id": "484923",
+      "name": "Luke Wen",
+      "ranking_points": "480",
+      "profile_url": "/484923/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "114",
+      "usab_id": "492802",
+      "name": "Shankar Namboothiri",
+      "ranking_points": "478",
+      "profile_url": "/492802/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "115",
+      "usab_id": "406316",
+      "name": "Cyrus Cai",
+      "ranking_points": "472",
+      "profile_url": "/406316/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "116",
+      "usab_id": "437072",
+      "name": "Aiden Liu",
+      "ranking_points": "472",
+      "profile_url": "/437072/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "117",
+      "usab_id": "467289",
+      "name": "Allen Wu",
+      "ranking_points": "471",
+      "profile_url": "/467289/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "118",
+      "usab_id": "440602",
+      "name": "Derik Li",
+      "ranking_points": "465",
+      "profile_url": "/440602/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "119",
+      "usab_id": "1023195",
+      "name": "Vishwajeeth Madhavan",
+      "ranking_points": "464",
+      "profile_url": "/1023195/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "120",
+      "usab_id": "423887",
+      "name": "Evan Zhou",
+      "ranking_points": "464",
+      "profile_url": "/423887/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "121",
+      "usab_id": "463515",
+      "name": "Yenting Chen",
+      "ranking_points": "464",
+      "profile_url": "/463515/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "122",
+      "usab_id": "521161",
+      "name": "Aayush Jaltar",
+      "ranking_points": "450",
+      "profile_url": "/521161/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "123",
+      "usab_id": "524530",
+      "name": "Nithish Krishnaa Rajiv",
+      "ranking_points": "442",
+      "profile_url": "/524530/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "124",
+      "usab_id": "450984",
+      "name": "William Chen",
+      "ranking_points": "433",
+      "profile_url": "/450984/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "125",
+      "usab_id": "496734",
+      "name": "Pranay Sundar",
+      "ranking_points": "426",
+      "profile_url": "/496734/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "126",
+      "usab_id": "451716",
+      "name": "Deekshith Vasanth",
+      "ranking_points": "425",
+      "profile_url": "/451716/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "127",
+      "usab_id": "424895",
+      "name": "Hector Wang",
+      "ranking_points": "419",
+      "profile_url": "/424895/details?age_group=U13&category=BS&date=2025-05-01"
+    },
+    {
+      "rank": "128",
+      "usab_id": "478326",
+      "name": "Keyong Fan",
+      "ranking_points": "394",
+      "profile_url": "/478326/details?age_group=U13&category=BS&date=2025-05-01"
+    }
+  ]
+}

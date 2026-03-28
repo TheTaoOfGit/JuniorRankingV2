@@ -1,0 +1,33 @@
+{
+  "usab_id": "2034731",
+  "date": "2023-12-31",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 2500,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 2500,
+      "rank": 86,
+      "tournaments": [
+        {
+          "tournament": "2023 ARENA SOCAL OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2023 SHONAI INVITATIONAL",
+          "position": "17-32",
+          "points": "2500"
+        }
+      ]
+    }
+  ],
+  "name": "Zoey Yong",
+  "year_of_birth": null,
+  "gender": "F"
+}

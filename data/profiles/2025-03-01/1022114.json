@@ -1,0 +1,50 @@
+{
+  "usab_id": "1022114",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U17",
+      "ranking_points": 4666,
+      "rank": 58,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "4",
+          "points": "4666"
+        }
+      ]
+    },
+    {
+      "category": "BD U17",
+      "ranking_points": 5497,
+      "rank": 77,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "3",
+          "points": "4957"
+        },
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "XD U17",
+      "ranking_points": 4666,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "4",
+          "points": "4666"
+        }
+      ]
+    }
+  ],
+  "name": "Anirud Veldanda",
+  "year_of_birth": null,
+  "gender": "M"
+}

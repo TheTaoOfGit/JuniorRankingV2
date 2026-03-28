@@ -1,0 +1,218 @@
+{
+  "1": {
+    "ts_player_id": "1",
+    "usab_id": "47829",
+    "name": "Carryssa Caryn Bun",
+    "events": []
+  },
+  "2": {
+    "ts_player_id": "2",
+    "usab_id": "2034328",
+    "name": "Natalie Chi",
+    "events": []
+  },
+  "3": {
+    "ts_player_id": "3",
+    "usab_id": null,
+    "name": "Emily Choi (N/A)",
+    "events": []
+  },
+  "4": {
+    "ts_player_id": "4",
+    "usab_id": null,
+    "name": "Jennie Gai",
+    "events": []
+  },
+  "5": {
+    "ts_player_id": "5",
+    "usab_id": "2033384",
+    "name": "William Hu",
+    "events": []
+  },
+  "6": {
+    "ts_player_id": "6",
+    "usab_id": "2032606",
+    "name": "Nicole Alice Ju",
+    "events": []
+  },
+  "7": {
+    "ts_player_id": "7",
+    "usab_id": "1018770",
+    "name": "Isaac Kim",
+    "events": []
+  },
+  "8": {
+    "ts_player_id": "8",
+    "usab_id": "47190",
+    "name": "Victor Lai",
+    "events": []
+  },
+  "9": {
+    "ts_player_id": "9",
+    "usab_id": "2034050",
+    "name": "Katelin Hanna Ngo",
+    "events": []
+  },
+  "10": {
+    "ts_player_id": "10",
+    "usab_id": "2032970",
+    "name": "Mihir Raja",
+    "events": []
+  },
+  "11": {
+    "ts_player_id": "11",
+    "usab_id": "2035846",
+    "name": "Esther Shi",
+    "events": []
+  },
+  "12": {
+    "ts_player_id": "12",
+    "usab_id": null,
+    "name": "Trevor S Tan",
+    "events": []
+  },
+  "13": {
+    "ts_player_id": "13",
+    "usab_id": "84939",
+    "name": "Brandon m Xu",
+    "events": []
+  },
+  "14": {
+    "ts_player_id": "14",
+    "usab_id": "2033472",
+    "name": "Jacob Chuhua Zhang",
+    "events": []
+  },
+  "16": {
+    "ts_player_id": "16",
+    "usab_id": "2035715",
+    "name": "Andrea Lou",
+    "events": []
+  },
+  "17": {
+    "ts_player_id": "17",
+    "usab_id": "1020586",
+    "name": "Jaden Seangmany",
+    "events": []
+  },
+  "18": {
+    "ts_player_id": "18",
+    "usab_id": "2034414",
+    "name": "Andrew Tan",
+    "events": []
+  },
+  "19": {
+    "ts_player_id": "19",
+    "usab_id": "1020483",
+    "name": "Saketh Upadhya",
+    "events": []
+  },
+  "20": {
+    "ts_player_id": "20",
+    "usab_id": "2035695",
+    "name": "Joshua J Yang",
+    "events": []
+  },
+  "21": {
+    "ts_player_id": "21",
+    "usab_id": "2033007",
+    "name": "Don Henley Averia",
+    "events": []
+  },
+  "22": {
+    "ts_player_id": "22",
+    "usab_id": "2033775",
+    "name": "Kelvin Chong",
+    "events": []
+  },
+  "23": {
+    "ts_player_id": "23",
+    "usab_id": "2035637",
+    "name": "Chloe Ho",
+    "events": []
+  },
+  "24": {
+    "ts_player_id": "24",
+    "usab_id": "2034043",
+    "name": "Adrian Mar",
+    "events": []
+  },
+  "25": {
+    "ts_player_id": "25",
+    "usab_id": null,
+    "name": "Bonnie Nien (No idea)",
+    "events": []
+  },
+  "26": {
+    "ts_player_id": "26",
+    "usab_id": "824112",
+    "name": "Abraham Xu",
+    "events": []
+  },
+  "27": {
+    "ts_player_id": "27",
+    "usab_id": "2034165",
+    "name": "Nicholas Chiu",
+    "events": []
+  },
+  "28": {
+    "ts_player_id": "28",
+    "usab_id": "1018745",
+    "name": "Joshua Allen Wijaya",
+    "events": []
+  },
+  "29": {
+    "ts_player_id": "29",
+    "usab_id": "2034188",
+    "name": "Andrew Yuan",
+    "events": []
+  },
+  "30": {
+    "ts_player_id": "30",
+    "usab_id": null,
+    "name": "Ashley Yang (Hana)",
+    "events": []
+  },
+  "31": {
+    "ts_player_id": "31",
+    "usab_id": "47830",
+    "name": "Audrey Chang",
+    "events": []
+  },
+  "32": {
+    "ts_player_id": "32",
+    "usab_id": "1021860",
+    "name": "Reno Guo",
+    "events": []
+  },
+  "33": {
+    "ts_player_id": "33",
+    "usab_id": "2034167",
+    "name": "Kodi Tang Lee",
+    "events": []
+  },
+  "34": {
+    "ts_player_id": "34",
+    "usab_id": "2033842",
+    "name": "Sanchita Pandey",
+    "events": []
+  },
+  "35": {
+    "ts_player_id": "35",
+    "usab_id": "2036045",
+    "name": "Henry Tang",
+    "events": []
+  },
+  "36": {
+    "ts_player_id": "36",
+    "usab_id": "2032882",
+    "name": "Joshua Yuan",
+    "events": []
+  },
+  "37": {
+    "ts_player_id": "37",
+    "usab_id": null,
+    "name": "Ashley Huang (38016IE)",
+    "events": []
+  }
+}

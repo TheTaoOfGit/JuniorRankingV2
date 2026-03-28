@@ -1,0 +1,45 @@
+{
+  "usab_id": "398825",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 2160,
+      "rank": 183,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "2160"
+        }
+      ]
+    },
+    {
+      "category": "GS U17",
+      "ranking_points": 540,
+      "rank": 140,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 4000,
+      "rank": 83,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX CBA NORCAL OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "4000"
+        }
+      ]
+    }
+  ],
+  "name": "Bridget Wang",
+  "year_of_birth": null,
+  "gender": "F"
+}

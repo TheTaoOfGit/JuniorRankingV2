@@ -1,0 +1,40 @@
+{
+  "usab_id": "416893",
+  "date": "2026-03-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 948,
+      "rank": 127,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX BELLEVUE NORTHWEST OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2026 NW SEATTLE CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "219"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 350,
+      "rank": 217,
+      "tournaments": [
+        {
+          "tournament": "2026 NW SEATTLE CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "350"
+        }
+      ]
+    }
+  ],
+  "name": "Kabir Madiman",
+  "year_of_birth": null,
+  "gender": "M",
+  "year_of_birth_inferred": 2012,
+  "year_of_birth_confidence": "confirmed"
+}

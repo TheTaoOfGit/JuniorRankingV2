@@ -1,0 +1,33 @@
+{
+  "usab_id": "419001",
+  "date": "2024-05-01",
+  "categories": [
+    {
+      "category": "BS U19",
+      "ranking_points": 7000,
+      "rank": 76,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "13-16",
+          "points": "7000"
+        }
+      ]
+    },
+    {
+      "category": "XD U19",
+      "ranking_points": 9000,
+      "rank": 96,
+      "tournaments": [
+        {
+          "tournament": "2023 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
+          "position": "9-12",
+          "points": "9000"
+        }
+      ]
+    }
+  ],
+  "name": "Anirv Chamakura",
+  "year_of_birth": null,
+  "gender": "BS"
+}

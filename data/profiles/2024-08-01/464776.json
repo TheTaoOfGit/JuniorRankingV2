@@ -1,0 +1,48 @@
+{
+  "usab_id": "464776",
+  "date": "2024-08-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 2660,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2024 NVBC NE OLC",
+          "position": "3",
+          "points": "1377"
+        },
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "65-128",
+          "points": "270"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1553,
+      "rank": 139,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST NVBC OPEN LOCAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "1013"
+        },
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "540"
+        }
+      ]
+    }
+  ],
+  "name": "Varshitha Yalamanchili",
+  "year_of_birth": null,
+  "gender": "F"
+}

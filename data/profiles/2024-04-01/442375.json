@@ -1,0 +1,33 @@
+{
+  "usab_id": "442375",
+  "date": "2024-04-01",
+  "categories": [
+    {
+      "category": "GS U13",
+      "ranking_points": 157,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "157"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 394,
+      "rank": 114,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX FRISCO SOUTH OPEN REGIONAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "394"
+        }
+      ]
+    }
+  ],
+  "name": "Aarohee Vikram",
+  "year_of_birth": null,
+  "gender": "F"
+}

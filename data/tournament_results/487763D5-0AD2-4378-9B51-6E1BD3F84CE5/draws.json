@@ -1,0 +1,110 @@
+[
+  {
+    "draw_id": "2",
+    "name": "BS U11"
+  },
+  {
+    "draw_id": "3",
+    "name": "GS U11"
+  },
+  {
+    "draw_id": "4",
+    "name": "XD U11"
+  },
+  {
+    "draw_id": "5",
+    "name": "BD U11"
+  },
+  {
+    "draw_id": "6",
+    "name": "GD U11"
+  },
+  {
+    "draw_id": "7",
+    "name": "BS U13"
+  },
+  {
+    "draw_id": "8",
+    "name": "GS U13"
+  },
+  {
+    "draw_id": "9",
+    "name": "XD U13"
+  },
+  {
+    "draw_id": "10",
+    "name": "BD U13"
+  },
+  {
+    "draw_id": "1",
+    "name": "GD U13"
+  },
+  {
+    "draw_id": "11",
+    "name": "BS U15"
+  },
+  {
+    "draw_id": "12",
+    "name": "GS U15"
+  },
+  {
+    "draw_id": "13",
+    "name": "XD U15"
+  },
+  {
+    "draw_id": "14",
+    "name": "BD U15"
+  },
+  {
+    "draw_id": "15",
+    "name": "GD U15"
+  },
+  {
+    "draw_id": "16",
+    "name": "BS U17"
+  },
+  {
+    "draw_id": "19",
+    "name": "GS U17 - Position 1-4"
+  },
+  {
+    "draw_id": "20",
+    "name": "GS U17 - Position 5-8"
+  },
+  {
+    "draw_id": "17",
+    "name": "GS U17 - Group A"
+  },
+  {
+    "draw_id": "18",
+    "name": "GS U17 - Group B"
+  },
+  {
+    "draw_id": "37",
+    "name": "XD U17 - Position 1-4"
+  },
+  {
+    "draw_id": "38",
+    "name": "XD U17 - Position 5-8"
+  },
+  {
+    "draw_id": "35",
+    "name": "XD U17 - Group A"
+  },
+  {
+    "draw_id": "36",
+    "name": "XD U17 - Group B"
+  },
+  {
+    "draw_id": "34",
+    "name": "BD U17"
+  },
+  {
+    "draw_id": "26",
+    "name": "GD U17"
+  },
+  {
+    "draw_id": "33",
+    "name": "BS U19"
+  }
+]

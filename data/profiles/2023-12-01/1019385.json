@@ -1,0 +1,33 @@
+{
+  "usab_id": "1019385",
+  "date": "2023-12-01",
+  "categories": [
+    {
+      "category": "XD U17",
+      "ranking_points": 1620,
+      "rank": 208,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1620"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1620,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2023 NORTHEAST MASSBAD OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "1620"
+        }
+      ]
+    }
+  ],
+  "name": "Alisha Xu",
+  "year_of_birth": null,
+  "gender": "F"
+}

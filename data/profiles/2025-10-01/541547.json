@@ -1,0 +1,33 @@
+{
+  "usab_id": "541547",
+  "date": "2025-10-01",
+  "categories": [
+    {
+      "category": "GS U11",
+      "ranking_points": 159,
+      "rank": 79,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "5 to 8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GD U11",
+      "ranking_points": 217,
+      "rank": 75,
+      "tournaments": [
+        {
+          "tournament": "2025 PEAK SPORTS SOUTH OLC",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    }
+  ],
+  "name": "Kiana Winarto",
+  "year_of_birth": null,
+  "gender": "F"
+}

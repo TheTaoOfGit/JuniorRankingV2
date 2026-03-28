@@ -1,0 +1,33 @@
+{
+  "errors": [
+    "FINAL MISMATCH XD U11: match winner IDs={'470330', '446477'}, bracket winner={'name': 'Naksh Shetty', 'usab_id': '446477'}",
+    "FINAL MISMATCH BD U11: match winner IDs={'446477', '530254'}, bracket winner={'name': 'Neel Achari', 'usab_id': '530254'}",
+    "FINAL MISMATCH GD U11: match winner IDs={'479136', '470330'}, bracket winner={'name': 'Prarthana Sanghani', 'usab_id': '470330'}",
+    "FINAL MISMATCH XD U13: match winner IDs={'408717', '440346'}, bracket winner={'name': 'Michael Yufu Sun', 'usab_id': '408717'}",
+    "FINAL MISMATCH BD U13: match winner IDs={'398159', '408717'}, bracket winner={'name': 'Vignan Chandrasekaran', 'usab_id': '398159'}",
+    "FINAL MISMATCH GD U13: match winner IDs={'1023170', '415604'}, bracket winner={'name': 'Krishnavi Kasu', 'usab_id': '1023170'}",
+    "FINAL MISMATCH XD U15: match winner IDs={'1022669', '1023021'}, bracket winner={'name': 'Jacob Zhou', 'usab_id': '1022669'}",
+    "FINAL MISMATCH BD U15: match winner IDs={'1022900', '1021789'}, bracket winner={'name': 'Srineet Atluri', 'usab_id': '1022900'}",
+    "FINAL MISMATCH GD U15: match winner IDs={'403026', '1023021'}, bracket winner={'name': 'Sophia Li', 'usab_id': '403026'}",
+    "FINAL MISMATCH XD U17: match winner IDs={'1020547', '1023209'}, bracket winner={'name': 'Srinivas Raghav Subash', 'usab_id': '1020547'}",
+    "FINAL MISMATCH BD U17: match winner IDs={'1022252', '1019469'}, bracket winner={'name': 'Vincent Chen', 'usab_id': '1019469'}",
+    "FINAL MISMATCH GD U17: match winner IDs={'1021785', '1023209'}, bracket winner={'name': 'Shraddha Prakash', 'usab_id': '1023209'}",
+    "FINAL MISMATCH XD U19: match winner IDs={'1022685', '1022498'}, bracket winner={'name': 'Noah Chien', 'usab_id': '1022498'}",
+    "FINAL MISMATCH BD U19: match winner IDs={'1020917', '1018951'}, bracket winner={'name': 'Suraj Rajesh Kumar', 'usab_id': '1020917'}",
+    "FINAL MISMATCH GD U19: match winner IDs={'1003426', '1018447'}, bracket winner={'name': 'Lydia Chao', 'usab_id': '1003426'}"
+  ],
+  "warnings": [
+    "Match 372 (BS U15 Round of 64): team2 size 0, expected 1",
+    "Match 383 (BS U15 Round of 32): team2 size 0, expected 1",
+    "Match 421 (GS U15 Round of 64): team2 size 0, expected 1",
+    "Match 464 (XD U15 Round of 64): team2 size 1, expected 2",
+    "Match 474 (XD U15 Round of 32): team2 size 1, expected 2",
+    "Match 525 (BD U15 Round of 32): team2 size 1, expected 2",
+    "Match 544 (GD U15 Round of 32): team2 size 1, expected 2",
+    "Match 809 (GS U19 Round of 16): team2 size 0, expected 1",
+    "Match 817 (GS U19 Quarter final): team2 size 0, expected 1",
+    "Match 871 (GD U19 Quarter final): team2 size 1, expected 2",
+    "Match 874 (GD U19 Semi final): team2 size 1, expected 2",
+    "Match 877 (GD U19 3rd/4th place): team2 size 1, expected 2"
+  ]
+}

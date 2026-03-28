@@ -1,0 +1,33 @@
+{
+  "usab_id": "483027",
+  "date": "2025-02-01",
+  "categories": [
+    {
+      "category": "BS U11",
+      "ranking_points": 26,
+      "rank": 109,
+      "tournaments": [
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "33-64",
+          "points": "26"
+        }
+      ]
+    },
+    {
+      "category": "BD U11",
+      "ranking_points": 64,
+      "rank": 99,
+      "tournaments": [
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "64"
+        }
+      ]
+    }
+  ],
+  "name": "Nathan Lo",
+  "year_of_birth": null,
+  "gender": "M"
+}

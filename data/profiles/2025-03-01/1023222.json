@@ -1,0 +1,55 @@
+{
+  "usab_id": "1023222",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "BS U15",
+      "ranking_points": 1166,
+      "rank": 90,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "17-32",
+          "points": "729"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "65-96",
+          "points": "437"
+        }
+      ]
+    },
+    {
+      "category": "BD U15",
+      "ranking_points": 2041,
+      "rank": 89,
+      "tournaments": [
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "13-16",
+          "points": "2041"
+        }
+      ]
+    },
+    {
+      "category": "XD U15",
+      "ranking_points": 2041,
+      "rank": 100,
+      "tournaments": [
+        {
+          "tournament": "2025 YONEX DFW BADMINTON LEWISVILLE SOUTH OPEN REGIONAL CHAMPIONSHIPS & SELECTION EVENT FOR 2025 SHO",
+          "position": "9 to 16",
+          "points": "1166"
+        },
+        {
+          "tournament": "2024 YONEX U.S. Junior National Championships",
+          "position": "33-48",
+          "points": "875"
+        }
+      ]
+    }
+  ],
+  "name": "Arjun Hariharan",
+  "year_of_birth": null,
+  "gender": "M"
+}

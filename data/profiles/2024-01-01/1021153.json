@@ -1,0 +1,45 @@
+{
+  "usab_id": "1021153",
+  "date": "2024-01-01",
+  "categories": [
+    {
+      "category": "XD U19",
+      "ranking_points": 3000,
+      "rank": 141,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    },
+    {
+      "category": "GS U19",
+      "ranking_points": 405,
+      "rank": 110,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 3000,
+      "rank": 85,
+      "tournaments": [
+        {
+          "tournament": "2023 MBC MIDWEST OPEN LOCAL CHAMPIONSHIPS",
+          "position": "1",
+          "points": "3000"
+        }
+      ]
+    }
+  ],
+  "name": "Anvi Harish",
+  "year_of_birth": null,
+  "gender": "F"
+}

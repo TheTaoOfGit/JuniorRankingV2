@@ -1,0 +1,33 @@
+{
+  "usab_id": "1019219",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "GS U19",
+      "ranking_points": 405,
+      "rank": 123,
+      "tournaments": [
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "17-32",
+          "points": "405"
+        }
+      ]
+    },
+    {
+      "category": "GD U19",
+      "ranking_points": 648,
+      "rank": 122,
+      "tournaments": [
+        {
+          "tournament": "2024 AMERICAN BADMINTON CONSORTIUM OPEN LOCAL CHAMPIONSHIPS",
+          "position": "9 to 16",
+          "points": "648"
+        }
+      ]
+    }
+  ],
+  "name": "Sophie Zhang",
+  "year_of_birth": null,
+  "gender": "F"
+}

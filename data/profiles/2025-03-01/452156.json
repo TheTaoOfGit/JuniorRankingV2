@@ -1,0 +1,33 @@
+{
+  "usab_id": "452156",
+  "date": "2025-03-01",
+  "categories": [
+    {
+      "category": "GS U17",
+      "ranking_points": 1013,
+      "rank": 115,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "5 to 8",
+          "points": "1013"
+        }
+      ]
+    },
+    {
+      "category": "GD U17",
+      "ranking_points": 1296,
+      "rank": 143,
+      "tournaments": [
+        {
+          "tournament": "2024 OBA NW OLC",
+          "position": "4",
+          "points": "1296"
+        }
+      ]
+    }
+  ],
+  "name": "Aira Bansal",
+  "year_of_birth": null,
+  "gender": "F"
+}

@@ -1,0 +1,45 @@
+{
+  "usab_id": "447784",
+  "date": "2024-03-01",
+  "categories": [
+    {
+      "category": "XD U13",
+      "ranking_points": 217,
+      "rank": 203,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "3",
+          "points": "217"
+        }
+      ]
+    },
+    {
+      "category": "GS U13",
+      "ranking_points": 159,
+      "rank": 114,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "5-8",
+          "points": "159"
+        }
+      ]
+    },
+    {
+      "category": "GD U13",
+      "ranking_points": 189,
+      "rank": 126,
+      "tournaments": [
+        {
+          "tournament": "2023 SOUTH CLOSED REGIONAL CHAMPIONSHIPS",
+          "position": "9-16",
+          "points": "189"
+        }
+      ]
+    }
+  ],
+  "name": "Mia Ye",
+  "year_of_birth": null,
+  "gender": "XD"
+}
