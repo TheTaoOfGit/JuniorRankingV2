@@ -189,11 +189,13 @@ async function loadMonth() {
 
   // Load official comparison if available
   const key = `${currentDisc}_${currentAG}`;
-  try {
-    const off = await (await fetch(`data/rankings/${currentMonth}_${key}.json`)).json();
-    officialMap = {};
-    off.rankings.forEach(r => officialMap[r.usab_id] = r.ranking_points);
-  } catch { officialMap = {}; }
+  // Load combined official rankings for this month
+  if (!window._officialCache) window._officialCache = {};
+  if (!window._officialCache[currentMonth]) {
+    try {
+      window._officialCache[currentMonth] = await (await fetch(`data/rankings_combined.json`)).json();
+    } catch { window._officialCache[currentMonth] = {}; }
+  }
 
   document.getElementById('loading').style.display = 'none';
   showRanking();
@@ -203,12 +205,12 @@ async function showRanking() {
   const key = `${currentDisc}_${currentAG}`;
   const rankings = currentData[key] || [];
 
-  // Try loading official for this specific combo
-  try {
-    const off = await (await fetch(`data/rankings/${currentMonth}_${key}.json`)).json();
-    officialMap = {};
-    off.rankings.forEach(r => officialMap[r.usab_id] = r.ranking_points);
-  } catch { officialMap = {}; }
+  const offKey = `${currentMonth}_${key}`;
+  const offData = window._officialCache?.[currentMonth]?.[offKey];
+  officialMap = {};
+  if (offData?.rankings) {
+    offData.rankings.forEach(r => officialMap[r.usab_id] = r.ranking_points);
+  }
 
   let yes = 0, no = 0;
   rankings.forEach(r => {

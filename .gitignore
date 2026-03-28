@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 .env
+
+# Original individual data files (replaced by combined versions)
+data/profiles/
+data/rankings/
+data/tournament_results/

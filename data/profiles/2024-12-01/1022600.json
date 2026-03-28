@@ -1,5 +1,0 @@
-{
-  "usab_id": "1022600",
-  "date": "2024-12-01",
-  "error": "Page.goto: net::ERR_INTERNET_DISCONNECTED at https://usabjrrankings.org/1022600/details?age_group=U11&category=BS&date=2024-12-01\nCall log:\n  - navigating to \"https://usabjrrankings.org/1022600/details?age_group=U11&category=BS&date=2024-12-01\", waiting until \"networkidle\"\n"
-}

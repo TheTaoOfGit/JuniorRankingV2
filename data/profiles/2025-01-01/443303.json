@@ -1,5 +1,0 @@
-{
-  "usab_id": "443303",
-  "date": "2025-01-01",
-  "error": "Page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://usabjrrankings.org/443303/details?age_group=U11&category=BS&date=2025-01-01\nCall log:\n  - navigating to \"https://usabjrrankings.org/443303/details?age_group=U11&category=BS&date=2025-01-01\", waiting until \"networkidle\"\n"
-}

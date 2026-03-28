@@ -77,7 +77,8 @@ async function loadJSON(path) {
 
 async function init() {
   // Load profile
-  const profile = await loadJSON(`${DATA}/profiles/2026-03-01/${USAB_ID}.json`);
+  const allProfiles = await loadJSON(`${DATA}/profiles_combined/2026-03-01.json`);
+  const profile = allProfiles?.[USAB_ID];
   const birthYears = await loadJSON(`${DATA}/inferred_birth_years.json`);
   const by = birthYears?.[USAB_ID];
 
@@ -113,7 +114,7 @@ async function init() {
   for (const d of uniqueDirs) tidDates[d.tid] = d.scheduleDates;
 
   for (const dir of uniqueDirs) {
-    const t = await loadJSON(`${DATA}/tournament_results/${dir.tid}/tournament.json`);
+    const t = await loadJSON(`${DATA}/tournaments_combined/${dir.tid}.json`);
     if (!t) continue;
 
     const playerMatches = t.matches.filter(m =>
@@ -219,7 +220,8 @@ async function init() {
   const allCats = new Set();
   const progData = [];
   for (const date of DATES) {
-    const p = await loadJSON(`${DATA}/profiles/${date}/${USAB_ID}.json`);
+    const dateProfiles = await loadJSON(`${DATA}/profiles_combined/${date}.json`);
+    const p = dateProfiles?.[USAB_ID];
     if (p?.categories?.length) {
       const row = { date };
       for (const c of p.categories) { row[c.category] = c; allCats.add(c.category); }
