@@ -54,6 +54,7 @@ tr:hover td { background: #f0f7ff; }
 
 <div class="container">
   <div class="stats-row" id="stats-row"></div>
+  <div id="profile-summary" class="section" style="display:none;"></div>
   <div id="rankings-section"></div>
   <div id="progression-section"></div>
   <div id="tournaments-section"></div>
@@ -199,6 +200,9 @@ async function init() {
     <div class="stat"><div class="num">${profile.categories?.length || 0}</div><div class="label">Current Events</div></div>
   `;
 
+  // Generate profile summary
+  document.getElementById('profile-summary').innerHTML = generateSummary(profile, by, allTournaments, USAB_ID, nameVariations);
+
   // Current rankings
   if (profile.categories?.length) {
     let html = '<div class="section"><div class="section-header">Current Rankings (Mar 2026)</div><div class="section-body">';
@@ -332,6 +336,96 @@ async function init() {
 
   document.getElementById('tournaments-section').innerHTML = tHtml;
   document.getElementById('loading').style.display = 'none';
+}
+
+function generateSummary(profile, by, allTournaments, usabId, nameVariations) {
+  if (!profile || !allTournaments.length) return '';
+
+  const name = profile.name || [...nameVariations][0] || 'This player';
+  const firstName = name.split(' ')[0];
+  const gender = profile.gender === 'F' ? 'she' : 'he';
+  const Gender = profile.gender === 'F' ? 'She' : 'He';
+  const possessive = profile.gender === 'F' ? 'her' : 'his';
+  const yob = by?.yob_inferred;
+
+  // Compute stats
+  let totalW = 0, totalL = 0;
+  const partners = {}, finalsWon = [], finalsLost = [];
+
+  for (const t of allTournaments) {
+    totalW += t.wins; totalL += t.losses;
+    for (const m of t.playerMatches) {
+      const onT1 = m.team1?.some(p => p.usab_id === usabId);
+      const won = (onT1 && m.winner === 1) || (!onT1 && m.winner === 2);
+      const myTeam = onT1 ? m.team1 : m.team2;
+      for (const p of (myTeam || [])) {
+        if (p.usab_id !== usabId && p.name) partners[p.name] = (partners[p.name] || 0) + 1;
+      }
+      if (m.round === 'Final') {
+        const entry = { event: m.event, tournament: t.name.replace(/^20\d{2}\s+/, '').replace(/YONEX\s+/i, '').substring(0, 40) };
+        if (won) finalsWon.push(entry); else finalsLost.push(entry);
+      }
+    }
+  }
+
+  const totalM = totalW + totalL;
+  const winPct = totalM ? Math.round(100 * totalW / totalM) : 0;
+
+  // Current rankings
+  const cats = (profile.categories || []).sort((a, b) => a.rank - b.rank);
+  const bestCat = cats[0];
+
+  // Top partners
+  const topPartners = Object.entries(partners).sort((a, b) => b[1] - a[1]).slice(0, 3);
+
+  // Build paragraphs
+  let paras = [];
+
+  // Para 1: Introduction
+  let intro = `<strong>${name}</strong>`;
+  if (yob) intro += ` (born ~${yob})`;
+  intro += ` is a competitive junior badminton player from the United States`;
+  if (cats.length > 0) {
+    const rankStrs = cats.map(c => `<strong>#${c.rank} in ${c.category}</strong>`);
+    intro += `, currently ranked ${rankStrs.join(', ')}`;
+  }
+  intro += `. ${Gender} has competed in <strong>${allTournaments.length} tournaments</strong> with an overall record of <strong>${totalW}-${totalL} (${winPct}%)</strong>.`;
+  paras.push(intro);
+
+  // Para 2: Career trajectory
+  if (allTournaments.length > 3) {
+    const oldest = allTournaments[allTournaments.length - 1];
+    const newest = allTournaments[0];
+    let traj = `${firstName} first appeared in USAB junior rankings competing at ${oldest.name.replace(/^20\d{2}\s+/, '').replace(/YONEX\s+/i, '').substring(0, 45)}`;
+    if (finalsWon.length > 0) {
+      const titles = finalsWon.slice(0, 3).map(f => `${f.event} at ${f.tournament}`);
+      traj += `. ${Gender} has won <strong>${finalsWon.length} title${finalsWon.length > 1 ? 's' : ''}</strong>, including ${titles.join('; ')}`;
+      if (finalsWon.length > 3) traj += ` and ${finalsWon.length - 3} more`;
+    }
+    if (finalsLost.length > 0) {
+      traj += `, and reached <strong>${finalsLost.length} additional final${finalsLost.length > 1 ? 's' : ''}</strong>`;
+    }
+    traj += '.';
+    paras.push(traj);
+  }
+
+  // Para 3: Doubles partnerships
+  if (topPartners.length > 0) {
+    const partnerStrs = topPartners.map(([n, c]) => `<strong>${n}</strong> (${c} matches)`);
+    let dblPara = `In doubles, ${firstName}'s most frequent partner${topPartners.length > 1 ? 's are' : ' is'} ${partnerStrs.join(', ')}. `;
+
+    // Best doubles ranking
+    const dblCats = cats.filter(c => c.category.startsWith('BD') || c.category.startsWith('GD') || c.category.startsWith('XD'));
+    if (dblCats.length > 0) {
+      const best = dblCats[0];
+      dblPara += `${Gender} is ranked <strong>#${best.rank} in ${best.category}</strong> with ${best.ranking_points.toLocaleString()} points.`;
+    }
+    paras.push(dblPara);
+  }
+
+  const el = document.getElementById('profile-summary');
+  el.style.display = 'block';
+  return `<div class="section-header">Player Profile</div><div class="section-body" style="line-height:1.7;font-size:13px;color:#444;">${paras.map(p => `<p style="margin-bottom:10px;">${p}</p>`).join('')}</div>`;
 }
 
 init();
