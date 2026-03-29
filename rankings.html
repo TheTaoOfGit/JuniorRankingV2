@@ -103,7 +103,7 @@ let currentMonth = '';
 let currentAG = 'U13';
 let currentDisc = 'GS';
 
-const AGE_GROUPS = ['U11','U13','U15','U17','U19'];
+const AGE_GROUPS = ['U11','U13','U15','U17','U19','Alumni'];
 const DISCIPLINES = [
   {id:'BS', label:'Boys S'}, {id:'GS', label:'Girls S'},
   {id:'BD', label:'Boys D'}, {id:'GD', label:'Girls D'},
@@ -202,6 +202,10 @@ async function loadMonth() {
 }
 
 async function showRanking() {
+  if (currentAG === 'Alumni') {
+    showAlumni();
+    return;
+  }
   const key = `${currentDisc}_${currentAG}`;
   const rankings = currentData[key] || [];
 
@@ -230,6 +234,36 @@ async function showRanking() {
   `;
 
   renderTable(rankings);
+}
+
+function showAlumni() {
+  const alumni = currentData['alumni'] || [];
+  const q = document.getElementById('search').value.toLowerCase();
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="n">Alumni</div><div class="l">${currentMonth}</div></div>
+    <div class="stat"><div class="n">${alumni.length}</div><div class="l">Players</div></div>
+  `;
+
+  const tbody = document.getElementById('tbody');
+  if (!alumni.length) {
+    tbody.innerHTML = '<tr><td colspan="5" class="no-data">No alumni data for this period</td></tr>';
+    return;
+  }
+
+  let html = '';
+  alumni.forEach((r, i) => {
+    if (q && !r.name.toLowerCase().includes(q) && !r.usab_id.includes(q)) return;
+    html += `<tr class="data-row">
+      <td class="rank-cell" style="color:#aaa">${i + 1}</td>
+      <td class="name-cell"><a href="player.html?id=${r.usab_id}">${r.name}</a><span class="born">~${r.yob || '?'}</span></td>
+      <td class="pts-cell" style="color:#aaa">-</td>
+      <td class="match-cell"></td>
+      <td class="tournaments-cell" style="color:#999">Over U19 — view profile for details</td>
+    </tr>`;
+  });
+
+  tbody.innerHTML = html || '<tr><td colspan="5" class="no-data">No players found</td></tr>';
 }
 
 function shortName(name) {
@@ -285,6 +319,7 @@ function renderTable(rankings) {
 }
 
 function filterTable() {
+  if (currentAG === 'Alumni') { showAlumni(); return; }
   const key = `${currentDisc}_${currentAG}`;
   renderTable(currentData[key] || []);
 }

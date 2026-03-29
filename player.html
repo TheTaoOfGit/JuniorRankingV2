@@ -83,7 +83,10 @@ async function init() {
   const birthYears = await loadJSON(`${DATA}/inferred_birth_years.json`);
   const by = birthYears?.[USAB_ID];
 
-  if (!profile) {
+  // If player not in latest profiles, try older ones or build minimal profile from birth year data
+  const effectiveProfile = profile || (by ? { name: by.name, categories: [], ranking_points: {} } : null);
+
+  if (!effectiveProfile) {
     document.getElementById('loading').textContent = 'Player not found.';
     return;
   }
@@ -93,7 +96,7 @@ async function init() {
   const allTournaments = [];
   let totalWins = 0, totalLosses = 0, totalMatches = 0;
   const nameVariations = new Set();
-  if (profile.name) nameVariations.add(profile.name);
+  if (effectiveProfile.name) nameVariations.add(effectiveProfile.name);
 
   // Scan all tournament result dirs
   const resultDirs = [];
@@ -182,7 +185,7 @@ async function init() {
   }
 
   // Set header with all name variations
-  const primaryName = profile.name || [...nameVariations][0] || 'Unknown';
+  const primaryName = effectiveProfile.name || [...nameVariations][0] || 'Unknown';
   const aka = [...nameVariations].filter(n => n !== primaryName);
   document.title = `${primaryName} - Player Profile`;
   document.getElementById('player-name').textContent = primaryName;
@@ -197,7 +200,7 @@ async function init() {
     <div class="stat"><div class="num win">${totalWins}</div><div class="label">Wins</div></div>
     <div class="stat"><div class="num loss">${totalLosses}</div><div class="label">Losses</div></div>
     <div class="stat"><div class="num">${totalMatches ? (totalWins * 100 / totalMatches).toFixed(0) : 0}%</div><div class="label">Win Rate</div></div>
-    <div class="stat"><div class="num">${profile.categories?.length || 0}</div><div class="label">Current Events</div></div>
+    <div class="stat"><div class="num">${effectiveProfile.categories?.length || 0}</div><div class="label">Current Events</div></div>
   `;
 
   // Load player summary (AI-generated or template fallback)
@@ -219,7 +222,7 @@ async function init() {
   const toggleBtn = roastText ? ' <button onclick="toggleRoast()" id="roast-btn" style="font-size:11px;padding:3px 10px;border:1px solid #dc3545;background:white;color:#dc3545;border-radius:4px;cursor:pointer;margin-left:8px;">Roast Mode</button>' : '';
 
   el.innerHTML = `<div class="section-header">Player Profile${toggleBtn}</div>
-    <div id="profile-normal" class="section-body" style="line-height:1.7;font-size:13px;color:#444;">${profileHtml || generateSummary(profile, by, allTournaments, USAB_ID, nameVariations)}</div>
+    <div id="profile-normal" class="section-body" style="line-height:1.7;font-size:13px;color:#444;">${profileHtml || generateSummary(effectiveProfile, by, allTournaments, USAB_ID, nameVariations)}</div>
     ${roastText ? '<div id="profile-roast" class="section-body" style="display:none;line-height:1.7;font-size:13px;color:#444;">' + roastText + '</div>' : ''}`;
 
   window.toggleRoast = function() {
@@ -242,10 +245,10 @@ async function init() {
   };
 
   // Current rankings
-  if (profile.categories?.length) {
+  if (effectiveProfile.categories?.length) {
     let html = '<div class="section"><div class="section-header">Current Rankings (Mar 2026)</div><div class="section-body">';
     html += '<table><tr><th>Event</th><th>Rank</th><th>Points</th><th>Tournaments</th></tr>';
-    for (const cat of profile.categories.sort((a,b) => a.category.localeCompare(b.category))) {
+    for (const cat of effectiveProfile.categories.sort((a,b) => a.category.localeCompare(b.category))) {
       const tournList = (cat.tournaments || []).map(t =>
         `<div style="font-size:11px;color:#666;">${t.position} - ${t.tournament.substring(0,50)} (${t.points}pts)</div>`
       ).join('');
