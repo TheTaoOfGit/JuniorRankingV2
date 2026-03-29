@@ -429,9 +429,15 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
     print(f"Checking events: {event_names_all}")
 
     player_results = defaultdict(list)  # usab_id -> [(tournament_name, type, position, points)]
+    player_names = {}  # usab_id -> name (from match data, fallback for Unknown)
 
     for et in eligible_tournaments:
         t = json.loads(et["path"].read_text(encoding="utf-8"))
+
+        # Collect player names from tournament player list
+        for uid, pinfo in t.get("players", {}).items():
+            if pinfo.get("name") and uid not in player_names:
+                player_names[uid] = pinfo["name"]
 
         player_best_at_tournament = {}  # usab_id -> best (position, points, event)
 
@@ -448,6 +454,8 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
                     uid = p.get("usab_id")
                     if uid:
                         player_matches[uid].append(m)
+                        if p.get("name") and uid not in player_names:
+                            player_names[uid] = p["name"]
 
             for uid, pmatches in player_matches.items():
                 if not is_age_eligible(uid):
@@ -499,10 +507,11 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
 
     rankings.sort(key=lambda x: -x["total_points"])
 
-    # Add names
+    # Add names (prefer birth_years, fall back to tournament match data)
     for r in rankings:
         by = birth_years.get(r["usab_id"], {})
-        r["name"] = by.get("name", "Unknown")
+        name = by.get("name") or player_names.get(r["usab_id"]) or "Unknown"
+        r["name"] = name
         r["yob"] = by.get("yob_inferred")
 
     return rankings
