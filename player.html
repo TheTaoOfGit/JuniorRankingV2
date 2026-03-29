@@ -201,16 +201,45 @@ async function init() {
   `;
 
   // Load player summary (AI-generated or template fallback)
+  // Load profile summary and roast
   let summaryText = null;
+  let roastText = null;
   try { const r = await fetch(`${DATA}/player_summaries/${USAB_ID}.txt`); if (r.ok) summaryText = await r.text(); } catch {}
+  try { const r = await fetch(`${DATA}/player_summaries/${USAB_ID}_roast.txt`); if (r.ok) roastText = await r.text(); } catch {}
+
+  const el = document.getElementById('profile-summary');
+  el.style.display = 'block';
+
+  let profileHtml = '';
   if (summaryText) {
-    const el = document.getElementById('profile-summary');
-    el.style.display = 'block';
     const paras = summaryText.split('\n\n').filter(p => p.trim());
-    el.innerHTML = `<div class="section-header">Player Profile</div><div class="section-body" style="line-height:1.7;font-size:13px;color:#444;">${paras.map(p => '<p style="margin-bottom:10px;">' + p.trim() + '</p>').join('')}</div>`;
-  } else {
-    document.getElementById('profile-summary').innerHTML = generateSummary(profile, by, allTournaments, USAB_ID, nameVariations);
+    profileHtml = paras.map(p => '<p style="margin-bottom:10px;">' + p.trim() + '</p>').join('');
   }
+
+  const toggleBtn = roastText ? ' <button onclick="toggleRoast()" id="roast-btn" style="font-size:11px;padding:3px 10px;border:1px solid #dc3545;background:white;color:#dc3545;border-radius:4px;cursor:pointer;margin-left:8px;">Roast Mode</button>' : '';
+
+  el.innerHTML = `<div class="section-header">Player Profile${toggleBtn}</div>
+    <div id="profile-normal" class="section-body" style="line-height:1.7;font-size:13px;color:#444;">${profileHtml || generateSummary(profile, by, allTournaments, USAB_ID, nameVariations)}</div>
+    ${roastText ? '<div id="profile-roast" class="section-body" style="display:none;line-height:1.7;font-size:13px;color:#444;">' + roastText + '</div>' : ''}`;
+
+  window.toggleRoast = function() {
+    const normal = document.getElementById('profile-normal');
+    const roast = document.getElementById('profile-roast');
+    const btn = document.getElementById('roast-btn');
+    if (roast.style.display === 'none') {
+      normal.style.display = 'none';
+      roast.style.display = 'block';
+      btn.style.background = '#dc3545';
+      btn.style.color = 'white';
+      btn.textContent = 'Normal Mode';
+    } else {
+      normal.style.display = 'block';
+      roast.style.display = 'none';
+      btn.style.background = 'white';
+      btn.style.color = '#dc3545';
+      btn.textContent = 'Roast Mode';
+    }
+  };
 
   // Current rankings
   if (profile.categories?.length) {
