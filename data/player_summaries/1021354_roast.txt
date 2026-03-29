@@ -1,6 +1,5 @@
 <!-- llm-roast -->
-<p>Welcome to Chez Liang, a bustling doubles bistro with a surprisingly versatile singles menu. Benson Liang, born 2009, has cooked up 27 tournaments and a 115-80 career record (58%), which is the culinary equivalent of a restaurant that stays open but rarely earns a Michelin star. Eight titles across BD, BS, and XD say the kitchen can produce hits, but six runner-up finishes suggest the souffl&eacute; keeps falling at the worst possible moment.</p>
-
-<p>The specials board is impressive: BS U17 champion at 2024 Midwest OLC, BD U19 winner at 2025 Egret Midwest OLC, and a nice XD U15 title at 2023 MassBad NE OLC. The progression from BS U15 #55 in late 2023 to BS U19 #69 and BD U19 #71 by March 2026 shows a chef who keeps refining recipes. But the recent tournament results read like a Yelp page with mixed reviews -- 7W-6L here, 4W-3L there, and a painful 3W-3L at Northwest ORC.</p>
-
-<p>The doubles partnerships rotate like a lazy Susan: Selina Lei, Matthew Ponta, Micah Wei, Zoey Tian, and Brendan Chen all clock in at 9-10 matches each. Jack of all partners, master of none? Perhaps. But with 8 titles across three disciplines before turning 17, Benson is clearly a restaurant worth revisiting -- just maybe skip the prix fixe and order &agrave; la carte.</p>
+<p><b>BENSON LIANG: 8-4 IN FINALS. THE MIDWEST KING WITH NO NATIONAL PRESENCE.</b></p>
+<p>Eight titles, four runner-ups. 58% career, 55% three-gamers. Solid. But titles are almost all Midwest OLC, Midwest CRC, MBC CRC, Egret events. Undisputed champion of the Midwest B-circuit.</p>
+<p>BD #71, BS #69: despite eight titles, the national picture is not kind. 4-6 at 2022 Nationals, 7-6 at 2023. At national events: .500 player.</p>
+<p>Big fish in the small Midwest pond. Gets eaten when he swims to the ocean.</p>

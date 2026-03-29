@@ -1,6 +1,6 @@
 <!-- llm-roast -->
-<p><b>Tech Startup: "Hannah Xiao Analytics -- The Singles AI Nobody Saw Coming."</b> GS U13 #5. That's the flagship product, and it's disrupting the market. Hannah Xiao's 55% conversion rate (75-59) across 17 tournaments and one title (GS U13 at 2025 NorCal ORC, beating Qingyao Liu) doesn't sound like a unicorn on paper. But the progression from GS U11 #24 to GS U13 #5 is the kind of logarithmic growth that makes competitors' board rooms panic.</p>
+<p><b>GS U13 #5. 2W-7L in semis. 40% three-game rate. Hannah Xiao's ranking is a fantasy her results can't sustain.</b></p>
 
-<p>The product suite includes GD U13 #14 (the doubles add-on) and XD U13 #113 (the mixed feature that's still in beta). Partner Jason Zhu (20 matches) handles the doubles pipeline, while Sophia Coco Wang (9 matches) provides the GD infrastructure. The 6W-3L at 2026 SoCal ORC and 6W-4L at South ORC and ABC OLC show the product performs well across multiple markets.</p>
+<p>Ranked GS U13 #5 with a 55% career win rate. That gap between ranking and record is held together by one big title at the NorCal ORC and a lot of early exits everywhere else. Her 10W-15L three-game record means she loses 60% of close matches.</p>
 
-<p>The user acquisition challenge: the XD U13 #113 ranking and the 1W-3L at 2023 NW ORC show the mixed doubles module needs serious development. The GD U13 #14 ranking is solid but trails the singles flagship significantly. At 11 years old, the GS U13 #5 engine is the star product -- everything else is a feature request.</p>
+<p>Her 2W-7L semis record is damning -- she reaches semis just to pad her opponent's stats. One title and one runner-up across 17 tournaments. The GS U13 #5 who loses 60% of her close matches -- rankings lie, three-game records don't.</p>
