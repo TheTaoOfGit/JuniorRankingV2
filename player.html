@@ -293,8 +293,20 @@ async function init() {
           const partner = myTeam?.filter(p => p.usab_id !== USAB_ID).map(p => p.name).join(', ');
           const opponent = oppTeam?.map(p => p.name).join(' + ') || 'Bye';
           const scores = m.scores?.map(s => {
-            const my = onT1 ? s[0] : s[1];
-            const opp = onT1 ? s[1] : s[0];
+            // Determine correct orientation: winner's score should be higher in won games
+            // If match winner is known, use that to orient scores
+            let s0 = s[0], s1 = s[1];
+            const winnerIsT1 = m.winner === 1;
+            const winnerIsT2 = m.winner === 2;
+            // Check if scores need flipping: in a won game, winner should have higher score
+            // Count games each side won based on raw scores
+            const t1GamesRaw = m.scores.filter(g => g[0] > g[1]).length;
+            const t2GamesRaw = m.scores.filter(g => g[1] > g[0]).length;
+            // If winner is T2 but T1 appears to win more games in raw scores, scores are flipped
+            const needsFlip = (winnerIsT2 && t1GamesRaw > t2GamesRaw) || (winnerIsT1 && t2GamesRaw > t1GamesRaw);
+            if (needsFlip) { s0 = s[1]; s1 = s[0]; }
+            const my = onT1 ? s0 : s1;
+            const opp = onT1 ? s1 : s0;
             return `<span style="color:${my > opp ? '#28a745' : '#dc3545'}">${my}-${opp}</span>`;
           }).join(', ') || '';
           const partnerStr = partner ? ` <span style="color:#888;font-size:11px;">(w/ ${partner})</span>` : '';
