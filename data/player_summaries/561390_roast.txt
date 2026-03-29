@@ -1,0 +1,4 @@
+<!-- llm-roast -->
+<p><b>Krishav Bhatt</b> is the tech product that launched, crashed, and is now awaiting a patch. Zero wins in 5 matches across 2 tournaments -- the kind of user retention metrics that make product managers lose sleep. Ranked #69 in BD U11 and #72 in BS, his listing on the app store exists but the reviews are still at zero stars. Capital NE (0-2) and Wayside NE (0-3) were both critical failures on launch day.</p>
+
+<p>His co-developer Abhiram Prattigodupu (2 matches) has been the most consistent collaborator, with Leo Li joining for one build. At age 8, the product is still in beta. The 0-5 record is a rough debugging log, but every successful app had a version 0.1 that nobody wanted to use. The update is coming.</p>

@@ -1,0 +1,6 @@
+<!-- llm-roast -->
+<p><b>Tech Startup: "Hannah Xiao Analytics -- The Singles AI Nobody Saw Coming."</b> GS U13 #5. That's the flagship product, and it's disrupting the market. Hannah Xiao's 55% conversion rate (75-59) across 17 tournaments and one title (GS U13 at 2025 NorCal ORC, beating Qingyao Liu) doesn't sound like a unicorn on paper. But the progression from GS U11 #24 to GS U13 #5 is the kind of logarithmic growth that makes competitors' board rooms panic.</p>
+
+<p>The product suite includes GD U13 #14 (the doubles add-on) and XD U13 #113 (the mixed feature that's still in beta). Partner Jason Zhu (20 matches) handles the doubles pipeline, while Sophia Coco Wang (9 matches) provides the GD infrastructure. The 6W-3L at 2026 SoCal ORC and 6W-4L at South ORC and ABC OLC show the product performs well across multiple markets.</p>
+
+<p>The user acquisition challenge: the XD U13 #113 ranking and the 1W-3L at 2023 NW ORC show the mixed doubles module needs serious development. The GD U13 #14 ranking is solid but trails the singles flagship significantly. At 11 years old, the GS U13 #5 engine is the star product -- everything else is a feature request.</p>

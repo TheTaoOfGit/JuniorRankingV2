@@ -187,7 +187,7 @@ async function init() {
   document.title = `${primaryName} - Player Profile`;
   document.getElementById('player-name').textContent = primaryName;
   document.getElementById('player-meta').innerHTML =
-    `USAB# ${USAB_ID} &nbsp;|&nbsp; ${profile.gender === 'F' ? 'Female' : 'Male'} &nbsp;|&nbsp; Born ~${by?.yob_inferred || '?'} (${by?.confidence || ''})` +
+    `USAB# ${USAB_ID} &nbsp;|&nbsp; Born ~${by?.yob_inferred || '?'} (${by?.confidence || ''})` +
     (aka.length ? ` &nbsp;|&nbsp; Also known as: ${aka.join(', ')}` : '');
 
   // Stats row
