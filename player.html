@@ -65,7 +65,7 @@ tr:hover td { background: #f0f7ff; }
 <script>
 const USAB_ID = new URLSearchParams(window.location.search).get('id') || '440346';
 const DATA = 'data';
-const DATES = [
+let DATES = [
   "2026-03-01","2026-02-01","2026-01-01","2025-12-01","2025-10-31","2025-10-01",
   "2025-08-01","2025-06-01","2025-05-01","2025-04-01","2025-03-01","2025-02-01","2025-01-01",
   "2024-12-01","2024-11-01","2024-09-02","2024-08-01","2024-05-01","2024-04-01",
@@ -76,9 +76,33 @@ async function loadJSON(path) {
   try { const r = await fetch(path); return r.ok ? r.json() : null; } catch { return null; }
 }
 
+function playerLink(p) {
+  if (!p) return '';
+  if (p.usab_id) return `<a href="player.html?id=${p.usab_id}" style="color:#0066cc;text-decoration:none;">${p.name}</a>`;
+  return p.name || '';
+}
+
 async function init() {
+  // Load manifest to get latest date and update DATES
+  const manifest = await loadJSON(`${DATA}/calculated_rankings_monthly/manifest.json`);
+  if (manifest?.dates?.length) {
+    DATES = [...manifest.dates].reverse();
+  }
+  const latestDate = DATES[0];
+
+  // Load latest rankings data for current rankings section
+  const latestRankings = await loadJSON(`${DATA}/calculated_rankings_monthly/${latestDate}.json`);
+
   // Load profile
-  const allProfiles = await loadJSON(`${DATA}/profiles_combined/2026-03-01.json`);
+  const latestProfileDate = DATES.find(d => true); // start with latest
+  let allProfiles = await loadJSON(`${DATA}/profiles_combined/${latestDate}.json`);
+  if (!allProfiles) {
+    // Fall back to most recent available profiles_combined
+    for (const d of DATES) {
+      allProfiles = await loadJSON(`${DATA}/profiles_combined/${d}.json`);
+      if (allProfiles) break;
+    }
+  }
   const profile = allProfiles?.[USAB_ID];
   const birthYears = await loadJSON(`${DATA}/inferred_birth_years.json`);
   const by = birthYears?.[USAB_ID];
@@ -244,16 +268,29 @@ async function init() {
     }
   };
 
-  // Current rankings
-  if (effectiveProfile.categories?.length) {
-    let html = '<div class="section"><div class="section-header">Current Rankings (Mar 2026)</div><div class="section-body">';
+  // Current rankings - build from latest calculated rankings
+  const currentRankings = [];
+  if (latestRankings) {
+    for (const [key, players] of Object.entries(latestRankings)) {
+      if (key === 'alumni') continue;
+      const found = players.find(p => p.usab_id === USAB_ID);
+      if (found) currentRankings.push({ category: key.replace('_', ' '), ...found });
+    }
+  }
+  // Fall back to profile categories if no calculated rankings found
+  const rankingSource = currentRankings.length ? currentRankings : (effectiveProfile.categories || []);
+  const dateLabel = new Date(latestDate + 'T00:00:00').toLocaleDateString('en-US', { year: 'numeric', month: 'short' });
+
+  if (rankingSource.length) {
+    let html = `<div class="section"><div class="section-header">Current Rankings (${dateLabel})</div><div class="section-body">`;
     html += '<table><tr><th>Event</th><th>Rank</th><th>Points</th><th>Tournaments</th></tr>';
-    for (const cat of effectiveProfile.categories.sort((a,b) => a.category.localeCompare(b.category))) {
-      const tournList = (cat.tournaments || []).map(t =>
-        `<div style="font-size:11px;color:#666;">${t.position} - ${t.tournament.substring(0,50)} (${t.points}pts)</div>`
+    for (const cat of rankingSource.sort((a,b) => (a.category || '').localeCompare(b.category || ''))) {
+      const topResults = cat.top_results || cat.tournaments || [];
+      const tournList = topResults.map(t =>
+        `<div style="font-size:11px;color:#666;">${t.position_display || t.position} - ${(t.tournament || '').substring(0,50)} (${t.points}pts)</div>`
       ).join('');
       html += `<tr><td><strong>${cat.category}</strong></td><td style="font-size:18px;font-weight:700;color:#1a3a5c;">#${cat.rank}</td>
-        <td>${cat.ranking_points.toLocaleString()}</td><td>${tournList}</td></tr>`;
+        <td>${(cat.total_points || cat.ranking_points || 0).toLocaleString()}</td><td>${tournList}</td></tr>`;
     }
     html += '</table></div></div>';
     document.getElementById('rankings-section').innerHTML = html;
@@ -335,8 +372,8 @@ async function init() {
           const won = (onT1 && m.winner === 1) || (!onT1 && m.winner === 2);
           const myTeam = onT1 ? m.team1 : m.team2;
           const oppTeam = onT1 ? m.team2 : m.team1;
-          const partner = myTeam?.filter(p => p.usab_id !== USAB_ID).map(p => p.name).join(', ');
-          const opponent = oppTeam?.map(p => p.name).join(' + ') || 'Bye';
+          const partner = myTeam?.filter(p => p.usab_id !== USAB_ID).map(p => playerLink(p)).join(', ');
+          const opponent = oppTeam?.map(p => playerLink(p)).join(' + ') || 'Bye';
           const scores = m.scores?.map(s => {
             // Determine correct orientation: winner's score should be higher in won games
             // If match winner is known, use that to orient scores
@@ -400,7 +437,10 @@ function generateSummary(profile, by, allTournaments, usabId, nameVariations) {
       const won = (onT1 && m.winner === 1) || (!onT1 && m.winner === 2);
       const myTeam = onT1 ? m.team1 : m.team2;
       for (const p of (myTeam || [])) {
-        if (p.usab_id !== usabId && p.name) partners[p.name] = (partners[p.name] || 0) + 1;
+        if (p.usab_id !== usabId && p.name) {
+          if (!partners[p.name]) partners[p.name] = { count: 0, usab_id: p.usab_id };
+          partners[p.name].count++;
+        }
       }
       if (m.round === 'Final') {
         const entry = { event: m.event, tournament: t.name.replace(/^20\d{2}\s+/, '').replace(/YONEX\s+/i, '').substring(0, 40) };
@@ -417,7 +457,7 @@ function generateSummary(profile, by, allTournaments, usabId, nameVariations) {
   const bestCat = cats[0];
 
   // Top partners
-  const topPartners = Object.entries(partners).sort((a, b) => b[1] - a[1]).slice(0, 3);
+  const topPartners = Object.entries(partners).sort((a, b) => b[1].count - a[1].count).slice(0, 3);
 
   // Build paragraphs
   let paras = [];
@@ -452,7 +492,10 @@ function generateSummary(profile, by, allTournaments, usabId, nameVariations) {
 
   // Para 3: Doubles partnerships
   if (topPartners.length > 0) {
-    const partnerStrs = topPartners.map(([n, c]) => `<strong>${n}</strong> (${c} matches)`);
+    const partnerStrs = topPartners.map(([n, info]) => {
+      const link = info.usab_id ? `<a href="player.html?id=${info.usab_id}" style="color:#0066cc;text-decoration:none;"><strong>${n}</strong></a>` : `<strong>${n}</strong>`;
+      return `${link} (${info.count} matches)`;
+    });
     let dblPara = `In doubles, ${firstName}'s most frequent partner${topPartners.length > 1 ? 's are' : ' is'} ${partnerStrs.join(', ')}. `;
 
     // Best doubles ranking
