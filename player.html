@@ -200,8 +200,17 @@ async function init() {
     <div class="stat"><div class="num">${profile.categories?.length || 0}</div><div class="label">Current Events</div></div>
   `;
 
-  // Generate profile summary
-  document.getElementById('profile-summary').innerHTML = generateSummary(profile, by, allTournaments, USAB_ID, nameVariations);
+  // Load player summary (AI-generated or template fallback)
+  let summaryText = null;
+  try { const r = await fetch(`${DATA}/player_summaries/${USAB_ID}.txt`); if (r.ok) summaryText = await r.text(); } catch {}
+  if (summaryText) {
+    const el = document.getElementById('profile-summary');
+    el.style.display = 'block';
+    const paras = summaryText.split('\n\n').filter(p => p.trim());
+    el.innerHTML = `<div class="section-header">Player Profile</div><div class="section-body" style="line-height:1.7;font-size:13px;color:#444;">${paras.map(p => '<p style="margin-bottom:10px;">' + p.trim() + '</p>').join('')}</div>`;
+  } else {
+    document.getElementById('profile-summary').innerHTML = generateSummary(profile, by, allTournaments, USAB_ID, nameVariations);
+  }
 
   // Current rankings
   if (profile.categories?.length) {
