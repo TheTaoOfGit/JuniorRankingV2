@@ -157,6 +157,12 @@ def parse_player_page_text(text, html, name_to_usab, ts_to_usab):
             t1, t2 = player_lines[:ts], player_lines[ts:]
             winner = 1 if is_walkover else None
 
+        # For retirements with scores, determine winner from scores (the retiring player lost)
+        if is_walkover and winner is None and game_scores:
+            tw1 = sum(1 for s in game_scores if s[0] > s[1])
+            tw2 = sum(1 for s in game_scores if s[1] > s[0])
+            winner = 1 if tw1 > tw2 else 2 if tw2 > tw1 else 1
+
         if is_walkover and winner is None:
             winner = 1
 
