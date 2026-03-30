@@ -205,6 +205,141 @@ def parse_player_page_text(text, html, name_to_usab, ts_to_usab):
     return usab_id, pname, events, matches
 
 
+async def scrape_draw_matches(page, tid, draw_id, draw_name, ts_to_usab):
+    """Scrape matches from a draw page. Returns (draw_name, matches_list)."""
+    url = f"{BASE}/sport/draw.aspx?id={tid}&draw={draw_id}"
+    await page.goto(url, wait_until="networkidle", timeout=30000)
+
+    for _ in range(3):
+        await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await asyncio.sleep(1)
+
+    text = await (await page.query_selector("body")).inner_text()
+    html = await page.content()
+
+    name_to_usab = {}
+    for m in re.finditer(r'player\.aspx\?id=[^&]+&(?:amp;)?player=(\d+)"[^>]*>([^<]+)</a>', html):
+        t_id = m.group(1)
+        raw_name = re.sub(r"\s*\[\d+(?:/\d+)?\]", "", m.group(2).strip()).strip()
+        uid = ts_to_usab.get(t_id)
+        if uid and raw_name:
+            name_to_usab[raw_name] = uid
+
+    is_doubles = any(draw_name.startswith(x) for x in ("BD", "GD", "XD", "Doubles"))
+
+    matches_idx = text.find("Matches\nPlayed")
+    if matches_idx < 0:
+        matches_idx = text.rfind("Matches\n")
+    if matches_idx < 0:
+        return draw_name, []
+
+    match_text = text[matches_idx:]
+    blocks = match_text.split("H2H")
+    matches = []
+
+    for block in blocks[:-1]:
+        block = block.strip()
+        if not block or len(block) < 10:
+            continue
+
+        lines = [l.strip() for l in block.split("\n") if l.strip()]
+        round_name = None
+        time_str = None
+        is_walkover = "Walkover" in block
+        player_lines = []
+        w_index = None
+        score_nums = []
+
+        for line in lines:
+            clean = re.sub(r"\s*\[\d+(?:/\d+)?\]", "", line).strip()
+            rm = re.match(r"^(Round of \d+|Round \d+|Quarter final|Semi final|Final|Play-off|Consolation.*|3rd/4th place)", line, re.IGNORECASE)
+            if rm:
+                round_name = rm.group(1)
+                continue
+            if re.match(r"^(Mon|Tue|Wed|Thu|Fri|Sat|Sun) \d+/\d+/\d+ \d+:\d+ [AP]M", line):
+                time_str = line
+                continue
+            if re.match(r"^(Mon|Tue|Wed|Thu|Fri|Sat|Sun|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)", line):
+                continue
+            if clean in ("Walkover", "Bye", "", "Played", "Matches", "Retired", "W"):
+                if clean == "W":
+                    w_index = len(player_lines)
+                continue
+            if clean == "L":
+                w_index = -(len(player_lines))
+                continue
+            if re.match(r"^\d{1,2}$", clean):
+                score_nums.append(int(clean))
+                continue
+            if any(kw in clean for kw in ["Products", "Planner", "Helpdesk", "LiveScore", "Ranking", "CENTER", "Social", "Privacy", "Disclaimer", "Cookies", "Download"]):
+                continue
+            if re.match(r"^.+ - [A-Z]?\d", clean) or re.match(r"^.+ - [A-Z]$", clean):
+                continue
+            if len(clean) > 2 and clean[0].isupper() and not re.match(r"^\d", clean):
+                uid = name_to_usab.get(clean)
+                player_lines.append({"name": clean, "usab_id": uid})
+
+        game_scores = []
+        i = 0
+        while i < len(score_nums) - 1:
+            s1, s2 = score_nums[i], score_nums[i + 1]
+            if s1 <= 30 and s2 <= 30 and (s1 >= 11 or s2 >= 11):
+                game_scores.append([s1, s2])
+                i += 2
+            else:
+                i += 1
+
+        if not player_lines or (not game_scores and not is_walkover):
+            continue
+
+        ts = 2 if is_doubles else 1
+
+        # Handle L marker
+        if w_index is not None and w_index < 0:
+            l_pos = -w_index
+            if is_doubles:
+                w_index = 4 if l_pos <= 2 else 2
+            else:
+                w_index = 2 if l_pos <= 1 else 1
+
+        if w_index is not None and len(player_lines) >= ts * 2:
+            if is_doubles:
+                t1, t2 = player_lines[:2], player_lines[2:4]
+                winner = 1 if w_index == 2 else 2 if w_index >= 4 else None
+            else:
+                t1, t2 = [player_lines[0]], [player_lines[1]]
+                winner = 1 if w_index == 1 else 2 if w_index >= 2 else None
+        elif len(player_lines) >= ts * 2:
+            t1, t2 = player_lines[:ts], player_lines[ts:ts*2]
+            tw1 = sum(1 for s in game_scores if s[0] > s[1])
+            tw2 = sum(1 for s in game_scores if s[1] > s[0])
+            winner = 1 if tw1 > tw2 else 2 if tw2 > tw1 else None
+        else:
+            t1, t2 = player_lines[:ts], player_lines[ts:]
+            winner = 1 if is_walkover else None
+
+        if is_walkover and winner is None:
+            winner = 1
+
+        # Post-validation: trust scores over W marker
+        if game_scores and winner and not is_walkover:
+            tw1 = sum(1 for s in game_scores if s[0] > s[1])
+            tw2 = sum(1 for s in game_scores if s[1] > s[0])
+            sw = 1 if tw1 > tw2 else 2 if tw2 > tw1 else None
+            if sw and sw != winner:
+                winner = sw
+
+        event = draw_name.split(" - ")[0].strip()
+        bracket = "consolation" if round_name and "consolation" in round_name.lower() else "main"
+        matches.append({
+            "event": event, "round": round_name, "bracket": bracket,
+            "team1": t1, "team2": t2, "scores": game_scores,
+            "winner": winner, "walkover": is_walkover, "time": time_str,
+        })
+
+    return draw_name, matches
+
+
 async def scrape_tournament(browser, tid, name):
     out = DATA / "tournament_results" / tid.upper()
     out.mkdir(parents=True, exist_ok=True)
@@ -355,9 +490,70 @@ async def scrape_tournament(browser, tid, name):
             seen.add(key)
             deduped.append(m)
 
+    (out / "matches_player_page.json").write_text(json.dumps(deduped, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    # Phase 5: Scrape matches from draw pages (more reliable round labels)
+    draw_page = await browser.new_page()
+    # Accept cookies
+    try:
+        await draw_page.goto(f"{BASE}/sport/draws.aspx?id={tid}", wait_until="networkidle", timeout=30000)
+        await draw_page.click("button:has-text('Accept')", timeout=2000)
+        await asyncio.sleep(0.3)
+    except:
+        pass
+
+    draw_matches = []
+    for d in draws:
+        try:
+            dname, dmatches = await scrape_draw_matches(draw_page, tid, d["draw_id"], d["name"], ts_to_usab)
+            draw_matches.extend(dmatches)
+        except Exception as e:
+            pass  # Fall back to player-page matches for this draw
+
+    await draw_page.close()
+
+    # Merge: prefer draw-page matches (correct round labels), supplement with player-page matches
+    if draw_matches:
+        # Deduplicate draw matches
+        seen_draw = set()
+        draw_deduped = []
+        for m in draw_matches:
+            pids = tuple(sorted((p.get("usab_id") or p.get("name", "?")) for p in m["team1"] + m["team2"]))
+            skey = tuple(tuple(s) for s in m["scores"])
+            key = (m.get("event", ""), m.get("round") or "", pids, skey, m.get("walkover", False))
+            if key not in seen_draw:
+                seen_draw.add(key)
+                draw_deduped.append(m)
+
+        # Add bracket field if missing
+        for m in draw_deduped:
+            if "bracket" not in m:
+                rnd = (m.get("round") or "").lower()
+                m["bracket"] = "consolation" if "consolation" in rnd else "main"
+
+        # Use draw matches as primary, add player-page matches that aren't in draw data
+        # (player pages may have matches that draw pages missed, e.g., walkovers)
+        draw_player_sets = set()
+        for m in draw_deduped:
+            pids = frozenset((p.get("usab_id") or p.get("name", "?")) for p in m["team1"] + m["team2"])
+            draw_player_sets.add((m.get("event", ""), pids))
+
+        supplemental = []
+        for m in deduped:
+            pids = frozenset((p.get("usab_id") or p.get("name", "?")) for p in m["team1"] + m["team2"])
+            if (m.get("event", ""), pids) not in draw_player_sets:
+                supplemental.append(m)
+
+        final_matches = draw_deduped + supplemental
+        print(f"      Draw-page: {len(draw_deduped)} matches, supplemental from player-page: {len(supplemental)}")
+    else:
+        final_matches = deduped
+        print(f"      No draw-page matches, using {len(deduped)} player-page matches")
+
+    deduped = final_matches
     (out / "matches.json").write_text(json.dumps(deduped, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    # Phase 5: Bracket winners
+    # Phase 6: Bracket winners
     page = await browser.new_page()
     bracket_winners = {}
     for d in draws:
