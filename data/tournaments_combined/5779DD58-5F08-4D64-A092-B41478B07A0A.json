@@ -1,6 +1,6 @@
 {
   "tournament_id": "5779DD58-5F08-4D64-A092-B41478B07A0A",
-  "name": "2026 BINTANG NorCal OLC",
+  "name": "2025 YONEX U.S. JUNIOR NATIONAL CHAMPIONSHIPS",
   "dates": "Mar 13 to Mar 15",
   "venue": "Bintang Badminton",
   "players": {
@@ -4023,6 +4023,44 @@
       "time": "Sat 3/14/2026 9:15 AM"
     },
     {
+      "event": "BD U13",
+      "round": "Quarter final",
+      "bracket": "main",
+      "team1": [
+        {
+          "name": "Timmy Qinnuo Fan",
+          "usab_id": "479310"
+        },
+        {
+          "name": "Devaansh Mahato",
+          "usab_id": "487475"
+        }
+      ],
+      "team2": [
+        {
+          "name": "Atharva Abhijith",
+          "usab_id": "467829"
+        },
+        {
+          "name": "Aarav Biyani",
+          "usab_id": "467534"
+        }
+      ],
+      "scores": [
+        [
+          21,
+          15
+        ],
+        [
+          21,
+          9
+        ]
+      ],
+      "winner": 1,
+      "walkover": false,
+      "time": "Sat 3/14/2026 1:55 PM"
+    },
+    {
       "event": "BS U15",
       "round": "Round of 64",
       "bracket": "main",
@@ -6369,44 +6407,6 @@
       "winner": 1,
       "walkover": false,
       "time": null
-    },
-    {
-      "event": "BD U13",
-      "round": "Quarter final",
-      "bracket": "main",
-      "team1": [
-        {
-          "name": "Timmy Qinnuo Fan",
-          "usab_id": "479310"
-        },
-        {
-          "name": "Devaansh Mahato",
-          "usab_id": "487475"
-        }
-      ],
-      "team2": [
-        {
-          "name": "Atharva Abhijith",
-          "usab_id": "467829"
-        },
-        {
-          "name": "Aarav Biyani",
-          "usab_id": "467534"
-        }
-      ],
-      "scores": [
-        [
-          21,
-          15
-        ],
-        [
-          21,
-          9
-        ]
-      ],
-      "winner": 1,
-      "walkover": false,
-      "time": "Sat 3/14/2026 1:55 PM"
     },
     {
       "event": "BS U13",
