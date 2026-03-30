@@ -153,6 +153,8 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
     # SF losers without 3rd/4th match data: default to 3
     # (We may be missing the 3rd/4th match from player-page scraping.
     # This could be off by 1 position / ~24 pts for the actual 4th-place finisher.)
+    if deepest_main_loss_size == 4:  # Lost in semi-final
+        return 3
 
     # DOUBLE ELIMINATION: consolation only counts at JN for ranking positions.
     # At ORCs/OLCs/CRCs, consolation is just for extra games, not ranking.
@@ -212,43 +214,68 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
             # Non-JN: consolation doesn't count for ranking
             pass
 
-    # SINGLE ELIMINATION (no consolation): use main bracket loss round
-    if deepest_main_loss_size:
-        # Determine draw size from all event matches
-        check = all_event_matches if all_event_matches else matches
-        draw_size = 0
+    # SINGLE ELIMINATION: use wins-based formula (more robust than round labels,
+    # which can be unreliable from scraping).
+    # Determine draw size from all event matches
+    check = all_event_matches if all_event_matches else matches
+    draw_size = 0
+    for m in check:
+        if m.get("bracket") == "consolation":
+            continue
+        sz = round_to_size(m.get("round"))
+        if sz and sz > draw_size:
+            draw_size = sz
+
+    # If round names give a draw size, use it (it reflects the actual bracket structure).
+    # Only fall back to player count if no round names are available.
+    if draw_size == 0 and check:
+        all_players = set()
         for m in check:
             if m.get("bracket") == "consolation":
                 continue
-            sz = round_to_size(m.get("round"))
-            if sz and sz > draw_size:
-                draw_size = sz
+            for team in [m.get("team1", []), m.get("team2", [])]:
+                for p in team:
+                    if p.get("usab_id"):
+                        all_players.add(p["usab_id"])
+        if all_players:
+            # Round up to next power of 2
+            n = len(all_players)
+            draw_size = 1
+            while draw_size < n:
+                draw_size *= 2
 
-        # At JN (large draws 64-128), use wins-based formula to handle byes correctly.
-        # At ORC/OLC/CRC, use standard round-name formula (more reliable with partial data).
-        is_jn = tournament_type == "JN"
+    main_wins = sum(1 for m in main_matches if player_won(m, usab_id))
+    main_losses = sum(1 for m in main_matches if not player_won(m, usab_id))
 
-        if is_jn and draw_size > 0:
-            main_wins = sum(1 for m in main_matches
-                            if player_won(m, usab_id)
-                            and m.get("bracket") != "consolation")
-            divisor = 2 ** (main_wins + 1)
-            if divisor >= draw_size:
-                pos = 2
-            else:
-                pos = draw_size // divisor + 1
-        else:
-            # Standard: position = round_size / 2 + 1
+    # In single elimination, >1 main loss means some losses are actually consolation
+    # matches mislabeled as main. When this happens, count total matches (wins+losses)
+    # to infer how deep the player went: they must have won all but their final match
+    # in the main bracket. Total main matches = wins + 1 (the elimination loss).
+    # If player has only wins and no losses, their elimination match was not scraped;
+    # use wins to estimate position (they advanced at least this far).
+    if main_wins > 0 or main_losses > 0:
+        # Prefer deepest loss round label (handles byes correctly).
+        if deepest_main_loss_size:
             pos = deepest_main_loss_size // 2 + 1
-            # Adjust for first-round exit with bye in larger draw
-            if draw_size > deepest_main_loss_size:
-                main_wins = sum(1 for m in main_matches
-                                if player_won(m, usab_id)
-                                and m.get("bracket") != "consolation")
-                if main_wins == 0:
-                    pos = deepest_main_loss_size + 1
 
-        return pos
+            # If multiple losses (some mislabeled consolation), also estimate from
+            # total matches and take the better (lower) position.
+            if main_losses > 1 and draw_size > 0:
+                total_main = main_wins + main_losses
+                effective_wins = total_main - 1
+                divisor = 2 ** (effective_wins + 1)
+                alt_pos = 2 if divisor >= draw_size else draw_size // divisor + 1
+                pos = min(pos, alt_pos)
+
+            return pos
+
+        # No loss recorded (elimination match not scraped): estimate from wins
+        if draw_size > 0:
+            divisor = 2 ** (main_wins + 1)
+            pos = 2 if divisor >= draw_size else draw_size // divisor + 1
+            return pos
+
+        return None
 
     # Round robin: count wins to determine position
     rr_matches = [m for m in matches if m.get("round") and re.match(r"Round \d+$", m["round"])]
