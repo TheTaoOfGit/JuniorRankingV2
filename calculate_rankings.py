@@ -212,7 +212,6 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
                 return 9  # Won cons QF -> at least 9th (will play cons SF)
 
             # Use deepest loss, but if multiple losses, some are mislabeled.
-            # Take the better position from round label vs total wins.
             if deepest_cons_loss_size:
                 cons_pos_map = {
                     8: 9,     # Consolation QF loss -> 9-12
@@ -224,11 +223,9 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
                 }
                 pos_from_loss = cons_pos_map.get(deepest_cons_loss_size, deepest_cons_loss_size)
 
-                # If multiple cons losses, estimate from total matches
-                if cons_losses > 1:
-                    # Total cons matches = wins + 1 real loss
+                # If multiple cons losses AND some wins, estimate from total matches
+                if cons_losses > 1 and cons_wins > 0:
                     effective_cons_wins = cons_wins + cons_losses - 1
-                    # Map cons wins to position: 0->lost first cons, 1->lost second, etc.
                     wins_pos_map = {0: 33, 1: 17, 2: 9, 3: 7, 4: 5}
                     pos_from_wins = wins_pos_map.get(effective_cons_wins, 5)
                     return min(pos_from_loss, pos_from_wins)
@@ -291,25 +288,11 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
             return pos
 
         # No main loss recorded (elimination match not scraped).
-        # If player has consolation matches, they were eliminated from main bracket
-        # earlier than their wins suggest. Use consolation round to estimate:
-        # being in consolation means they lost in main, so position is worse than
-        # wins alone would indicate.
-        if consolation_matches and draw_size > 0:
-            # Player lost in main (unscraped) and entered consolation.
-            # Conservatively use wins-based estimate but cap at draw_size/2+1
-            # (they can't be better than the round after their first win).
-            divisor = 2 ** (main_wins + 1)
-            pos = 2 if divisor >= draw_size else draw_size // divisor + 1
-            # But since they entered consolation, they must have lost.
-            # If wins=1 in a 64-draw, wins-based gives 17, but they could be 33-64
-            # if their "win" is mislabeled. Be conservative: use draw_size / 2^wins + 1
-            cons_divisor = 2 ** main_wins
-            cons_pos = 2 if cons_divisor >= draw_size else draw_size // cons_divisor + 1
-            return max(pos, cons_pos)  # Take worse (higher) position
-
+        # Conservative estimate: assume player lost in the round after their last win.
+        # With W wins, they advanced W rounds from the first round.
+        # Position = draw_size / 2^W + 1
         if draw_size > 0:
-            divisor = 2 ** (main_wins + 1)
+            divisor = 2 ** main_wins
             pos = 2 if divisor >= draw_size else draw_size // divisor + 1
             return pos
 
