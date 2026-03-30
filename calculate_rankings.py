@@ -447,7 +447,8 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
 
     def is_age_eligible(usab_id):
         """Check if player is eligible for this age group (born min_birth_year or later)."""
-        by = birth_years.get(usab_id, {})
+        norm_id = usab_id.lstrip("0") or usab_id
+        by = birth_years.get(norm_id, birth_years.get(usab_id, {}))
         yob = by.get("yob_inferred")
         if yob is None:
             return True  # If we don't know, include them
@@ -501,8 +502,9 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
 
         # Collect player names from tournament player list
         for uid, pinfo in t.get("players", {}).items():
-            if pinfo.get("name") and uid not in player_names:
-                player_names[uid] = pinfo["name"]
+            norm_uid = uid.lstrip("0") or uid  # Normalize leading zeros
+            if pinfo.get("name") and norm_uid not in player_names:
+                player_names[norm_uid] = pinfo["name"]
 
         player_best_at_tournament = {}  # usab_id -> best (position, points, event)
 
@@ -512,15 +514,16 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
             if not matches:
                 continue
 
-            # Group matches by player
+            # Group matches by player (normalize leading zeros in USAB IDs)
             player_matches = defaultdict(list)
             for m in matches:
                 for p in (m.get("team1", []) + m.get("team2", [])):
                     uid = p.get("usab_id")
                     if uid:
-                        player_matches[uid].append(m)
-                        if p.get("name") and uid not in player_names:
-                            player_names[uid] = p["name"]
+                        norm_uid = uid.lstrip("0") or uid
+                        player_matches[norm_uid].append(m)
+                        if p.get("name") and norm_uid not in player_names:
+                            player_names[norm_uid] = p["name"]
 
             for uid, pmatches in player_matches.items():
                 if not is_age_eligible(uid):
