@@ -15,7 +15,7 @@ from playwright.async_api import async_playwright
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
 BASE = "https://www.tournamentsoftware.com"
 DATA = Path("data")
-CONCURRENCY = 12  # parallel tabs
+CONCURRENCY = 24  # parallel tabs
 
 
 def get_tournament_list():
@@ -179,6 +179,23 @@ def parse_player_page_text(text, html, name_to_usab, ts_to_usab):
             winner = 1 if tw1 > tw2 else 2 if tw2 > tw1 else None
 
         bracket = "consolation" if round_name and "consolation" in round_name.lower() else "main"
+
+        # Ensure the page owner is in one of the teams (they may not appear as a named line on their own page)
+        if usab_id and pname:
+            owner_in_t1 = any(p.get("usab_id") == usab_id or p.get("name") == pname for p in t1)
+            owner_in_t2 = any(p.get("usab_id") == usab_id or p.get("name") == pname for p in t2)
+            if not owner_in_t1 and not owner_in_t2:
+                owner_entry = {"name": pname, "usab_id": usab_id}
+                if len(t1) < ts:
+                    t1.insert(0, owner_entry)
+                elif not t2:
+                    # Owner is likely team2 opponent of team1; put owner as team2 and swap
+                    # Actually on player pages, the page owner is always listed first (team1)
+                    # If team1 is full of other players, owner must be on team2 side
+                    t2 = [owner_entry]
+                else:
+                    t1.insert(0, owner_entry)
+
         matches.append({
             "event": event, "round": round_name, "bracket": bracket,
             "team1": t1, "team2": t2, "scores": game_scores,
@@ -300,6 +317,32 @@ async def scrape_tournament(browser, tid, name):
                     clean = re.sub(r"\s*\[\d+(?:/\d+)?\]", "", p["name"]).strip()
                     if clean in name_to_usab:
                         p["usab_id"] = name_to_usab[clean]
+
+    # Merge incomplete matches: fill empty team1/team2 from other copies of the same match
+    # Group by (event, round, scores) to find matches that are the same but from different player pages
+    from collections import defaultdict as _dd
+    merge_groups = _dd(list)
+    for m in all_matches:
+        skey = tuple(tuple(s) for s in m["scores"])
+        # Use non-empty team's player IDs as part of the key
+        t1_ids = tuple(sorted(p.get("usab_id") or p.get("name", "?") for p in m["team1"]))
+        t2_ids = tuple(sorted(p.get("usab_id") or p.get("name", "?") for p in m["team2"]))
+        # For incomplete matches, the key should match based on the team that IS present
+        gkey = (m["event"], m.get("round") or "", skey)
+        merge_groups[gkey].append(m)
+
+    for gkey, matches in merge_groups.items():
+        # Find a match with the most complete team data to use as source
+        for m in matches:
+            if not m["team1"] or not m["team2"]:
+                # Try to fill from other matches in the same group
+                for other in matches:
+                    if other is m:
+                        continue
+                    if not m["team1"] and other["team1"]:
+                        m["team1"] = other["team1"]
+                    if not m["team2"] and other["team2"]:
+                        m["team2"] = other["team2"]
 
     # Deduplicate
     seen = set()
