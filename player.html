@@ -421,9 +421,17 @@ function generateSummary(profile, by, allTournaments, usabId, nameVariations) {
 
   const name = profile.name || [...nameVariations][0] || 'This player';
   const firstName = name.split(' ')[0];
-  const gender = profile.gender === 'F' ? 'she' : 'he';
-  const Gender = profile.gender === 'F' ? 'She' : 'He';
-  const possessive = profile.gender === 'F' ? 'her' : 'his';
+  // Determine gender: from profile, birth years, or infer from events
+  let genderCode = profile.gender || by?.gender;
+  if (!genderCode) {
+    // Infer from event participation: GS/GD = F, BS/BD = M
+    const allEvents = allTournaments.flatMap(t => t.playerMatches.map(m => m.event || ''));
+    if (allEvents.some(e => e.startsWith('GS') || e.startsWith('GD'))) genderCode = 'F';
+    else if (allEvents.some(e => e.startsWith('BS') || e.startsWith('BD'))) genderCode = 'M';
+  }
+  const gender = genderCode === 'F' ? 'she' : 'he';
+  const Gender = genderCode === 'F' ? 'She' : 'He';
+  const possessive = genderCode === 'F' ? 'her' : 'his';
   const yob = by?.yob_inferred;
 
   // Compute stats
