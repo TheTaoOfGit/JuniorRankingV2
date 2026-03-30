@@ -164,11 +164,19 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
         lost_cons_final = False
         won_cons_semi = False
         lost_cons_semi = False
+        won_cons_qf = False
+        lost_cons_qf = False
         deepest_cons_loss_size = None
+        cons_wins = 0
+        cons_losses = 0
 
         for m in consolation_matches:
             rnd = (m.get("round") or "").lower()
             won = player_won(m, usab_id)
+            if won:
+                cons_wins += 1
+            else:
+                cons_losses += 1
 
             if "final" in rnd and "semi" not in rnd and "quarter" not in rnd:
                 if won: won_cons_final = True
@@ -176,28 +184,35 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
             elif "semi" in rnd:
                 if won: won_cons_semi = True
                 elif not won: lost_cons_semi = True
+            elif "quarter" in rnd:
+                if won: won_cons_qf = True
+                else: lost_cons_qf = True
             elif not won:
                 sz = round_to_size(rnd)
                 if sz and (deepest_cons_loss_size is None or sz < deepest_cons_loss_size):
                     deepest_cons_loss_size = sz
 
         # Check if main bracket has a 3rd/4th playoff
-        # If yes -> this is full double elimination (JN style)
-        #   Main final decides 1st/2nd, 3rd/4th playoff decides 3rd/4th
-        #   Consolation decides 5th+ (won cons final=5, lost cons final=6, lost cons SF=7-8)
-        # If no -> consolation decides 3rd+ (won cons final=3, lost cons final=4, etc.)
-        # Check ALL event matches (not just this player's) for 3rd/4th playoff
         check_pool = all_event_matches if all_event_matches else matches
         has_3rd_4th_playoff = any("3rd/4th" in (m.get("round") or "") for m in check_pool if m.get("bracket") != "consolation")
 
         if has_3rd_4th_playoff:
             # JN-style: main bracket covers 1-4, consolation covers 5+
+            # Use the best (deepest) round reached, handling mislabeled rounds
+            # by checking both explicit round flags and total wins.
             if won_cons_final:
                 return 5
             if lost_cons_final:
                 return 6
+            if won_cons_semi:
+                return 5
             if lost_cons_semi:
                 return 7  # 7-8
+            if won_cons_qf:
+                return 9  # Won cons QF -> at least 9th (will play cons SF)
+
+            # Use deepest loss, but if multiple losses, some are mislabeled.
+            # Take the better position from round label vs total wins.
             if deepest_cons_loss_size:
                 cons_pos_map = {
                     8: 9,     # Consolation QF loss -> 9-12
@@ -207,9 +222,21 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
                     128: 33,  # Consolation R128 loss -> 33-48
                     256: 49,  # Consolation R256 loss -> 49-64
                 }
-                return cons_pos_map.get(deepest_cons_loss_size, deepest_cons_loss_size)
-            if won_cons_semi:
-                return 5
+                pos_from_loss = cons_pos_map.get(deepest_cons_loss_size, deepest_cons_loss_size)
+
+                # If multiple cons losses, estimate from total matches
+                if cons_losses > 1:
+                    # Total cons matches = wins + 1 real loss
+                    effective_cons_wins = cons_wins + cons_losses - 1
+                    # Map cons wins to position: 0->lost first cons, 1->lost second, etc.
+                    wins_pos_map = {0: 33, 1: 17, 2: 9, 3: 7, 4: 5}
+                    pos_from_wins = wins_pos_map.get(effective_cons_wins, 5)
+                    return min(pos_from_loss, pos_from_wins)
+
+                return pos_from_loss
+
+            if lost_cons_qf:
+                return 9  # 9-12
         else:
             # Non-JN: consolation doesn't count for ranking
             pass
