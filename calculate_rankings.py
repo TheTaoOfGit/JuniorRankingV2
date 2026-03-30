@@ -285,14 +285,8 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
         if deepest_main_loss_size:
             pos = deepest_main_loss_size // 2 + 1
 
-            # If multiple losses (some mislabeled consolation), also estimate from
-            # total matches and take the better (lower) position.
-            if main_losses > 1 and draw_size > 0:
-                total_main = main_wins + main_losses
-                effective_wins = total_main - 1
-                divisor = 2 ** (effective_wins + 1)
-                alt_pos = 2 if divisor >= draw_size else draw_size // divisor + 1
-                pos = min(pos, alt_pos)
+            # If multiple losses, some are mislabeled consolation or duplicates.
+            # The deepest loss round label is the most reliable indicator — just use it.
 
             return pos
 
