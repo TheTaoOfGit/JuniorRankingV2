@@ -269,7 +269,24 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
 
             return pos
 
-        # No loss recorded (elimination match not scraped): estimate from wins
+        # No main loss recorded (elimination match not scraped).
+        # If player has consolation matches, they were eliminated from main bracket
+        # earlier than their wins suggest. Use consolation round to estimate:
+        # being in consolation means they lost in main, so position is worse than
+        # wins alone would indicate.
+        if consolation_matches and draw_size > 0:
+            # Player lost in main (unscraped) and entered consolation.
+            # Conservatively use wins-based estimate but cap at draw_size/2+1
+            # (they can't be better than the round after their first win).
+            divisor = 2 ** (main_wins + 1)
+            pos = 2 if divisor >= draw_size else draw_size // divisor + 1
+            # But since they entered consolation, they must have lost.
+            # If wins=1 in a 64-draw, wins-based gives 17, but they could be 33-64
+            # if their "win" is mislabeled. Be conservative: use draw_size / 2^wins + 1
+            cons_divisor = 2 ** main_wins
+            cons_pos = 2 if cons_divisor >= draw_size else draw_size // cons_divisor + 1
+            return max(pos, cons_pos)  # Take worse (higher) position
+
         if draw_size > 0:
             divisor = 2 ** (main_wins + 1)
             pos = 2 if divisor >= draw_size else draw_size // divisor + 1
