@@ -283,14 +283,12 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
         if deepest_main_loss_size:
             pos_from_round = deepest_main_loss_size // 2 + 1
 
-            # Handle byes: if player had 0 wins but lost in a round deeper than
-            # the first round (e.g., lost in R16 of a 32-draw with a bye),
-            # they effectively lost their first match. Use wins-based position.
-            if main_wins == 0 and draw_size > 0:
-                # With 0 wins, position = draw_size / 2^0 + 1 = draw_size + 1
-                # But that's too conservative. Use draw_size/2 + 1 (first-round exit).
+            # Handle byes: if player had exactly 0 wins and 1 loss, and lost in a
+            # round deeper than the first round (e.g., lost in R16 of a 32-draw),
+            # they had a bye and lost their first real match. Use first-round-exit position.
+            # Only apply when exactly 1 loss — multiple losses means mislabeled consolation.
+            if main_wins == 0 and main_losses == 1 and draw_size > 0 and deepest_main_loss_size < draw_size:
                 pos_from_wins = draw_size // 2 + 1
-                # Take the worse (higher) position — the round label is inflated by bye
                 return max(pos_from_round, pos_from_wins)
 
             return pos_from_round
