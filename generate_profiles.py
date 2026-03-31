@@ -112,7 +112,19 @@ def build_player_data():
                     if p.get("usab_id") == uid and m.get("winner") == wn
                 )
                 l = match_count - w
-                player_tournaments[uid].append(f"{tdates:<20} {tname[:45]} {w}W-{l}L")
+                # Extract sort date from tournament dates or name
+                import re as _re
+                sort_date = ""
+                dm = _re.match(r"(\d{1,2})/(\d{1,2})/(\d{2,4})", tdates or "")
+                if dm:
+                    yr = dm.group(3)
+                    yr = ("20" + yr) if len(yr) == 2 else yr
+                    sort_date = f"{yr}-{dm.group(1).zfill(2)}-{dm.group(2).zfill(2)}"
+                else:
+                    ym = _re.search(r"(20\d{2})", tname)
+                    if ym:
+                        sort_date = ym.group(1) + "-01-01"
+                player_tournaments[uid].append((sort_date, f"{tdates:<20} {tname[:45]} {w}W-{l}L"))
 
     # Load progression data
     prog_dir = DATA / "profiles_combined"
@@ -162,7 +174,7 @@ def build_player_data():
             "rankings": player_rankings.get(uid, []),
             "career": f"{len(player_tournaments.get(uid, []))} tournaments, {w}-{l} ({round(100*w/total)}%)" if total else "",
             "progression": player_progression.get(uid, []),
-            "recent": player_tournaments.get(uid, [])[-10:],
+            "recent": [t[1] for t in sorted(player_tournaments.get(uid, []), key=lambda x: x[0], reverse=True)][:10],
             "titles": player_finals_won.get(uid, []),
             "runner_ups": player_finals_lost.get(uid, []),
             "partners": [f"{n} ({c} matches)" for n, c in top_partners],
