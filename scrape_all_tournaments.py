@@ -321,13 +321,17 @@ async def scrape_draw_matches(page, tid, draw_id, draw_name, ts_to_usab):
         if is_walkover and winner is None:
             winner = 1
 
-        # Post-validation: trust scores over W marker
-        if game_scores and winner and not is_walkover:
+        # On draw pages, scores are listed as [winner_score, loser_score].
+        # Reorient to [team1_score, team2_score] format.
+        # If winner is team2, the raw scores are [team2_score, team1_score] -> flip.
+        if game_scores and winner == 2:
+            game_scores = [[s[1], s[0]] for s in game_scores]
+
+        # If no W marker was found, use scores to determine winner
+        if winner is None and game_scores and not is_walkover:
             tw1 = sum(1 for s in game_scores if s[0] > s[1])
             tw2 = sum(1 for s in game_scores if s[1] > s[0])
-            sw = 1 if tw1 > tw2 else 2 if tw2 > tw1 else None
-            if sw and sw != winner:
-                winner = sw
+            winner = 1 if tw1 > tw2 else 2 if tw2 > tw1 else None
 
         event = draw_name.split(" - ")[0].strip()
         bracket = "consolation" if round_name and "consolation" in round_name.lower() else "main"

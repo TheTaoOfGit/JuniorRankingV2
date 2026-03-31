@@ -102,6 +102,7 @@ async def main():
         except:
             pass
 
+        done = 0
         for i, tid in enumerate(tids, 1):
             tourn_path = DATA / "tournament_results" / tid / "tournament.json"
             if not tourn_path.exists():
@@ -111,13 +112,15 @@ async def main():
 
             try:
                 result = await rescrape_tournament_draws(page, tid)
+                done += 1
                 if result:
                     draw_count, supp_count = result
-                    print(f"[{i}/{len(tids)}] {name}: {draw_count} draw + {supp_count} supp", flush=True)
+                    print(f"[{done}/{len(tids)}] {name}: {draw_count} draw + {supp_count} supp", flush=True)
                 else:
-                    print(f"[{i}/{len(tids)}] {name}: skipped", flush=True)
+                    print(f"[{done}/{len(tids)}] {name}: skipped", flush=True)
             except Exception as e:
-                print(f"[{i}/{len(tids)}] {name}: ERROR {str(e)[:60]}", flush=True)
+                done += 1
+                print(f"[{done}/{len(tids)}] {name}: ERROR {str(e)[:60]}", flush=True)
 
         await browser.close()
 
