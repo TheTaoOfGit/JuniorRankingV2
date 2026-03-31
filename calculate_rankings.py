@@ -105,9 +105,16 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
     # Detect round robin format early: matches named "Round 1", "Round 2", etc.
     rr_matches = [m for m in matches if m.get("round") and re.match(r"Round \d+$", m["round"])]
     if rr_matches and len(rr_matches) == len(matches):
-        # Pure round robin event: position = total + 1 - wins
-        wins = sum(1 for m in rr_matches if player_won(m, usab_id))
-        total = len(rr_matches)
+        # Deduplicate RR matches (remove 3-person team duplicates)
+        seen_rounds = set()
+        unique_rr = []
+        for m in rr_matches:
+            rnd = m.get("round", "")
+            if rnd not in seen_rounds:
+                seen_rounds.add(rnd)
+                unique_rr.append(m)
+        wins = sum(1 for m in unique_rr if player_won(m, usab_id))
+        total = len(unique_rr)
         return max(1, total + 1 - wins)
 
     main_matches = [m for m in matches if m.get("bracket") != "consolation"]
