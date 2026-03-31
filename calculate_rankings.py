@@ -495,6 +495,12 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
     player_results = defaultdict(list)  # usab_id -> [(tournament_name, type, position, points)]
     player_names = {}  # usab_id -> name (from match data, fallback for Unknown)
 
+    # Load bracket-verified 3rd/4th positions (from reliable elimination brackets only)
+    bracket_3_4_path = DATA / "bracket_positions_3_4.json"
+    bracket_3_4 = {}
+    if bracket_3_4_path.exists():
+        bracket_3_4 = json.loads(bracket_3_4_path.read_text(encoding="utf-8"))
+
     for et in eligible_tournaments:
         t = json.loads(et["path"].read_text(encoding="utf-8"))
 
@@ -504,6 +510,9 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
             if pinfo.get("name") and norm_uid not in player_names:
                 player_names[norm_uid] = pinfo["name"]
 
+        # 3rd/4th bracket positions for this tournament
+        tid_3_4 = bracket_3_4.get(et["tid"], {})
+
         player_best_at_tournament = {}  # usab_id -> best (position, points, event)
 
         for event_name in event_names_all:
@@ -511,6 +520,8 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
 
             if not matches:
                 continue
+
+            event_3_4 = tid_3_4.get(event_name, {})
 
             # Group matches by player (normalize leading zeros in USAB IDs)
             player_matches = defaultdict(list)
@@ -527,6 +538,9 @@ def calculate_rankings(discipline, age_group, cutoff_date_str, top_n=4):
                 if not is_age_eligible(uid):
                     continue
                 position = determine_finish_position(pmatches, uid, is_doubles, all_event_matches=matches, tournament_type=et["type"])
+                # Override with bracket-verified 3rd/4th if match-based gave 3 or 4
+                if position in (3, 4) and uid in event_3_4:
+                    position = event_3_4[uid]
                 if position:
                     event_ag = event_name.split()[-1]  # "GS U11" -> "U11"
                     pts = lookup_points(points_table, event_ag, et["type"], position)

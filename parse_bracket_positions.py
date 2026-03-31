@@ -47,8 +47,10 @@ def parse_bracket_positions(tid, draw_id, draw_name, ts_to_usab):
         if "Winner" not in col_map:
             continue
 
-        # Determine if this is a playoff table (small, just Finals + Winner)
-        is_playoff = len(col_map) <= 3
+        # Determine if this is a 3rd/4th playoff table using <caption>
+        caption = table.find("caption")
+        caption_text = caption.get_text(strip=True) if caption else ""
+        is_playoff = "3/4" in caption_text or "3-4" in caption_text or "3rd" in caption_text
 
         # Build grid with rowspan handling
         rows = table.find_all("tr")
