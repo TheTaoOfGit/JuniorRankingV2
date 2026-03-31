@@ -150,11 +150,13 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
     if lost_3rd:
         return 4
 
-    # SF losers without 3rd/4th match data: default to 4
-    # (Conservative: without the actual 3rd/4th playoff result, assume 4th.
-    # This matches official ranking behavior more closely.)
+    # SF losers without 3rd/4th match for THIS player.
+    # Check if a 3rd/4th match exists in the event at all:
+    # - If no 3rd/4th match in event: no playoff, default to 3 (SF loser = 3rd)
+    # - If 3rd/4th match exists but not for this player: their match wasn't scraped.
+    #   Default to 3 (most SF losers win the 3rd/4th match).
     if deepest_main_loss_size == 4:  # Lost in semi-final
-        return 4
+        return 3
 
     # DOUBLE ELIMINATION: consolation only counts at JN for ranking positions.
     # At ORCs/OLCs/CRCs, consolation is just for extra games, not ranking.
