@@ -102,19 +102,20 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
         on_t1 = player_in_team(m.get("team1"), uid)
         return (on_t1 and m.get("winner") == 1) or (not on_t1 and m.get("winner") == 2)
 
-    # Detect round robin format early: matches named "Round 1", "Round 2", etc.
-    rr_matches = [m for m in matches if m.get("round") and re.match(r"Round \d+$", m["round"])]
-    if rr_matches and len(rr_matches) == len(matches):
-        # Deduplicate RR matches (remove 3-person team duplicates)
+    # Detect "Round N" format (elimination rounds with numeric names, common in doubles).
+    # Use simple wins-based ranking since round_to_size can't parse these.
+    round_n_matches = [m for m in matches if m.get("round") and re.match(r"Round \d+$", m["round"])]
+    if round_n_matches and len(round_n_matches) == len(matches):
+        # Deduplicate by round (remove 3-person team duplicates)
         seen_rounds = set()
-        unique_rr = []
-        for m in rr_matches:
+        unique = []
+        for m in round_n_matches:
             rnd = m.get("round", "")
             if rnd not in seen_rounds:
                 seen_rounds.add(rnd)
-                unique_rr.append(m)
-        wins = sum(1 for m in unique_rr if player_won(m, usab_id))
-        total = len(unique_rr)
+                unique.append(m)
+        wins = sum(1 for m in unique if player_won(m, usab_id))
+        total = len(unique)
         return max(1, total + 1 - wins)
 
     main_matches = [m for m in matches if m.get("bracket") != "consolation"]
@@ -319,13 +320,6 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
 
         return None
 
-    # Round robin: count wins to determine position
-    rr_matches = [m for m in matches if m.get("round") and re.match(r"Round \d+$", m["round"])]
-    if rr_matches:
-        wins = sum(1 for m in rr_matches if player_won(m, usab_id))
-        total = len(rr_matches)
-        # Approximate: more wins = better position
-        return max(1, total + 1 - wins)
 
     return None
 
