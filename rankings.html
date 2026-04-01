@@ -209,8 +209,14 @@ async function showRanking() {
   const key = `${currentDisc}_${currentAG}`;
   const rankings = currentData[key] || [];
 
-  const offKey = `${currentMonth}_${key}`;
-  const offData = window._officialCache?.[currentMonth]?.[offKey];
+  // Try exact match first, then nearby dates (official dates may differ by a few days)
+  let offData = window._officialCache?.[currentMonth]?.[`${currentMonth}_${key}`];
+  if (!offData) {
+    // Try all keys that match this discipline/age group
+    const cache = window._officialCache?.[currentMonth] || {};
+    const candidates = Object.keys(cache).filter(k => k.endsWith(`_${key}`)).sort().reverse();
+    if (candidates.length) offData = cache[candidates[0]];
+  }
   officialMap = {};
   if (offData?.rankings) {
     offData.rankings.forEach(r => officialMap[r.usab_id] = r.ranking_points);
