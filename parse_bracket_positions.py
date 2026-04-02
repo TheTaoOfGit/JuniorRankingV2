@@ -27,8 +27,11 @@ def parse_bracket_positions(tid, draw_id, draw_name, ts_to_usab):
         if not header_row:
             continue
         headers = [td.get_text(strip=True) for td in header_row.find_all(["td", "th"])]
-        if not any("Winner" in h for h in headers):
-            continue
+
+        # Determine if this is a 3rd/4th playoff table using <caption>
+        caption = table.find("caption")
+        caption_text = caption.get_text(strip=True) if caption else ""
+        is_playoff = "3/4" in caption_text or "3-4" in caption_text or "3rd" in caption_text
 
         # Map column names to indices
         col_map = {}
@@ -44,13 +47,14 @@ def parse_bracket_positions(tid, draw_id, draw_name, ts_to_usab):
             elif re.match(r"Round \d+$|Round of \d+$", h):
                 col_map[h] = i
 
+        # For playoff tables without 'Winner' header, use last column as winner
+        if "Winner" not in col_map and is_playoff and len(headers) >= 2:
+            col_map["Winner"] = len(headers) - 1
+            if len(headers) >= 3:
+                col_map["Finals"] = len(headers) - 2
+
         if "Winner" not in col_map:
             continue
-
-        # Determine if this is a 3rd/4th playoff table using <caption>
-        caption = table.find("caption")
-        caption_text = caption.get_text(strip=True) if caption else ""
-        is_playoff = "3/4" in caption_text or "3-4" in caption_text or "3rd" in caption_text
 
         # Build grid with rowspan handling
         rows = table.find_all("tr")
