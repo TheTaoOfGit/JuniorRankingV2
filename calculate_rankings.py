@@ -252,6 +252,14 @@ def determine_finish_position(matches, usab_id, is_doubles=False, all_event_matc
 
             if lost_cons_qf:
                 return 9  # 9-12
+
+            # No cons loss recorded but player has cons wins = still in consolation.
+            # Use cons wins to estimate position (they advanced at least this far).
+            if cons_wins > 0 and cons_losses == 0:
+                # Map cons wins to best possible position
+                # More cons wins = deeper in bracket = better position
+                cons_wins_pos = {1: 25, 2: 17, 3: 13, 4: 9, 5: 7, 6: 6, 7: 5}
+                return cons_wins_pos.get(cons_wins, 5 if cons_wins >= 7 else 33)
         else:
             # Non-JN: consolation doesn't count for ranking
             pass
